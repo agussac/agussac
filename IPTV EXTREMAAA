@@ -1,0 +1,2496 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Testador IPTV", Gerado por AGUSTIN ACOSTA
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", AZCORAZON
+http://ipeteve.com/php/SR_REGIO_994005001/regio22.php?c=azcorazon&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", A&E
+http://ipeteve.com/php/SR_REGIO_994005001/regio22.php?c=ae&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", AXN
+http://ipeteve.com/php/SR_REGIO_994005001/regio22.php?c=axn&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", COMEDY CENTRAL
+http://ipeteve.com/php/SR_REGIO_994005001/regio22.php?c=comedy&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", E!
+http://ipeteve.com/php/SR_REGIO_994005001/regio22.php?c=e&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", FX
+http://ipeteve.com/php/SR_REGIO_994005001/regio22.php?c=fx&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", DISCOVERY ID
+http://ipeteve.com/php/SR_REGIO_994005001/regio22.php?c=id&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", LIFETIME
+http://ipeteve.com/php/SR_REGIO_994005001/regio22.php?c=lifetime&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", PASIONES
+http://ipeteve.com/php/SR_REGIO_994005001/regio22.php?c=pasiones&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", SONY
+http://ipeteve.com/php/SR_REGIO_994005001/regio22.php?c=sony&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", TBS
+http://ipeteve.com/php/SR_REGIO_994005001/regio22.php?c=tbs&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", TLC
+http://ipeteve.com/php/SR_REGIO_994005001/regio22.php?c=tlc&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", TLNOVELAS
+http://ipeteve.com/php/SR_REGIO_994005001/regio22.php?c=tlnovelas&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", TNT SERIES
+http://ipeteve.com/php/SR_REGIO_994005001/regio22.php?c=tntseries&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", TRUTV
+http://ipeteve.com/php/SR_REGIO_994005001/regio22.php?c=trutv&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", UNIVERSAL
+http://ipeteve.com/php/SR_REGIO_994005001/regio22.php?c=universal&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", WARNER
+http://ipeteve.com/php/SR_REGIO_994005001/regio22.php?c=warner&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", AZ CINEMA
+http://ipeteve.com/php/SR_REGIO_994005001/regio22.php?c=azcinema&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", AMC
+http://ipeteve.com/php/SR_REGIO_994005001/regio22.php?c=amc&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", CINECANAL
+http://ipeteve.com/php/SR_REGIO_994005001/regio22.php?c=cinecanal&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", CINEMAX
+http://ipeteve.com/php/SR_REGIO_994005001/regio22.php?c=cinemax&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", CINE LATINO
+http://ipeteve.com/php/SR_REGIO_994005001/regio22.php?c=cinelatino&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", CINE LATINO HD
+http://ipeteve.com/php/SR_REGIO_994005001/regio22.php?c=cinelatinohd&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", DE PELICULA
+http://ipeteve.com/php/SR_REGIO_994005001/regio22.php?c=dpelicula&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", DE PELICULA PLUS
+http://ipeteve.com/php/SR_REGIO_994005001/regio22.php?c=dpeliculaplus&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", EUROPA
+http://ipeteve.com/php/SR_REGIO_994005001/regio22.php?c=europa&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", FXM
+http://ipeteve.com/php/SR_REGIO_994005001/regio22.php?c=fxm&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", GOLDEN
+http://ipeteve.com/php/SR_REGIO_994005001/regio22.php?c=golden&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", GOLDEN EDGE
+http://ipeteve.com/php/SR_REGIO_994005001/regio22.php?c=edge&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", GOLDEN PLUS
+http://ipeteve.com/php/SR_REGIO_994005001/regio22.php?c=goldenplus&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", GOLDEN PREMIER
+http://ipeteve.com/php/SR_REGIO_994005001/regio22.php?c=goldenp&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", HBO
+http://ipeteve.com/php/SR_REGIO_994005001/regio22.php?c=hboes&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", HBO 2
+http://ipeteve.com/php/SR_REGIO_994005001/regio22.php?c=hbo2&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", HBO PLUS
+http://ipeteve.com/php/SR_REGIO_994005001/regio22.php?c=hboplus&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", HBO FAMILY
+http://ipeteve.com/php/SR_REGIO_994005001/regio22.php?c=hbofamily&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", HBO POP
+http://ipeteve.com/php/SR_REGIO_994005001/regio22.php?c=hbopop&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", HBO SIGNATURE
+http://ipeteve.com/php/SR_REGIO_994005001/regio22.php?c=hbosignature&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", HBO XTREME
+http://ipeteve.com/php/SR_REGIO_994005001/regio22.php?c=hboxtreme&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", I SAT
+http://ipeteve.com/php/SR_REGIO_994005001/regio22.php?c=isat&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", MORBIDO
+http://ipeteve.com/php/SR_REGIO_994005001/regio22.php?c=morbido&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", MULTI CINEMA
+http://ipeteve.com/php/SR_REGIO_994005001/regio22.php?c=mc&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", MULTI PREMIER
+http://ipeteve.com/php/SR_REGIO_994005001/regio22.php?c=mp&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", PARAMOUNT CHANNEL
+http://ipeteve.com/php/SR_REGIO_994005001/regio22.php?c=paramount&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", SPACE
+http://ipeteve.com/php/SR_REGIO_994005001/regio22.php?c=space&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", STAR CHANNEL
+http://ipeteve.com/php/SR_REGIO_994005001/regio22.php?c=starch&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", STAR ACTION
+http://ipeteve.com/php/SR_REGIO_994005001/regio22.php?c=staraction&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", STAR CINEMA
+http://ipeteve.com/php/SR_REGIO_994005001/regio22.php?c=starcinema&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", STAR CLASSICS
+http://ipeteve.com/php/SR_REGIO_994005001/regio22.php?c=starclassics&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", STAR COMEDY
+http://ipeteve.com/php/SR_REGIO_994005001/regio22.php?c=starcomedy&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", STAR FUN
+http://ipeteve.com/php/SR_REGIO_994005001/regio22.php?c=starfun&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", STAR HITS
+http://ipeteve.com/php/SR_REGIO_994005001/regio22.php?c=starhits&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", STAR SERIES
+http://ipeteve.com/php/SR_REGIO_994005001/regio22.php?c=starseries&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", STUDIO UNIVERSAL
+http://ipeteve.com/php/SR_REGIO_994005001/regio22.php?c=studiou&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", SYFY
+http://ipeteve.com/php/SR_REGIO_994005001/regio22.php?c=syfy-1&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", TCM
+http://ipeteve.com/php/SR_REGIO_994005001/regio22.php?c=tcm&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", TNT
+http://ipeteve.com/php/SR_REGIO_994005001/regio22.php?c=tnt&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", AZ MUNDO
+http://ipeteve.com/php/SR_REGIO_994005001/regio22.php?c=azmundo&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", ANIMAL PLANET
+http://ipeteve.com/php/SR_REGIO_994005001/regio22.php?c=animalp&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", DISCOVERY CHANNEL
+http://ipeteve.com/php/SR_REGIO_994005001/regio22.php?c=discovery&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", DISCOVERY SCIENCE
+http://ipeteve.com/php/SR_REGIO_994005001/regio22.php?c=dciencia&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", DISCOVERY CIVILIZATION
+http://ipeteve.com/php/SR_REGIO_994005001/regio22.php?c=dcivil&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", DISCOVERY THEATER
+http://ipeteve.com/php/SR_REGIO_994005001/regio22.php?c=dtheater&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", DISCOVERY TURBO
+http://ipeteve.com/php/SR_REGIO_994005001/regio22.php?c=dturbo&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", DISCOVERY WORLD
+http://ipeteve.com/php/SR_REGIO_994005001/regio22.php?c=dworld&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", FOOD NETWORK
+http://ipeteve.com/php/SR_REGIO_994005001/regio22.php?c=food&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", HISTORY
+http://ipeteve.com/php/SR_REGIO_994005001/regio22.php?c=history&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", H2
+http://ipeteve.com/php/SR_REGIO_994005001/regio22.php?c=history2&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", H&H
+http://ipeteve.com/php/SR_REGIO_994005001/regio22.php?c=hh&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", HOLATV
+http://ipeteve.com/php/SR_REGIO_994005001/regio22.php?c=holatv&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", MAS CHIC
+http://ipeteve.com/php/SR_REGIO_994005001/regio22.php?c=maschic&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", NAT GEO
+http://ipeteve.com/php/SR_REGIO_994005001/regio22.php?c=natgeo&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", NAT GEO WILD
+http://ipeteve.com/php/SR_REGIO_994005001/regio22.php?c=natgeowild&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", AZ CLIC
+http://ipeteve.com/php/SR_REGIO_994005001/regio22.php?c=azclic&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", CONCERT
+http://ipeteve.com/php/SR_REGIO_994005001/regio22.php?c=concert&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", BANDAMAX
+http://ipeteve.com/php/SR_REGIO_994005001/regio22.php?c=bandamax&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", EUFORIA
+http://ipeteve.com/php/SR_REGIO_994005001/regio22.php?c=euforia&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", EXATV
+http://ipeteve.com/php/SR_REGIO_994005001/regio22.php?c=exatv&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", LA MEJOR TV
+http://ipeteve.com/php/SR_REGIO_994005001/regio22.php?c=lamejor&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", MTV
+http://ipeteve.com/php/SR_REGIO_994005001/regio22.php?c=mtv&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", MTV TR3S
+http://ipeteve.com/php/SR_REGIO_994005001/regio22.php?c=mtvtr3s&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", MTV HITS
+http://ipeteve.com/php/SR_REGIO_994005001/regio22.php?c=mtvhits&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", MTV LIVE
+http://ipeteve.com/php/SR_REGIO_994005001/regio22.php?c=mtvlive&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", NICK MUSIC
+http://ipeteve.com/php/SR_REGIO_994005001/regio22.php?c=nickmusic&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", TELEHIT
+http://ipeteve.com/php/SR_REGIO_994005001/regio22.php?c=telehit&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", TELEHIT PLUS
+http://ipeteve.com/php/SR_REGIO_994005001/regio22.php?c=telehitplus&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", TELERITMO
+http://ipeteve.com/php/SR_REGIO_994005001/regio22.php?c=teleritmo&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", A+
+http://ipeteve.com/php/SR_REGIO_994005001/regio22.php?c=amas&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", AZTECA UNO
+http://ipeteve.com/php/SR_REGIO_994005001/regio22.php?c=aztecauno&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", EL DOS
+http://ipeteve.com/php/SR_REGIO_994005001/regio22.php?c=eldos&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", CANAL 5
+http://ipeteve.com/php/SR_REGIO_994005001/regio22.php?c=elcinco&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", AZTECA 7
+http://ipeteve.com/php/SR_REGIO_994005001/regio22.php?c=azteca7&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", NU9VE
+http://ipeteve.com/php/SR_REGIO_994005001/regio22.php?c=nueve&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", DISTRITO COMEDIA
+http://ipeteve.com/php/SR_REGIO_994005001/regio22.php?c=distrito&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", IMAGEN TV
+http://ipeteve.com/php/SR_REGIO_994005001/regio22.php?c=imagentv&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", UNICABLE
+http://ipeteve.com/php/SR_REGIO_994005001/regio22.php?c=unicable&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", MULTIMEDIOS
+http://ipeteve.com/php/SR_REGIO_994005001/regio22.php?c=multimedios&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", MVS TV
+http://ipeteve.com/php/SR_REGIO_994005001/regio22.php?c=mvstv&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", CNN
+http://ipeteve.com/php/SR_REGIO_994005001/regio22.php?c=cnnes&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", FORO TV
+http://ipeteve.com/php/SR_REGIO_994005001/regio22.php?c=forotv&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", MILENIO
+http://ipeteve.com/php/SR_REGIO_994005001/regio22.php?c=milenio&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", GALAVISION
+http://ipeteve.com/php/SR_REGIO_994005001/regio22.php?c=galavision&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", TELEMUNDO
+http://ipeteve.com/php/SR_REGIO_994005001/regio22.php?c=telemundo&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", UNIMAS
+http://ipeteve.com/php/SR_REGIO_994005001/regio22.php?c=unimas&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", UNIVISION
+http://ipeteve.com/php/SR_REGIO_994005001/regio22.php?c=univisionhd&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", CANAL CLARO
+http://ipeteve.com/php/SR_REGIO_994005001/regio22.php?c=claro&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", ESPN
+http://ipeteve.com/php/SR_REGIO_994005001/regio22.php?c=espn1mx&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", ESPN 2
+http://ipeteve.com/php/SR_REGIO_994005001/regio22.php?c=espn2mx&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", ESPN 3
+http://ipeteve.com/php/SR_REGIO_994005001/regio22.php?c=espn3mx&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", ESPN EXTRA
+http://ipeteve.com/php/SR_REGIO_994005001/regio22.php?c=espnextramx&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", ESPN DEPORTES
+http://ipeteve.com/php/SR_REGIO_994005001/regio22.php?c=espndep&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", FOX SPORTS
+http://ipeteve.com/php/SR_REGIO_994005001/regio22.php?c=foxsport1mx&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", FOX SPORTS 2
+http://ipeteve.com/php/SR_REGIO_994005001/regio22.php?c=foxsport2mx&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", FOX SPORTS 3
+http://ipeteve.com/php/SR_REGIO_994005001/regio22.php?c=foxsport3mx&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", TUDN MX
+http://ipeteve.com/php/SR_REGIO_994005001/regio22.php?c=tudnmx&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", TUDN US
+http://ipeteve.com/php/SR_REGIO_994005001/regio22.php?c=tudnus&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", TVC DEPORTES
+http://ipeteve.com/php/SR_REGIO_994005001/regio22.php?c=tvcdep&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", BABYTV
+http://ipeteve.com/php/SR_REGIO_994005001/regio22.php?c=babytv&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", BABY FIRST
+http://ipeteve.com/php/SR_REGIO_994005001/regio22.php?c=babyfirts&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", BITME
+http://ipeteve.com/php/SR_REGIO_994005001/regio22.php?c=bitme&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", BOOMERANG
+http://ipeteve.com/php/SR_REGIO_994005001/regio22.php?c=boomerang&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", CARTOON NETWORK
+http://ipeteve.com/php/SR_REGIO_994005001/regio22.php?c=cartoon&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", DISNEY CHANNEL
+http://ipeteve.com/php/SR_REGIO_994005001/regio22.php?c=disneych&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", DISNEY JR
+http://ipeteve.com/php/SR_REGIO_994005001/regio22.php?c=disneyjr&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", DISNEY XD
+http://ipeteve.com/php/SR_REGIO_994005001/regio22.php?c=disneyxd&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", DISCOVERY KIDS
+http://ipeteve.com/php/SR_REGIO_994005001/regio22.php?c=dkids&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", NAT GEO KIDS
+http://ipeteve.com/php/SR_REGIO_994005001/regio22.php?c=natgeokids&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", NICK
+http://ipeteve.com/php/SR_REGIO_994005001/regio22.php?c=nick&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", NICK JR
+http://ipeteve.com/php/SR_REGIO_994005001/regio22.php?c=nickjr&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", TEEN NICK
+http://ipeteve.com/php/SR_REGIO_994005001/regio22.php?c=teennick&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista TV", TOONCAST
+http://ipeteve.com/php/SR_REGIO_994005001/regio22.php?c=tooncast&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://buscador.cablevisionfibertel.com.ar/logos/358.png" group-title="Deportes", Garage TV
+http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", 7 Murcia
+http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Canaria SAT
+http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.360plr.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Canaria SAT*
+http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.smil/chunklist_w117839380_b480000_sles.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Emporda TV
+http://ventdelnord.tv:8080/escala/directe.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ETB Sat
+http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", La Otra
+http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/laotra1/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Lancelot TV
+http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Lebrija TV
+http://212.104.160.156:1935/live/lebrijatv2/playlist3.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Navarra TV*
+http://nws.nice264.com/SmilLive/getLiveIOS.smil?stream=NTV_livenatvmb&system=NTV&protocol=http_cupertino/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Telemadrid
+http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TeleSafor
+http://video.telesafor.com/hls/video_low.m3u8
+
+#EXTINF:-1 tvg-logo="http://photocall.tv/images/americanhorrors.png" group-title="Entretenimiento", American Horrors
+http://170.178.189.66:1935/live/Stream1/.m3u8
+
+#EXTINF:-1 tvg-logo="http://photocall.tv/images/multimedios.png" group-title="Entretenimiento", Multimedios Monterrey
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?ref=http://www.multimedios.com
+
+#EXTINF:-1 tvg-logo="http://photocall.tv/images/multimedios.png" group-title="Entretenimiento", Multimedios Torreon
+http://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8?ref=http://www.multimedios.com
+
+#EXTINF:-1 tvg-logo="http://photocall.tv/images/multimedios.png" group-title="Entretenimiento", Multimedios Costa Rica
+http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?ref=http://www.multimedios.com
+
+#EXTINF:-1 tvg-logo="http://photocall.tv/images/telemax.png" group-title="Entretenimiento", Telemax
+http://s5.mexside.net:1935/telemax/telemax/.m3u8
+
+#EXTINF:-1 tvg-logo="http://photocall.tv/images/13max.png" group-title="Entretenimiento", 13 MAX (Argentina)
+http://coninfo.net:1935/13maxhd/live_720p/.m3u8
+
+#EXTINF:-1 tvg-logo="http://photocall.tv/images/multivision.png" group-title="Entretenimiento", Multivision Argentina
+http://panel.dattalive.com:1935/8250/8250/.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Entretenimiento", Canal Once
+http://live.canaloncelive.tv:1935/livepkgr2/internacional.smil/.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Entretenimiento", Grupo Formula
+http://wms30.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Entretenimiento", MTV Noruega
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHILE", Carolina TV
+http://unlimited1-us.dps.live/carolinatv/carolinatv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.vimeocdn.com/portrait/8846221_300x300" group-title="Entretenimiento", Canal 10
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Antiguo_logo_de_Canal_Once_(once_TV).png/186px-Antiguo_logo_de_Canal_Once_(once_TV).png" group-title="Entretenimiento", Canal Once
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/master.m3u8?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Entretenimiento", UESTV
+http://cl.origin.grupoz.cl/uestv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Entretenimiento", UMAG TV
+http://edge1.cl.grupoz.cl/tser5/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://radioextremacr.com/img/logo.png" group-title="Cine", Extrema TV
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://sivar.tv/wp-content/uploads/2016/05/canal-24-occidente.png" group-title="Cine", Wow TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Musica", EXATV
+http://streamingcws20.com:1935/examor/videoexamor/.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Musica", TMTV
+http://streamingcws20.com:1935/tmtv/videotmtv/.m3u8
+
+#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/e/e9/Teleritmo_%282015-%29.png/revision/latest?cb=20151111060623" group-title="Musica", TELERITMO
+http://mdstrm.com/live-stream-playlist_400/57b4dc126338448314449d0c.m3u8
+
+#EXTINF:-1 tvg-logo="https://advancescreenings.com/img/outlets/c/california_music_channel.jpg" group-title="Musica", California Music Channel
+http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dw.com/cssi/dwlogo-print.gif" group-title="Cultura", DW Entretenimiento
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_5_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="http://photocall.tv/images/milenio.png" group-title="Noticias", Milenio
+http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
+
+#EXTINF:-1 tvg-logo="http://photocall.tv/images/abc.png" group-title="Internacional", ABC News
+http://abclive2-lh.akamaihd.net/i/abc_live11@423404/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://photocall.tv/images/cbs.png" group-title="Internacional", CBS News
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://photocall.tv/images/dw.png" group-title="Internacional", DW
+http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://photocall.tv/images/nhkworld.png" group-title="Internacional", NHK World
+http://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/263941/live_wa_s.m3u8
+
+#EXTINF:-1 tvg-logo="http://photocall.tv/" group-title="Internacional", Bloomberg
+http://cdn-videos.akamaized.net/btv/desktop/akamai/us/live/primary.m3u8
+
+#EXTINF:-1 tvg-logo="http://photocall.tv/images/nasa.png" group-title="Internacional", NASA iss
+http://iphone-streaming.ustream.tv/uhls/17074538/streams/live/iphone/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://photocall.tv/images/nasa.png" group-title="Internacional", NASA Media
+http://iphone-streaming.ustream.tv/uhls/10414700/streams/live/iphone/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://photocall.tv/images/nasa.png" group-title="Internacional", NASA Public
+http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Internacional", CGTN ES
+http://livees.cgtn.com/1000e/prog_index.m3u8
+
+#EXTINF:-1 tvg-logo="https://album.mediaset.es/file/10002/2017/11/21/energy_circular_500_-1_4048.png" group-title="SPAIN", Energy
+https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_1.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.televisionvegabaja.es/wp-content/uploads/2016/11/favicon-150x150.png" group-title="Without category", Vega Baja TV
+http://185.29.68.24/tvb.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jl1Nnd4.png" group-title="Without category", TV Galicia America
+http://america-crtvg.flumotion.com/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jl1Nnd4.png" group-title="Without category", TV Galicia Europa
+http://europa-crtvg.flumotion.com/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://album.mediaset.es/file/10002/2017/11/21/energy_circular_500_-1_4048.png" group-title="Without category", Energy
+https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_4.m3u8?xtreamiptv.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/FDF_2012.png" group-title="Without category", FDF
+https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8?xtreamiptv.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SPAIN:FDF
+https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_3.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Retro Tv
+http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w627639048.m3u8?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", RetroTV
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", M2o Tv
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Entretenimiento:Wow TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", FDF | HD
+https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SPAIN:BOING
+https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", NOTICIAS:CGTN 1
+https://livees.cgtn.com/1000e/prog_index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", HDFashion
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?_=1518069241
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Deutsche Welle Latino | SD
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ESPAÑA:TeleSafor | HD
+http://video.telesafor.com/hls/video_high.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", 7TV Murcia
+http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/index_0_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Telemadrid
+http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/bitrate_1.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Canal Parlamento
+http://congresodirecto-f.akamaihd.net/i/congreso6_1@54665/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ALCARRIA TV
+http://217.182.77.27/live/alcarriatv-livestream.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Teleritmo | SD
+http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", M2O TV | SD
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&amp;rebase=on
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Portal FoxMix | HD
+http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", RETRO MUSIC HD
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ESPAÑA DIVINITY
+https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_3.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/WmMGr10.png" group-title="Canales Españoles", Divinity | HD
+http://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.ptvtelecom.com/ficheros/imagennoticia311_0.jpg" group-title="SPAIN", Canal Parlamento
+http://congresodirecto-f.akamaihd.net:80/i/congreso6_1@54665/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ETB Sat
+http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0564_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="MXJPXNd.png" group-title="Without category", tvg-logo="MXJPXNd.png" , Canal 9 Salta[SD]
+http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ARGENTINA:Litus TV Santa Fe
+http://192.99.38.174:1935/litustv/ngrp:litustv_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ARGENTINA:Canal 4 Posadas
+http://184.154.28.210:1935/canal4/canal4/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", BOLIVIA: PAT SANTA CRUZ
+http://192.99.38.174:1935/patbolivia/patsantacruz/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", BOLIVIA: PAT LA PAZ
+http://192.99.38.174:1935/patbolivia/patlapaz/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", BOLIVIA: RTP
+http://136.243.3.70:1935/RtpBolivia/RtpBolivia/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", BRASIL SBT Caruaru
+http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/live.m3u8?ChannelsON
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", BRASIL SBT MA
+http://difusorama.zoeweb.tv:1935/z437-live/stream/chunklist_w1260675550.m3u8?ChannelsON
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", BRASIL SBT Imperatriz
+http://difusorama.zoeweb.tv:1935/z438-live/stream/chunklist_w264526402.m3u8?ChannelsON
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/YpZIj1p.png" group-title="Without category", Ten Honduras
+http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1445105875_b1848000.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Logo_CanalOnce.png/273px-Logo_CanalOnce.png" group-title="Without category", Once TV
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/695255688067571712/jLsoL-BY.jpg" group-title="Without category", M2O TV [SD]
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IzHgZmg.jpg" group-title="MUSICA", Retro Tv MUSICAL
+http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w627639048.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.eu-central-1.amazonaws.com/radioportals/radioviainternet-it/images/stations/radio-51-share.png" group-title="Without category", Radio 51 TV
+http://wms.shared.streamshow.it:80/canale51/canale51/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://wusstensie.aidshilfe.de/sites/default/files/wwwcineblack-400x300.png" group-title="Without category", CINE +
+http://189.86.89.116/hls-live/livecm/_definst_/liveevent/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/Canal_IPe_Logo_PNG.png" group-title="Without category", IPE
+http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
+
+#EXTINF:-1 tvg-logo="http://canales33.mex.tl/imagesnew2/0/1/0/0/0/2/9/6/7/0/El%20Pinguino.jpg" group-title="Without category", El Pinguino TV
+http://streaming.elpinguino.com:1935/live/pinguinotv_360p/live.m3u8?
+
+#EXTINF:-1 tvg-logo="http://www.pumamedia.com.au/DW_English.jpg" group-title="Without category", Deutsche Welle
+http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.bbgdirect.com/Content/images/VOA-logo.png" group-title="Without category", VoA
+http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://channelpear.com/images/media/80.jpg" group-title="Without category", NHK World
+http://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Logo_of_Free_Speech_TV.png" group-title="Without category", Free Speech TV
+https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8
+
+#EXTINF:-1 tvg-logo="http://cdn.iphoneincanada.ca/wp-content/uploads/2015/07/the-shopping-channel-logo.jpg" group-title="Without category", The Shopping Channel
+http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/hUma1JP.jpg" group-title="Without category", Sky News
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Three_NZ_TV.png" group-title="Without category", Three
+http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/3news_live/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ee/Tvsn_logo.png" group-title="Without category", TVSN
+http://tvsn-i.akamaihd.net/hls/live/261837/tvsn_nz/tvsn_nz_750.m3u8
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ5MjQ0OTA4OF5BMl5BanBnXkFtZTcwNTkxODYyOQ@@._V1_UY268_CR3,0,182,268_AL_.jpg" group-title="Without category", Nosotros Los Nobles |
+https://archive.org/download/NoLoNoSRREGIO_20180212/NoLoNoSRREGIO.mp4
+
+#EXTINF:-1 tvg-logo="http://www.joblo.com/posters/images/full/cloverfield-3-poster-xl.jpg" group-title="Without category", The Cloverfield Paradox |
+https://ia801509.us.archive.org/32/items/tcSRREGIO/tcSRREGIO.mp4
+
+#EXTINF:-1 tvg-logo="http://images.eonline.com/eol_images/Entire_Site/2014516//rs_634x939-140616200855-634.Guardians-of-the-Galaxy-Posters.1.ms.061614.jpg" group-title="Without category", Guardianes de la Galaxia | SRREGIO.NET
+https://goo.gl/sFaEVq
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Multimedios Monterrey
+http://mdstrm.com/live-stream-playlist_400/57b4dbf5dbbfc8f16bb63ce1.m3u8?
+
+#EXTINF:-1 tvg-logo="https://imgur.com/ajBGBm5.png" group-title="ENTRETENIMIENTO", Multimedios (Mexico)
+http://mdstrm.com/live-stream-playlist_400/57b4dbf5dbbfc8f16bb63ce1.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Chileiptv:Genial Tv
+http://v3.tustreaming.cl/genialtv/live1/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Chileiptv:FR France 24
+http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Canal 9 Salta
+http://panel.dattalive.com:1935/8250/8250/playlist.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PIGUINO TV HD
+http://streaming.elpinguino.com:1935/live/pinguinotv_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CANAL WOW
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?JoCaRoIPTV.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", WOW TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", RETRO MUSIC TV
+http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w1652320907.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", DIVINITY
+http://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_3.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", 9 MULTIVISION HD
+http://panel.dattalive.com:1935/8250/8250/chunklist_w1392684176.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CANAL 10 DE CORDOBA
+https://wowzaprod169-i.akamaihd.net/hls/live/630337/59e4c1ec/59e4c1ec_1_850000/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CIUDAD TV CHACO
+http://coninfo.net:1935/chacodxdtv/live/chunklist_w1623593551.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", LA 90 FM
+http://streaming02.arcast.com.ar:1935/la90fm/la90fm/chunklist_w379053794.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ARGENTINA:America HD
+https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
+
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/Teleislas.png" group-title="COLOMBIA", Teleislas
+http://vbox2.cehis.net/live-teleislas/smil:teleislas.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i2.wp.com/directostv.teleame.com/wp-content/uploads/2018/03/mundomas-tv.png" group-title="COLOMBIA", Mundo Mas
+http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/40/48/2c/40482cf6af582372c2a22072a2394a80.png" group-title="ARGENTINA", America SD
+https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_540p.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CANAL 7 CBN ESPAÑOL
+http://bcliveuniv-lh.akamaihd.net/i/iptv2_1@194050/master.m3u8?tecnotv.info?iptv.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", VISUAL RADIO
+http://wms.shared.streamshow.it/visualradio/mp4:visualradio/chunklist.m3u8?tecnotv.info?iptv.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Deutsche Welle
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8?sd=10&amp;play-only=primary&amp;rebase=on%20
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", 5RTv RECREO SANTA FE
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVAR0200
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CANAL 2 de Jujuy
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVAR0151
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Santa María TV
+http://www.trimi.com.ar/santa_maria/streaming/mystreamSantaMariaHSMed.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", 7 Murcia
+http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENTRETENIMIENTO", group-title="ENTRETENIMIENTO"
+http://player.tvnet.lv/live/amlst:11/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ENTRETENIMIENTO:TelePAVIA
+http://wms.shared.streamshow.it:1935/telepavia/telepavia/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CHILE:Carolina TV
+http://unlimited1-us.dps.live/carolinatv/carolinatv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CHILE:Pinguino TV
+http://streaming.elpinguino.com:1935/live/pinguinotv_720p/hasbahca.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CHILE:UesTV
+http://cl.origin.grupoz.cl/uestv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CHILE:VTV Aconcagua
+http://cdn.streamingmedia.cl:1935/live/vtv2/livestream3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CHILE:VTV Vi�a del Mar
+http://cdn.streamingmedia.cl:1935/live/vtvvina/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", COLOMBIA:49 TV
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DICO0013&mode=12&iconimage=http://www.radiosargentina.com.ar/png/ESCOLOMB.png
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", COLOMBIA:Teleamiga
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVCO0012&mode=12&iconimage=http://www.radiosargentina.com.ar/png/ESCOLOMB.png
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", COLOMBIA:Telemedellin
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVCO0024&mode=12&iconimage=http://www.radiosargentina.com.ar/png/ESCOLOMB.png
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MEXICO:Canal 10 Chetumal
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MEXICO:RTQ (QE)
+http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", M2O TV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SPACETOON
+http://210.210.155.35/x6bnqe/s/s80/index2.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", AniPlus
+http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CANAL BHTV
+http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/media_w554966584.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MICRO VISION
+http://190.103.183.24:1935/live/MicroHD/media_w1864019893.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", VTV |UY|
+http://cdn.streamingmedia.cl:1935/live//vtvvina/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Fashion HD
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", DJING IBIZA
+https://www.djing.com/tv/dancefloor.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", DJING ANIMATION
+https://www.djing.com/tv/animation.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", DJING UNDERGROUND
+https://www.djing.com/tv/underground.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", DJING KARAOKE
+https://www.djing.com/tv/karaoke.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PORTAL FOXMIX
+http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TICAVISION
+http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", DIEZ Honduras
+http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1445105875_b1848000.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", BHTV
+http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Willax TV
+http://movil.mediastream.pe/vv_willax/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TV Extrema
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Milenio TV
+http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Bloomberg
+http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", DW NEWS
+http://dwstream4-lh.akamaihd.net:80/i/dwstream4_live@131329/index_1_av-b.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", noticias del canal de Asia
+http://imtcnai-lh.akamaihd.net/i/cnai_main@334572/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", VoA
+http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Noticias de Siria
+http://www.elahmad.com/tv/m3u8/syriatv.m3u8?id=syria_news
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Lancelot TV
+http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TV Canal Vasco
+http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0748_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", London Live
+http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", BFM Sport
+http://rmc-i.akamaihd.net/hls/live/218333/876630703001/BFMSPORT/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Pinguino TV
+http://streaming.elpinguino.com:1935/live/pinguinotv_360p/BratuMarian.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Redbull TV
+http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", U TV
+http://81.196.0.126/utvedge/utvlivehls/chunklist_w1688658104.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", France24
+http://static.france24.com/live/F24_FR_LO_HLS/live_web.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", KTO
+http://livehdkto-lh.akamaihd.net/i/LiveStream_1@178944/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Canale 7
+http://wms.shared.streamshow.it:1935/canale7/canale7/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Canal 8 ITALIA
+http://wms.shared.streamshow.it/canale8/mp4:canale8/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Carina TV
+http://wms.shared.streamshow.it/carinatv/carinatv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Jasmin TV
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Telesur costa rica
+http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", EJTV � Costa Rica
+http://acaooyalahd2-lh.akamaihd.net/i/TBN08_delivery@186246/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CANAL 88 STEREO COSTA RICA
+http://k3.usastreams.com:1935/CableLatino/88stereo/chunklist_w1223558379.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Canal 9 Honduras
+http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", COLOMBIA:Canal Capital HD
+https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MUNDO +
+http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sky News
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Garage TV
+http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", M2O TV HD
+http://m2otv-lh.akamaihd.net:80/i/m2oTv_1@186074/index_600_av-b.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-cmw1yRJqfTA/AAAAAAAAAAI/AAAAAAAAAAA/MO0nxnZqRtU/s176-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="MEXICO", CAPITAL 21 CDMX
+http://wowzaprod158-i.akamaihd.net/hls/live/595142/a9251b55/playlist.m3u8?set-akamai-hls-revision=5&set-cc-attribute=cc
+
+#EXTINF:-1 tvg-logo="http://nrtmexico.mx/site/images/sampledata/icetheme/slideshow/c4_slide_a.jpg" group-title="MEXICO", Canal 4 Monclova
+http://162.241.190.126:1935/live/canal4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Multimedios_Television.png/200px-Multimedios_Television.png" group-title="Latinos", Multimedios Costa Rica
+http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?ref=http://www.multimedios.com
+
+#EXTINF:-1 tvg-logo="http://cableaudiovision.com.ar/grilla-web/canales/mvnueve.png" group-title="Latinos", Canal 9 Multivision
+http://panel.dattalive.com:1935/8250/8250/chunklist_w689217833.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/553578456013746176/ZiuKif1w.png" group-title="Latinos", El 13
+http://coninfo.net:1935/13maxhd/live_720p/chunklist_w352743074.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BFMMPwP.png" group-title="NOTICIAS", France 24
+http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.mediavyasa.com.mx/archivos/representantes/logo/logoteleformula.jpg" group-title="NOTICIAS", TELEFORMULA
+http://wms30.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s24.postimg.org/w4ih3sa1h/image.png" group-title="NOTICIAS", ABC NEWS
+https://abclive2-lh.akamaihd.net/i/abc_live11@423404/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://cbsnews3.cbsistatic.com/hub/i/2017/12/12/77e5d36d-5915-46ce-b496-218c87d98c5d/8287754aae1089f702b0e9e59bad53d6/cbsnews-1600x900.jpg" group-title="NOTICIAS", CBS NEWS
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BFMMPwP.png" group-title="NOTICIAS", France 24
+http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9gHjXmn.png" group-title="NOTICIAS", NHK World
+http://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
+
+#EXTINF:-1 tvg-logo="http://vertelevisor.com/logos/cosmo.png" group-title="Espa�a", COSMO TV
+http://91.126.141.201:1935/live/smil:cosmoHD.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Espa�a", Divinity
+http://91.126.141.12:1935/live/smil:divinity.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/744781470946852864/nz8sp439.jpg" group-title="Espa�a", FDF
+http://91.126.141.201:1935/live/smil:fdf.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i1.wp.com/iptvsmartv.files.wordpress.com/2017/04/ten.png?ssl=1&w=450" group-title="Espa�a", Ten
+http://91.126.141.201:1935/live/smil:ten.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://tecnotv.info/logoss/dmax.png" group-title="Espa�a", DMAX Espa�a
+http://91.126.141.12:1935/live/discoverymax/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-MJZ3A3u6E78/U-JWxeGtvrI/AAAAAAAACzg/mFikMtH2yW0/s1600/life_design_tv.png" group-title="CULTURA", Lifedesign
+http://fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.diesl.com/wp-content/uploads/2011/12/world-fashion-channel.jpg" group-title="CULTURA", World Fashion
+http://95.67.47.114/hls/hdfashion_ua_low/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://a1.mzstatic.com/us/r30/Purple6/v4/67/f6/4f/67f64f30-a881-ab3d-79b0-3169a8cca3ae/icon128-2x.png" group-title="CULTURA", TWiT
+http://iphone-streaming.ustream.tv/uhls/1524/streams/live/iphone/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://img.over-blog.com/600x309/0/20/49/74/logos-hd/CinePlus/cine-eotion.jpg" group-title="CINE", CINE +
+http://189.86.89.116/hls-live/livecm/_definst_/liveevent/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Pop
+https://bcsecurelivehls-i.akamaihd.net/hls/live/505785/5367332899001/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.ezshield.com/wp-content/uploads/images/differentiators/24-7-icon.png" group-title="Without category", 24/7 (ESPA�OL )
+http://stream.dubstep.fm:80/256mp3
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/68/Telecaribe_deportes_2017.png/revision/latest?cb=20171006040233" group-title="DEPORTES", Telecaribe Deportes
+http://telecaribe-deportes.gcdn.anvato.net/hls/live/telecaribedeporteshd2/2196k/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Setanta Sports
+http://ott-cdn.ucom.am/s81/04.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Setanta Sports +
+http://ott-cdn.ucom.am/s82/04.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.freeetv.com/images/03_logo/Retro_Czech_Republic.jpg" group-title="MUSICA", RETRO TV
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://puu.sh/nsWwi/c18fe4842e.png" group-title="MUSICA", m2o TV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="http://magneticproductions.files.wordpress.com/2010/11/mtv-dance.png" group-title="MUSICA", MTV Dance
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://alloforfait.fr/wp-content/uploads/2014/05/Mezzo_Live_HD-300x150.png" group-title="MUSICA", Mezzo Live
+http://ott-cdn.ucom.am/s35/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://lamegamundial.com/wp-content/uploads/2017/11/logolamega-vector-01.png" group-title="MUSICA", La Mega Mundial
+http://68.235.35.243:1935/lamegamundial/lamegamundial2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.kodinerds.net/index.php?.m3u8/Attachment/9910-Music-Video-Mix-png/?thumbnail=1" group-title="MUSICA", Yearmix2009
+https://ia601308.us.archive.org/12/items/DJPanduroVideoYearmix2009/DJ%20Panduro%20-%20Video%20Yearmix%202009.mp4
+
+#EXTINF:-1 tvg-logo="http://www.kodinerds.net/index.php?.m3u8/Attachment/9910-Music-Video-Mix-png/?thumbnail=1" group-title="MUSICA", Yearmix2012
+https://ia801305.us.archive.org/21/items/DJPanduroVideoYearmix2012/DJ%20Panduro%20-%20Video%20Yearmix%202012.mp4
+
+#EXTINF:-1 tvg-logo="http://www.kodinerds.net/index.php?.m3u8/Attachment/9910-Music-Video-Mix-png/?thumbnail=1" group-title="MUSICA", Yearmix2013
+https://ia801409.us.archive.org/35/items/DJPanduroVideoYearmix2013/DJ%20Panduro%20-%20Video%20Yearmix%202013.mp4
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-ZBot0N5ICeY/XpNBN23kXEI/AAAAAAAAKaI/9bGRsDQKF7QaGT2w-wUgEKsihrGp1oDcACLcBGAsYHQ/s1600/ESPN%2B%25281%2529.png" group-title="DEPORTES", ESPN 1
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/1
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-74JXOuNRH9M/XpUcTMwC9sI/AAAAAAAAKgc/pKAblTVJNn88ZhB8A1BQU6KNIGB7tz0awCLcBGAsYHQ/s1600/ESPN%2B2.png" group-title="DEPORTES", ESPN 2
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/2
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-hiRy1QFgVvY/XpUcxNbrN2I/AAAAAAAAKgk/98iHfZm7lEQi2sQ9j2fnnJzBtxD4T84bACLcBGAsYHQ/s1600/ESPN%2B3.png" group-title="DEPORTES", ESPN 3
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/3
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-AldnawQ-1qY/XpUdvJN_8_I/AAAAAAAAKgw/6tF31yNbInEPDnb4wGv3wyGPrQrVFgnSACLcBGAsYHQ/s1600/ESPN%2BPLUS.png" group-title="DEPORTES", ESPN EXTRA
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-0tklgW-NrF8/X5NpCyVE-OI/AAAAAAAALYo/R_F-jRuRRS0qHBoSGCHOYNAYCyC9C6jhwCLcBGAsYHQ/s0/MAQUETA%2B%25281%2529%2B%252810%2529.png" group-title="DEPORTES", ESPN 1 SUR
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/6
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-TceearkArQE/X5NpC2LgGZI/AAAAAAAALYk/A2YhotFvwYIclFw2qDMsmruWz6_1ULsBQCLcBGAsYHQ/s0/MAQUETA%2B%25281%2529%2B%252811%2529.png" group-title="DEPORTES", ESPN 2 SUR
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/7
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-evt-Jw1JfWI/X5zgxqfPx4I/AAAAAAAALbs/Wda9c1JhsHMVx4dwrcokQIEMXa09Co9GgCLcBGAsYHQ/s0/MAQUETA%2B%25281%2529%2B%252828%2529.png" group-title="DEPORTES", ESPN 3 SUR
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-QJrA59JSSaE/YB6yjcjLHTI/AAAAAAAAMCY/brHzMV8RceIlpLZs3sBk_XxIDeNy_uMIQCLcBGAsYHQ/s0/MAQUETA%2B%25282%2529%2B%252820%2529.png" group-title="DEPORTES", FOX SPORTS 1
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/9
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-7CjFdsyCuMo/XpUideMQO1I/AAAAAAAAKhY/zslihPXuYaIxh-fQlKmr-AO6x4EhA2OzQCLcBGAsYHQ/s1600/FOX%2B2.png" group-title="DEPORTES", FOX SPORTS 2
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/10
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-r3TBjfTiUGg/XpUi6TJI43I/AAAAAAAAKhg/-SPA5M8Qi8QfCdLbAaLA-MHT8_Yl05cnACLcBGAsYHQ/s1600/FOX%2B3.png" group-title="DEPORTES", FOX SPORTS 3
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/11
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-0BXMPKoomNQ/XpPFOERwaiI/AAAAAAAAKcM/NIgbRXjYhHERvVHIODHG7xFHam9xrPrxACEwYBhgLKtQDAL1OcqysjU01D7ZjWuVsfO3_XaW0kebIjzQuH3SgqeVpwlp6S3-RXOB4-oYbPK3wSIAj5tfLX8PKLlqZZvSA_2oGFmwJLpE6-wJz3J2bu-M8HaaeQhvNJtWZ2_Smksy5Agi7RANG76y5IDhvyA26Z5wvS1hsjH3VI7cobJOokSYiiJL8wordGNEo4M3p2Wcf1IwLd5zZ9jK9e93r6YEZzxdY-fNOPYRznESOwbHiF52NhvAFfO0gKVRGsb_yJRnCBLPk0Vb83_rDEG85-1hxKIorLnU5LUCrskCohrTCqqHc1GAHl9UwzJnL6KUmj8zWbA3GbyIu05mM1j7gEZDqQt-8KiXG7tb1uhmvpaJC0GgyK-5Ik74TO7laPs0DXENOnWW5a1AJ7uniUCV_gIu4zhXXuRUBii1skay_8QJXDFZap-hf-5A_m03vWpLcFck0Zd9UUc59b_p7kI5bO9Xl9KLoRIXzcKWipQIK9OjiwkRK-1TFHJTx-6LzPc7HoXt2UtzOeGCGgEiU6XgUXshcQ7H4cs2oHNMSTzuBdATHfAuIJfl-y9fC8FPeprw_1n3Ht8nEKiienMMspDpu5Ht8T0-vOj75PZxQEt5K5MHwNil7csCEMPvl-oAG/w140-h119-p/FOX%2BSPOR.png" group-title="DEPORTES", FOX DEPORTES
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/12
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-la1TeGCMUGY/X5N4VB08e_I/AAAAAAAALY0/57v5_fi6DIoYXYvr3n6v4248OKNc-j07wCLcBGAsYHQ/s0/MAQUETA%2B%25281%2529%2B%252812%2529.png" group-title="DEPORTES", FOX PREMIUM
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/13
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-FKjeo76vKmM/X3fJaA6eCGI/AAAAAAAALOA/Gd6iyGbozrIZ5RcyLp_LELACDQsZRVloACLcBGAsYHQ/s0/E%2521%2B%252839%2529.png" group-title="DEPORTES", MLB NETWORK
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/14
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-8iPzQccZ5zs/XtwnsETbSLI/AAAAAAAAK-Y/JIKU2EZ-uksOWGgeaLxYA98pSg15pMqGQCEwYBhgLKtMDAL1OcqyGW6gfkzqVgcHVfQUgy2F1zUrAWd2I-TXuDoHmtvG2HBfSiMUORXEQ_L1rUsxFTXTkyn2uKOMSMg-a4lxeU9OTv51WWEmBcwzQJhiuM0FqZMDQ6NM4OroPo-m5BRLf_ddBrKXK_anysP-AMe_9RXrvEhlvPGAlpeJ835O-hmi7kBCyTUZRu6D0hdIhdUOzqj44NzBvD1egej3kXKMnliW71iRazwVpGVTZEjKkbJFjVDxyMfsODVOBcUUDqJOAXUpGRwLOoaWHzzNFCMn4hjislxBg52vlKruXizb5fr1yAcuKIZl_eynaK1k8t66OR9DboBbdSI6pUL26oxs555kuhxW6Qab79T_RuOPcj8pxCJxrIEsuzDmSfS7wPBv4iH-AkFVRoyShxCoM0OqxpjA0mLXaCm3xadtGHV4pPqmQeVRtMfOw6vRc6nM-HEtnV2yhZHU_n53QtqneiaGYWTWhVLM7J1wRpxgtxaWMqnvDxcjfg60y1td2PuFiQev1e3NJMTqckneLz37LiLdT_itd3RQzwJVPo2hed5fOjXBew2FhPKyVwigNBUaY3nDLRNP7zwL-T3QHFnhINK6UdWwGkqwylhWL9hMlPo1I1NIw85Si_wU/w140-h119-p/baner%2Bprincipal%2B%252819%2529.png" group-title="DEPORTES", GOL PERU
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/15
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Vo0xfTdbQOc/X4XT1wshXLI/AAAAAAAALT4/0RWKQn4opvYhQ3-iCKEplO6EgkmNavV0ACLcBGAsYHQ/s0/E%2521%2B%252875%2529.png" group-title="DEPORTES", UFC NETWORK
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/17
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-HkcMdydFENI/X4Rw6FYCuTI/AAAAAAAALSQ/SU1a3AqH--wxJhMVSzJsyHxwS-_bTZvrgCLcBGAsYHQ/s0/E%2521%2B%252866%2529.png" group-title="DEPORTES", GOL TV
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/18
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-6geNExNmVKo/X3eyfgRzSeI/AAAAAAAALNw/jyKffcXYx7gsF4duHSJKExFmSzq69UKSwCLcBGAsYHQ/s0/E%2521%2B%252837%2529.png" group-title="DEPORTES", CLARO SPORTS
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/19
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-TEGttQ4ZqUI/XpZf1QeGyhI/AAAAAAAAKk0/AhXh6BWbM48OhIrlA0FkblZOkqMhiqG1QCLcBGAsYHQ/s1600/TUDN.png" group-title="DEPORTES", TUDN
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/20
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-ew2Fu-0L3Wk/X3fLI_mh8LI/AAAAAAAALOc/AecloDHYo8IkV2XTrpLvV8SbEshdfxs5gCLcBGAsYHQ/s0/E%2521%2B%252842%2529.png" group-title="DEPORTES", TVC DEPORTES
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/21
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-9rUcjngdgfM/X3iaFAsNLEI/AAAAAAAALRE/uRHM3BTYZUQfBLmTc85QP2kmAVW7l5jJwCLcBGAsYHQ/s0/E%2521%2B%252863%2529.png" group-title="DEPORTES", BEIN SPORTS Ñ
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/23
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-z5SLyA7wGIg/X5dny0TaIEI/AAAAAAAALa4/3ejNqC8zoUEUay52X9uNI9ImMNv3MXv5QCLcBGAsYHQ/s0/MAQUETA%2B%25281%2529%2B%252823%2529.png" group-title="DEPORTES", TIGO STORTS
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/24
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-LQdqTpmXe9o/X5YqXcMDXiI/AAAAAAAALZU/9jUwmb4Rj7M3lz4baZVMEZY89p8ODAqawCEwYBhgLKtMDAL1OcqzopnAFnYNOrQc7Zbd2EHs9q7RdJl8p9-qwitrsqfYfQuLF-5n2HRlJE7rMJQns0UdoNVZhL3DXG1TRPbYh4ZEPrqQ3ISqWoQKu1dNA14yEvvddbUNoUbjtztHAAgXWo1Bj7RGzcE-0GRsbA48gBkBSS2wiQ2cJ7RZ8GUyhIXDilOgmZuptjYJmVB2fSlIztLHgiGVoMkhtRK95XwWRxqHJX03B7oXfB0k63lmsQQCod87aeikuS6DBcCA3g07mSjivFfM4ArV_-xVDBRI1qgFsbPs-VaR6RwGF5bTQsDFHl-Tx9mj4-V5Z_efmPo5KdHZmNt9OG6D3hhCunkZusUbAO774HvGjBt4FNykdhkSpxk6znn-YCV5Eo7dFCMMORNv4jER-85Q0MfKL5FUXK91jLt-nN1Be33fNPZOldibZgluKnVz1UMNV5h3EECeh9euHad8PB0FXjr8Yg5kVzUu0zShlfPnpnfFPIIlgMRjU4R1ehlOSxzjMCwYn4hnwoIQLLVG98FviO1ZtjlVHPyYcyuiEaYArcnHBuAfvHMnH8Zi5oHEH4afedLCYtTdKF6_OKouOLdjdoI9h7pSixBOSrUkg32z7b5dpJJZHbMQwu4Oi_wU/w140-h119-p/MAQUETA%2B%25281%2529%2B%252813%2529.png" group-title="DEPORTES", DIRECTV
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/25
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-flehzX1esMc/X5YqXWn-w4I/AAAAAAAALZQ/AzgPYLqbq40XtatEM5396Q_n6Bdfc5WMgCEwYBhgLKtMDAL1OcqzopnAFnYNOrQc7Zbd2EHs9q7RdJl8p9-qwitrsqfYfQuLF-5n2HRlJE7rMJQns0UdoNVZhL3DXG1TRPbYh4ZEPrqQ3ISqWoQKu1dNA14yEvvddbUNoUbjtztHAAgXWo1Bj7RGzcE-0GRsbA48gBkBSS2wiQ2cJ7RZ8GUyhIXDilOgmZuptjYJmVB2fSlIztLHgiGVoMkhtRK95XwWRxqHJX03B7oXfB0k63lmsQQCod87aeikuS6DBcCA3g07mSjivFfM4ArV_-xVDBRI1qgFsbPs-VaR6RwGF5bTQsDFHl-Tx9mj4-V5Z_efmPo5KdHZmNt9OG6D3hhCunkZusUbAO774HvGjBt4FNykdhkSpxk6znn-YCV5Eo7dFCMMORNv4jER-85Q0MfKL5FUXK91jLt-nN1Be33fNPZOldibZgluKnVz1UMNV5h3EECeh9euHad8PB0FXjr8Yg5kVzUu0zShlfPnpnfFPIIlgMRjU4R1ehlOSxzjMCwYn4hnwoIQLLVG98FviO1ZtjlVHPyYcyuiEaYArcnHBuAfvHMnH8Zi5oHEH4afedLCYtTdKF6_OKouOLdjdoI9h7pSixBOSrUkg32z7b5dpJJZHbMQwu4Oi_wU/w140-h119-p/MAQUETA%2B%25281%2529%2B%252814%2529.png" group-title="DEPORTES", DIRECTV 2
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/26
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-LQdqTpmXe9o/X5YqXcMDXiI/AAAAAAAALZU/9jUwmb4Rj7M3lz4baZVMEZY89p8ODAqawCEwYBhgLKtMDAL1OcqzopnAFnYNOrQc7Zbd2EHs9q7RdJl8p9-qwitrsqfYfQuLF-5n2HRlJE7rMJQns0UdoNVZhL3DXG1TRPbYh4ZEPrqQ3ISqWoQKu1dNA14yEvvddbUNoUbjtztHAAgXWo1Bj7RGzcE-0GRsbA48gBkBSS2wiQ2cJ7RZ8GUyhIXDilOgmZuptjYJmVB2fSlIztLHgiGVoMkhtRK95XwWRxqHJX03B7oXfB0k63lmsQQCod87aeikuS6DBcCA3g07mSjivFfM4ArV_-xVDBRI1qgFsbPs-VaR6RwGF5bTQsDFHl-Tx9mj4-V5Z_efmPo5KdHZmNt9OG6D3hhCunkZusUbAO774HvGjBt4FNykdhkSpxk6znn-YCV5Eo7dFCMMORNv4jER-85Q0MfKL5FUXK91jLt-nN1Be33fNPZOldibZgluKnVz1UMNV5h3EECeh9euHad8PB0FXjr8Yg5kVzUu0zShlfPnpnfFPIIlgMRjU4R1ehlOSxzjMCwYn4hnwoIQLLVG98FviO1ZtjlVHPyYcyuiEaYArcnHBuAfvHMnH8Zi5oHEH4afedLCYtTdKF6_OKouOLdjdoI9h7pSixBOSrUkg32z7b5dpJJZHbMQwu4Oi_wU/w140-h119-p/MAQUETA%2B%25281%2529%2B%252813%2529.png" group-title="DEPORTES", DIRECTV PLUS
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/27
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-jLRJio1ccXw/X4myBYuW-AI/AAAAAAAALV8/Fk_PNxYEN9gCXmX5Hcm_K1KRLgYdg2rQgCEwYBhgLKtMDAL1OcqzopnAFnYNOrQc7Zbd2EHs9q7RdJl8p9-qwitrsqfYfQuLF-5n2HRlJE7rMJQns0UdoNVZhL3DXG1TRPbYh4ZEPrqQ3ISqWoQKu1dNA14yEvvddbUNoUbjtztHAAgXWo1Bj7RGzcE-0GRsbA48gBkBSS2wiQ2cJ7RZ8GUyhIXDilOgmZuptjYJmVB2fSlIztLHgiGVoMkhtRK95XwWRxqHJX03B7oXfB0k63lmsQQCod87aeikuS6DBcCA3g07mSjivFfM4ArV_-xVDBRI1qgFsbPs-VaR6RwGF5bTQsDFHl-Tx9mj4-V5Z_efmPo5KdHZmNt9OG6D3hhCunkZusUbAO774HvGjBt4FNykdhkSpxk6znn-YCV5Eo7dFCMMORNv4jER-85Q0MfKL5FUXK91jLt-nN1Be33fNPZOldibZgluKnVz1UMNV5h3EECeh9euHad8PB0FXjr8Yg5kVzUu0zShlfPnpnfFPIIlgMRjU4R1ehlOSxzjMCwYn4hnwoIQLLVG98FviO1ZtjlVHPyYcyuiEaYArcnHBuAfvHMnH8Zi5oHEH4afedLCYtTdKF6_OKouOLdjdoI9h7pSixBOSrUkg32z7b5dpJJZHbMQwu4Oi_wU/w140-h119-p/E%2521%2B%252888%2529.png" group-title="DEPORTES", SKY SPORTS
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/28
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/--CFqMqKKHts/X5b5tzYlY3I/AAAAAAAALZ4/MZHu2K5RhH87aKBh-VI6T_uzrZjaVZpMwCEwYBhgLKtMDAL1OcqzopnAFnYNOrQc7Zbd2EHs9q7RdJl8p9-qwitrsqfYfQuLF-5n2HRlJE7rMJQns0UdoNVZhL3DXG1TRPbYh4ZEPrqQ3ISqWoQKu1dNA14yEvvddbUNoUbjtztHAAgXWo1Bj7RGzcE-0GRsbA48gBkBSS2wiQ2cJ7RZ8GUyhIXDilOgmZuptjYJmVB2fSlIztLHgiGVoMkhtRK95XwWRxqHJX03B7oXfB0k63lmsQQCod87aeikuS6DBcCA3g07mSjivFfM4ArV_-xVDBRI1qgFsbPs-VaR6RwGF5bTQsDFHl-Tx9mj4-V5Z_efmPo5KdHZmNt9OG6D3hhCunkZusUbAO774HvGjBt4FNykdhkSpxk6znn-YCV5Eo7dFCMMORNv4jER-85Q0MfKL5FUXK91jLt-nN1Be33fNPZOldibZgluKnVz1UMNV5h3EECeh9euHad8PB0FXjr8Yg5kVzUu0zShlfPnpnfFPIIlgMRjU4R1ehlOSxzjMCwYn4hnwoIQLLVG98FviO1ZtjlVHPyYcyuiEaYArcnHBuAfvHMnH8Zi5oHEH4afedLCYtTdKF6_OKouOLdjdoI9h7pSixBOSrUkg32z7b5dpJJZHbMQwu4Oi_wU/w140-h119-p/MAQUETA%2B%25281%2529%2B%252817%2529.png" group-title="DEPORTES", AYM SPORTS
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/29
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-wJ49zNaNs6A/X5L7ZRpD0QI/AAAAAAAALXg/VhsjxeL5KEUvCOFyAghyKH6ir-qvhpjcwCLcBGAsYHQ/s0/MAQUETA%2B%25281%2529%2B%25284%2529.png" group-title="DEPORTES", TNT SPORTS
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/30
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-5AsZqMh4VQs/X4RzUhOjtsI/AAAAAAAALSc/ddl9yDp8-VEDlEeInl8O7XuCyvP-pj9mgCLcBGAsYHQ/s0/E%2521%2B%252867%2529.png" group-title="DEPORTES", WinSports +
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/31
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-JXcrM7XT45A/X5hvA9j6JCI/AAAAAAAALbE/u09fMSFOWfA1hVu7y1-MLWSD7-rnjK1oACLcBGAsYHQ/s0/MAQUETA%2B%25281%2529%2B%252824%2529.png" group-title="DEPORTES", VTV_PLUS
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/32
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-iZW3hGTstCU/X5NlDS4pjNI/AAAAAAAALYQ/o7FsNIvBfM0VqHU7qXd_VldyEo8zYdg2wCEwYBhgLKtMDAL1OcqzopnAFnYNOrQc7Zbd2EHs9q7RdJl8p9-qwitrsqfYfQuLF-5n2HRlJE7rMJQns0UdoNVZhL3DXG1TRPbYh4ZEPrqQ3ISqWoQKu1dNA14yEvvddbUNoUbjtztHAAgXWo1Bj7RGzcE-0GRsbA48gBkBSS2wiQ2cJ7RZ8GUyhIXDilOgmZuptjYJmVB2fSlIztLHgiGVoMkhtRK95XwWRxqHJX03B7oXfB0k63lmsQQCod87aeikuS6DBcCA3g07mSjivFfM4ArV_-xVDBRI1qgFsbPs-VaR6RwGF5bTQsDFHl-Tx9mj4-V5Z_efmPo5KdHZmNt9OG6D3hhCunkZusUbAO774HvGjBt4FNykdhkSpxk6znn-YCV5Eo7dFCMMORNv4jER-85Q0MfKL5FUXK91jLt-nN1Be33fNPZOldibZgluKnVz1UMNV5h3EECeh9euHad8PB0FXjr8Yg5kVzUu0zShlfPnpnfFPIIlgMRjU4R1ehlOSxzjMCwYn4hnwoIQLLVG98FviO1ZtjlVHPyYcyuiEaYArcnHBuAfvHMnH8Zi5oHEH4afedLCYtTdKF6_OKouOLdjdoI9h7pSixBOSrUkg32z7b5dpJJZHbMQwu4Oi_wU/w140-h119-p/MAQUETA%2B%25281%2529%2B%25288%2529.png" group-title="DEPORTES", M. LA LIGA HD
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/33
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-G1gX66gf6iY/X4muDryFrEI/AAAAAAAALU0/yotdpziV7YE-nHkw5Wepza6tbrUTRLlJgCEwYBhgLKtMDAL1OcqzopnAFnYNOrQc7Zbd2EHs9q7RdJl8p9-qwitrsqfYfQuLF-5n2HRlJE7rMJQns0UdoNVZhL3DXG1TRPbYh4ZEPrqQ3ISqWoQKu1dNA14yEvvddbUNoUbjtztHAAgXWo1Bj7RGzcE-0GRsbA48gBkBSS2wiQ2cJ7RZ8GUyhIXDilOgmZuptjYJmVB2fSlIztLHgiGVoMkhtRK95XwWRxqHJX03B7oXfB0k63lmsQQCod87aeikuS6DBcCA3g07mSjivFfM4ArV_-xVDBRI1qgFsbPs-VaR6RwGF5bTQsDFHl-Tx9mj4-V5Z_efmPo5KdHZmNt9OG6D3hhCunkZusUbAO774HvGjBt4FNykdhkSpxk6znn-YCV5Eo7dFCMMORNv4jER-85Q0MfKL5FUXK91jLt-nN1Be33fNPZOldibZgluKnVz1UMNV5h3EECeh9euHad8PB0FXjr8Yg5kVzUu0zShlfPnpnfFPIIlgMRjU4R1ehlOSxzjMCwYn4hnwoIQLLVG98FviO1ZtjlVHPyYcyuiEaYArcnHBuAfvHMnH8Zi5oHEH4afedLCYtTdKF6_OKouOLdjdoI9h7pSixBOSrUkg32z7b5dpJJZHbMQwu4Oi_wU/w140-h119-p/E%2521%2B%252880%2529.png" group-title="DEPORTES", M.LIGA CAMPEONES
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/34
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-RSghCYhppz8/X5NmVAEldGI/AAAAAAAALYc/vxyzsHuKlk0OGX01GDzMgKZ7_bgryLdfgCEwYBhgLKtQDAL1Ocqw6OXKfUBAbnT6iCi1ge4f0FQ4utW35AvTLFy4zYW-13Sb8-Nx7kMg1p9hp5aMw3IKpWY86vkNViPugyiIojaE65WWbnLrEb81UbUXl3ccSZgpVt_ugU65qmcYBo3LxSi3KmaePjAMCuoVx9tO7To0lZn0YImbgR6K0d7j5BvS-DKBCtCDkjvWxSYFMMdnx9v1yWedDyC0cOgByv3HvrSk_N-C8tjoAmcHSb9At9zLtvAQbI00DKHrqNrFTIzW_Vkn2Xzq5iVMkRQc99xtKdj890DsHYAr7FFN3Dc4Z-LNmbUPDiEiAwjhEtI8MdZGGpwzRk4KAkw7sUYbYqVVhlxE42U6nouATLI5UAwZuujDDftn6uoQBo6pDdWV5Dfei4vzoVNIZzwo2yckRvz69qk4baGI8iUuQaAn3P45P5PrwBCmRVW5UwHpBSplXg2LqBGfmDN67oBKv34YC6GF90KlYbHGy1Mwbu5T4DUO_B_TrlTeCbREpOzi2sRXz4BAaTsB5CinGi40oqK7BBgWFa_GyZrK20edeEigdkULcSfsSMkL2o3xS8OrtGe6pM6h8FV-mp4bhM1NaOniIEvzsdFdgT0SBIy6EsQI9HmdpqzAeMPmT0YAG/w140-h119-p/MAQUETA%2B%25281%2529%2B%25289%2529.png" group-title="DEPORTES", LA LIGA TV
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/35
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-MBhkjaiyIV4/X4mxjnRHpSI/AAAAAAAALV0/FuklEBaj8zMFUHjSaME4vDZ7ShOkoEM2gCEwYBhgLKtMDAL1OcqzopnAFnYNOrQc7Zbd2EHs9q7RdJl8p9-qwitrsqfYfQuLF-5n2HRlJE7rMJQns0UdoNVZhL3DXG1TRPbYh4ZEPrqQ3ISqWoQKu1dNA14yEvvddbUNoUbjtztHAAgXWo1Bj7RGzcE-0GRsbA48gBkBSS2wiQ2cJ7RZ8GUyhIXDilOgmZuptjYJmVB2fSlIztLHgiGVoMkhtRK95XwWRxqHJX03B7oXfB0k63lmsQQCod87aeikuS6DBcCA3g07mSjivFfM4ArV_-xVDBRI1qgFsbPs-VaR6RwGF5bTQsDFHl-Tx9mj4-V5Z_efmPo5KdHZmNt9OG6D3hhCunkZusUbAO774HvGjBt4FNykdhkSpxk6znn-YCV5Eo7dFCMMORNv4jER-85Q0MfKL5FUXK91jLt-nN1Be33fNPZOldibZgluKnVz1UMNV5h3EECeh9euHad8PB0FXjr8Yg5kVzUu0zShlfPnpnfFPIIlgMRjU4R1ehlOSxzjMCwYn4hnwoIQLLVG98FviO1ZtjlVHPyYcyuiEaYArcnHBuAfvHMnH8Zi5oHEH4afedLCYtTdKF6_OKouOLdjdoI9h7pSixBOSrUkg32z7b5dpJJZHbMQwu4Oi_wU/w140-h119-p/E%2521%2B%252887%2529.png" group-title="DEPORTES", #V
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/38
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-OiR0EgRO4Co/X4mwsbOG0tI/AAAAAAAALVg/SBzRrKDaW7ASKvAbTYk3Z4Ot5s8KBy9YQCEwYBhgLKtMDAL1OcqzopnAFnYNOrQc7Zbd2EHs9q7RdJl8p9-qwitrsqfYfQuLF-5n2HRlJE7rMJQns0UdoNVZhL3DXG1TRPbYh4ZEPrqQ3ISqWoQKu1dNA14yEvvddbUNoUbjtztHAAgXWo1Bj7RGzcE-0GRsbA48gBkBSS2wiQ2cJ7RZ8GUyhIXDilOgmZuptjYJmVB2fSlIztLHgiGVoMkhtRK95XwWRxqHJX03B7oXfB0k63lmsQQCod87aeikuS6DBcCA3g07mSjivFfM4ArV_-xVDBRI1qgFsbPs-VaR6RwGF5bTQsDFHl-Tx9mj4-V5Z_efmPo5KdHZmNt9OG6D3hhCunkZusUbAO774HvGjBt4FNykdhkSpxk6znn-YCV5Eo7dFCMMORNv4jER-85Q0MfKL5FUXK91jLt-nN1Be33fNPZOldibZgluKnVz1UMNV5h3EECeh9euHad8PB0FXjr8Yg5kVzUu0zShlfPnpnfFPIIlgMRjU4R1ehlOSxzjMCwYn4hnwoIQLLVG98FviO1ZtjlVHPyYcyuiEaYArcnHBuAfvHMnH8Zi5oHEH4afedLCYtTdKF6_OKouOLdjdoI9h7pSixBOSrUkg32z7b5dpJJZHbMQwu4Oi_wU/w140-h119-p/E%2521%2B%252885%2529.png" group-title="DEPORTES", M.DEPORTES HD
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/39
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-jnwIxWMhvXo/XtwnvLBYMqI/AAAAAAAAK-Y/-qRuyvZkvrgEdceOKd7i8iVf1JZpfoerQCEwYBhgLKtMDAL1OcqzopnAFnYNOrQc7Zbd2EHs9q7RdJl8p9-qwitrsqfYfQuLF-5n2HRlJE7rMJQns0UdoNVZhL3DXG1TRPbYh4ZEPrqQ3ISqWoQKu1dNA14yEvvddbUNoUbjtztHAAgXWo1Bj7RGzcE-0GRsbA48gBkBSS2wiQ2cJ7RZ8GUyhIXDilOgmZuptjYJmVB2fSlIztLHgiGVoMkhtRK95XwWRxqHJX03B7oXfB0k63lmsQQCod87aeikuS6DBcCA3g07mSjivFfM4ArV_-xVDBRI1qgFsbPs-VaR6RwGF5bTQsDFHl-Tx9mj4-V5Z_efmPo5KdHZmNt9OG6D3hhCunkZusUbAO774HvGjBt4FNykdhkSpxk6znn-YCV5Eo7dFCMMORNv4jER-85Q0MfKL5FUXK91jLt-nN1Be33fNPZOldibZgluKnVz1UMNV5h3EECeh9euHad8PB0FXjr8Yg5kVzUu0zShlfPnpnfFPIIlgMRjU4R1ehlOSxzjMCwYn4hnwoIQLLVG98FviO1ZtjlVHPyYcyuiEaYArcnHBuAfvHMnH8Zi5oHEH4afedLCYtTdKF6_OKouOLdjdoI9h7pSixBOSrUkg32z7b5dpJJZHbMQwu4Oi_wU/w140-h119-p/baner%2Bprincipal%2B%252826%2529.png" group-title="DEPORTES", REAL MADRID
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/40
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-fjc4xUU7zow/Xtwn1ZWjnuI/AAAAAAAAK-E/f5s1CdEhMYIfT4R8shDDUjVtC-YdKHfnwCEwYBhgLKtMDAL1OcqzopnAFnYNOrQc7Zbd2EHs9q7RdJl8p9-qwitrsqfYfQuLF-5n2HRlJE7rMJQns0UdoNVZhL3DXG1TRPbYh4ZEPrqQ3ISqWoQKu1dNA14yEvvddbUNoUbjtztHAAgXWo1Bj7RGzcE-0GRsbA48gBkBSS2wiQ2cJ7RZ8GUyhIXDilOgmZuptjYJmVB2fSlIztLHgiGVoMkhtRK95XwWRxqHJX03B7oXfB0k63lmsQQCod87aeikuS6DBcCA3g07mSjivFfM4ArV_-xVDBRI1qgFsbPs-VaR6RwGF5bTQsDFHl-Tx9mj4-V5Z_efmPo5KdHZmNt9OG6D3hhCunkZusUbAO774HvGjBt4FNykdhkSpxk6znn-YCV5Eo7dFCMMORNv4jER-85Q0MfKL5FUXK91jLt-nN1Be33fNPZOldibZgluKnVz1UMNV5h3EECeh9euHad8PB0FXjr8Yg5kVzUu0zShlfPnpnfFPIIlgMRjU4R1ehlOSxzjMCwYn4hnwoIQLLVG98FviO1ZtjlVHPyYcyuiEaYArcnHBuAfvHMnH8Zi5oHEH4afedLCYtTdKF6_OKouOLdjdoI9h7pSixBOSrUkg32z7b5dpJJZHbMQwu4Oi_wU/w140-h119-p/baner%2Bprincipal%2B%252842%2529.png" group-title="DEPORTES", GOLTV
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/41
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-zWhbpX_du5U/X4mv841l8HI/AAAAAAAALVM/U_WIa9WJub0t5BQK_gCuITxY7sz_axwaACEwYBhgLKtMDAL1OcqzopnAFnYNOrQc7Zbd2EHs9q7RdJl8p9-qwitrsqfYfQuLF-5n2HRlJE7rMJQns0UdoNVZhL3DXG1TRPbYh4ZEPrqQ3ISqWoQKu1dNA14yEvvddbUNoUbjtztHAAgXWo1Bj7RGzcE-0GRsbA48gBkBSS2wiQ2cJ7RZ8GUyhIXDilOgmZuptjYJmVB2fSlIztLHgiGVoMkhtRK95XwWRxqHJX03B7oXfB0k63lmsQQCod87aeikuS6DBcCA3g07mSjivFfM4ArV_-xVDBRI1qgFsbPs-VaR6RwGF5bTQsDFHl-Tx9mj4-V5Z_efmPo5KdHZmNt9OG6D3hhCunkZusUbAO774HvGjBt4FNykdhkSpxk6znn-YCV5Eo7dFCMMORNv4jER-85Q0MfKL5FUXK91jLt-nN1Be33fNPZOldibZgluKnVz1UMNV5h3EECeh9euHad8PB0FXjr8Yg5kVzUu0zShlfPnpnfFPIIlgMRjU4R1ehlOSxzjMCwYn4hnwoIQLLVG98FviO1ZtjlVHPyYcyuiEaYArcnHBuAfvHMnH8Zi5oHEH4afedLCYtTdKF6_OKouOLdjdoI9h7pSixBOSrUkg32z7b5dpJJZHbMQwu4Oi_wU/w140-h119-p/E%2521%2B%252883%2529.png" group-title="DEPORTES", GOLF HD
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/42
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-L0n3i49rMts/Xtwn2vI1GqI/AAAAAAAAK-M/uwIU7N1ApgYYGZRdGiusFpEDFa9qOVZvACEwYBhgLKtMDAL1OcqzopnAFnYNOrQc7Zbd2EHs9q7RdJl8p9-qwitrsqfYfQuLF-5n2HRlJE7rMJQns0UdoNVZhL3DXG1TRPbYh4ZEPrqQ3ISqWoQKu1dNA14yEvvddbUNoUbjtztHAAgXWo1Bj7RGzcE-0GRsbA48gBkBSS2wiQ2cJ7RZ8GUyhIXDilOgmZuptjYJmVB2fSlIztLHgiGVoMkhtRK95XwWRxqHJX03B7oXfB0k63lmsQQCod87aeikuS6DBcCA3g07mSjivFfM4ArV_-xVDBRI1qgFsbPs-VaR6RwGF5bTQsDFHl-Tx9mj4-V5Z_efmPo5KdHZmNt9OG6D3hhCunkZusUbAO774HvGjBt4FNykdhkSpxk6znn-YCV5Eo7dFCMMORNv4jER-85Q0MfKL5FUXK91jLt-nN1Be33fNPZOldibZgluKnVz1UMNV5h3EECeh9euHad8PB0FXjr8Yg5kVzUu0zShlfPnpnfFPIIlgMRjU4R1ehlOSxzjMCwYn4hnwoIQLLVG98FviO1ZtjlVHPyYcyuiEaYArcnHBuAfvHMnH8Zi5oHEH4afedLCYtTdKF6_OKouOLdjdoI9h7pSixBOSrUkg32z7b5dpJJZHbMQwu4Oi_wU/w140-h119-p/baner%2Bprincipal%2B%252848%2529.png" group-title="DEPORTES", EUROSPORT 1
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/43
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-L0n3i49rMts/Xtwn2vI1GqI/AAAAAAAAK-M/uwIU7N1ApgYYGZRdGiusFpEDFa9qOVZvACEwYBhgLKtMDAL1OcqzopnAFnYNOrQc7Zbd2EHs9q7RdJl8p9-qwitrsqfYfQuLF-5n2HRlJE7rMJQns0UdoNVZhL3DXG1TRPbYh4ZEPrqQ3ISqWoQKu1dNA14yEvvddbUNoUbjtztHAAgXWo1Bj7RGzcE-0GRsbA48gBkBSS2wiQ2cJ7RZ8GUyhIXDilOgmZuptjYJmVB2fSlIztLHgiGVoMkhtRK95XwWRxqHJX03B7oXfB0k63lmsQQCod87aeikuS6DBcCA3g07mSjivFfM4ArV_-xVDBRI1qgFsbPs-VaR6RwGF5bTQsDFHl-Tx9mj4-V5Z_efmPo5KdHZmNt9OG6D3hhCunkZusUbAO774HvGjBt4FNykdhkSpxk6znn-YCV5Eo7dFCMMORNv4jER-85Q0MfKL5FUXK91jLt-nN1Be33fNPZOldibZgluKnVz1UMNV5h3EECeh9euHad8PB0FXjr8Yg5kVzUu0zShlfPnpnfFPIIlgMRjU4R1ehlOSxzjMCwYn4hnwoIQLLVG98FviO1ZtjlVHPyYcyuiEaYArcnHBuAfvHMnH8Zi5oHEH4afedLCYtTdKF6_OKouOLdjdoI9h7pSixBOSrUkg32z7b5dpJJZHbMQwu4Oi_wU/w140-h119-p/baner%2Bprincipal%2B%252848%2529.png" group-title="DEPORTES", EUROSPORTS 2
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/44
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-OjpRfHZ47TI/X4mwSycQ67I/AAAAAAAALVY/cpIGRbd3DOA3vtjx2JipD5buNm7trw-4ACEwYBhgLKtQDAL1OcqxlMZZv_afBLlNonfODD0JX3_Ps7Nb8NmMYz6UrA9qh2yzKjyhAlo3KkusmjiJYS4or_9igGcQHi6MuxmJmho8sX4TCwtQZuEksBKftkHWMttpblD5YsqmAEqyupo2GS1frlcGJFZ5uZ6M51eDniLU2cLRVo46n9YIGXg2XkhGaMDNcBCzRtHb589QXBOWYeRPpLC18F4gPnffOzwaepQZJeqMiWxnPqpzf1WXzzClND94XqUao8xVxwo0rt2pKNJfz5rjxd2P0enxQ4zf6ffXkW3LJ3d1vIdbeaaYDyCzCAbTbE3qqaXxqbbJAjdzDBczjStxn0zuC7os7QrUAt_eezpQvkljmBLxE7iRIZ7JHXdDaBloIlk1nUKHH0bgU2mWmq9_e5TB0AK-zR9Le-axcKXq4DjhhHOgxptg1JWo5Fku6cZJDNHXynuV7LOyWpFf-jwyqEejiZhxd6q3Tbp47ecWvDHwDFKPLiAUViZsPMP34BOgxpAfWxuv4m2wlE78kwKqY1iSOSyk_OwdUUQ_x7ZneHtLIxCY37OjgrvXQh9TEI6vyqF_bjdjI1g_DlbhvHCH80HKN7XqHxOlL_RK7ad6DYZvmZZo6hzK4IvCpMJestoAG/w140-h119-p/E%2521%2B%252884%2529.png" group-title="DEPORTES", M. FORMULA 1
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/46
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-jJu8QLEutJg/Xtwn056eZ-I/AAAAAAAAK-U/VodKrkki5RYJIJzMFyBtuisHG73dY9plQCEwYBhgLKtMDAL1Ocqy06I6KncrL-NNh6DXtHdE2Yg3u2hWzzdcnmXvDLpD1bDg0W74iYxf853lHw22FCZWLD1a6gosnbB6PO-dI3sGo0qrkQNSoYn7-Y3SuGaX-1jvnTR_vRHMOKseR5e6XOOjqW9aICTDdlU6WrUXO3NJSCNxOzlcHZvFnVzUxLUDjarSSgcUIDZXoffpOwX2m1sNm6FigdNUlWoPzkQqp0lV4vA7KDM5fH5u31-iaLXb2m3vlpmGmeKOl2-yPguvkw3kq84q2YxxuxUMShJVp9ezXViHwhsSxnZmNpX0xmuP6gbmoP4OuvYH4OHwc0Z7Y86V8DGXEuX_1hQDA6xx52bJNobE35rXS0Xd9nzrKsbecbUJHsStRlNtKnRCzv7PUzp2A0lLh_qUi-_4dtcYo54ogIbiIvWJuVE51o66xkXhXc3B4yLrDryz8aCLehbAVY2F-1cIC4mOTqmYiJPkbXLsyZcy7TZu_LT7EsDWG_19saMOvUdVj_eXkxh2c0tqc-ijncSaTcl0nxReA0DNpi9ljXW8eQ9fjH6QYpZbsitanL0KT2N7Uxg4ATgSzhf9FB857b2BCBqOvwMeSZj--BVdyTE1n_IqlhMIaftyYHjAw94Xi_wU/w140-h119-p/baner%2Bprincipal%2B%252840%2529.png" group-title="DEPORTES", BARCATV
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/47
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-4CVVgoiNShY/X3fJaBfYzCI/AAAAAAAALOI/oiLoG491MikzUXYzQSHTKhyJVuZwp8ZqACEwYBhgLKtQDAL1OcqysjU01D7ZjWuVsfO3_XaW0kebIjzQuH3SgqeVpwlp6S3-RXOB4-oYbPK3wSIAj5tfLX8PKLlqZZvSA_2oGFmwJLpE6-wJz3J2bu-M8HaaeQhvNJtWZ2_Smksy5Agi7RANG76y5IDhvyA26Z5wvS1hsjH3VI7cobJOokSYiiJL8wordGNEo4M3p2Wcf1IwLd5zZ9jK9e93r6YEZzxdY-fNOPYRznESOwbHiF52NhvAFfO0gKVRGsb_yJRnCBLPk0Vb83_rDEG85-1hxKIorLnU5LUCrskCohrTCqqHc1GAHl9UwzJnL6KUmj8zWbA3GbyIu05mM1j7gEZDqQt-8KiXG7tb1uhmvpaJC0GgyK-5Ik74TO7laPs0DXENOnWW5a1AJ7uniUCV_gIu4zhXXuRUBii1skay_8QJXDFZap-hf-5A_m03vWpLcFck0Zd9UUc59b_p7kI5bO9Xl9KLoRIXzcKWipQIK9OjiwkRK-1TFHJTx-6LzPc7HoXt2UtzOeGCGgEiU6XgUXshcQ7H4cs2oHNMSTzuBdATHfAuIJfl-y9fC8FPeprw_1n3Ht8nEKiienMMspDpu5Ht8T0-vOj75PZxQEt5K5MHwNil7csCEMPvl-oAG/w140-h119-p/E%2521%2B%252838%2529.png" group-title="DEPORTES", NBA TV
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/48
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-ZBot0N5ICeY/XpNBN23kXEI/AAAAAAAAKaM/y_1hM4AldUk_s8hngeTY1iQBfheatYXjwCEwYBhgLKtMDAL1OcqzPmQyO_DUIk4XEDkfRhi6AF0IoHlPQ3fPeo8S9-XicUQ1oYDq9tdOxmIyWf_y-nE6qRhcAxR8jPhVQtjYuHsri5yn_wr905Cw5Mx9IqxGUJ9j23ikgqWI7TXqhIx80drKeAi1SSSXMK2QVt7RpHwraTTCpnYfDnkiIBjLqSmxEmYmO_JI312hjKx0uM01uLrI9SEzbd40R4vnJuHT4XOcrq50QUJrHHCs38l7uolVd-dfFJnZgf982I_RCkogemchU2VIz1wcvTTeLLSOi0iSTjqlBVn9WJuG2o1uJ2Pa-5FxBemDEDXh21b2QMeK-K_BS5anCzcLcTIYelSZCO-AF6e_OT5rwzwzGGtnY7ZmhmWZWR9jCopjNyTgAINEyKCHvcAkufKRSsR4HA0uMhBEH8GFaNaQjJw54puR-ZIHphVzsQhPG90_XB8Da-oZmV8gdSALIYH-qGlRSifC2j2jXb5kLnkKf-xrX_3KsnlYjkG2gz1tl1Ra8n7NT4TATTIhHJXdZErKAm8sG6OZ32gLzIKM9xEW4cuckHBbyo2moNcRJa6ufWCMWrIX78WJIK-P5boFa-8b4wLR-GTCopK3VCMZBxLD2R0VyVbbtmBsw8o-i_wU/w140-h119-p/ESPN%2B%25281%2529.png" group-title="DEPORTES", ESPN 1 USA
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/49
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-74JXOuNRH9M/XpUcTMwC9sI/AAAAAAAAKgg/3oxNFz7NcUM0jhTJ9QUx3D9rKHUYbxAxwCEwYBhgLKtMDAL1OcqzPmQyO_DUIk4XEDkfRhi6AF0IoHlPQ3fPeo8S9-XicUQ1oYDq9tdOxmIyWf_y-nE6qRhcAxR8jPhVQtjYuHsri5yn_wr905Cw5Mx9IqxGUJ9j23ikgqWI7TXqhIx80drKeAi1SSSXMK2QVt7RpHwraTTCpnYfDnkiIBjLqSmxEmYmO_JI312hjKx0uM01uLrI9SEzbd40R4vnJuHT4XOcrq50QUJrHHCs38l7uolVd-dfFJnZgf982I_RCkogemchU2VIz1wcvTTeLLSOi0iSTjqlBVn9WJuG2o1uJ2Pa-5FxBemDEDXh21b2QMeK-K_BS5anCzcLcTIYelSZCO-AF6e_OT5rwzwzGGtnY7ZmhmWZWR9jCopjNyTgAINEyKCHvcAkufKRSsR4HA0uMhBEH8GFaNaQjJw54puR-ZIHphVzsQhPG90_XB8Da-oZmV8gdSALIYH-qGlRSifC2j2jXb5kLnkKf-xrX_3KsnlYjkG2gz1tl1Ra8n7NT4TATTIhHJXdZErKAm8sG6OZ32gLzIKM9xEW4cuckHBbyo2moNcRJa6ufWCMWrIX78WJIK-P5boFa-8b4wLR-GTCopK3VCMZBxLD2R0VyVbbtmBsw8o-i_wU/w140-h119-p/ESPN%2B2.png" group-title="DEPORTES", ESPN 2 USA
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/50
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-SGSiK0OU4ig/XsKVol_s_BI/AAAAAAAAKv4/W8AZ7184BWgCRosuCUVZlGXldYfqq2VfwCEwYBhgLKtMDAL1OcqzPmQyO_DUIk4XEDkfRhi6AF0IoHlPQ3fPeo8S9-XicUQ1oYDq9tdOxmIyWf_y-nE6qRhcAxR8jPhVQtjYuHsri5yn_wr905Cw5Mx9IqxGUJ9j23ikgqWI7TXqhIx80drKeAi1SSSXMK2QVt7RpHwraTTCpnYfDnkiIBjLqSmxEmYmO_JI312hjKx0uM01uLrI9SEzbd40R4vnJuHT4XOcrq50QUJrHHCs38l7uolVd-dfFJnZgf982I_RCkogemchU2VIz1wcvTTeLLSOi0iSTjqlBVn9WJuG2o1uJ2Pa-5FxBemDEDXh21b2QMeK-K_BS5anCzcLcTIYelSZCO-AF6e_OT5rwzwzGGtnY7ZmhmWZWR9jCopjNyTgAINEyKCHvcAkufKRSsR4HA0uMhBEH8GFaNaQjJw54puR-ZIHphVzsQhPG90_XB8Da-oZmV8gdSALIYH-qGlRSifC2j2jXb5kLnkKf-xrX_3KsnlYjkG2gz1tl1Ra8n7NT4TATTIhHJXdZErKAm8sG6OZ32gLzIKM9xEW4cuckHBbyo2moNcRJa6ufWCMWrIX78WJIK-P5boFa-8b4wLR-GTCopK3VCMZBxLD2R0VyVbbtmBsw8o-i_wU/w140-h140-p/FDNDFRY.png" group-title="DEPORTES", ESPN U USA
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/51
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/--fxa-MOwtSQ/X3YSCKCZ_YI/AAAAAAAALK8/y97iRoy8OS0cgCvZvE1j5PT1amNBZynxACEwYBhgLKtMDAL1OcqzPmQyO_DUIk4XEDkfRhi6AF0IoHlPQ3fPeo8S9-XicUQ1oYDq9tdOxmIyWf_y-nE6qRhcAxR8jPhVQtjYuHsri5yn_wr905Cw5Mx9IqxGUJ9j23ikgqWI7TXqhIx80drKeAi1SSSXMK2QVt7RpHwraTTCpnYfDnkiIBjLqSmxEmYmO_JI312hjKx0uM01uLrI9SEzbd40R4vnJuHT4XOcrq50QUJrHHCs38l7uolVd-dfFJnZgf982I_RCkogemchU2VIz1wcvTTeLLSOi0iSTjqlBVn9WJuG2o1uJ2Pa-5FxBemDEDXh21b2QMeK-K_BS5anCzcLcTIYelSZCO-AF6e_OT5rwzwzGGtnY7ZmhmWZWR9jCopjNyTgAINEyKCHvcAkufKRSsR4HA0uMhBEH8GFaNaQjJw54puR-ZIHphVzsQhPG90_XB8Da-oZmV8gdSALIYH-qGlRSifC2j2jXb5kLnkKf-xrX_3KsnlYjkG2gz1tl1Ra8n7NT4TATTIhHJXdZErKAm8sG6OZ32gLzIKM9xEW4cuckHBbyo2moNcRJa6ufWCMWrIX78WJIK-P5boFa-8b4wLR-GTCopK3VCMZBxLD2R0VyVbbtmBsw8o-i_wU/w140-h119-p/E%2521%2B%252824%2529.png" group-title="DEPORTES", USA | Espn News
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/52
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-28OvJI3Q7yg/XpZidNVpsqI/AAAAAAAAKlI/MzbRWOyyyNM0Nxf2GBGQrNpY2m5Ct9jgwCLcBGAsYHQ/s1600/GOLF.png" group-title="DEPORTES", GOLF CHANNEL
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/54
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-DBsdCnHhBQU/X5ziNgXvLMI/AAAAAAAALcE/CK1ihUxDPUs0bJff--tGSqBeNjfOiimnQCEwYBhgLKtQDAL1OcqzMZ2fE2yT72kChuVqWXOJaNVRY-FXX7qEgjmW-TJWhLDltQ7j0rA3eAZOfMZvXeZbZYhnmMhwRCAM3Rp7gdkWr7oicPpx08fUaGRb_GbsD_1PHKp1DU8g4RrbhKxzq3LJt_GwK2meq8w8oNATkmlfcx_MltYJIYZwqaz1DLvo4dcuKC-PcNHFxEmmjtiX--zLSwexOR1YHnVJNbSDtvYMS7RtN-IbLbHrXYMAFUB8p9RlqQhQEkfaW6uQLb2kivExCLfKlmPvM761eHbaDdv-iicsvfS-Mp_2UYSNzf9w0IEHMj54XQcbXH_3wFNtzqBEwd93gVFnMCb6jm3DhtQ7Q5Pj68HONn9U1Aae8d6UIV0WF9WY6Jo7gUZ9HffsbmyCT1_eBdKieCOmBiTACF3KO_uigmQuIJaDKf0TfX7UFgQUQVY7Ko4Cxl4CKSB9f_FgZD5ow4Yk5Yu1dfmDg38rirmZbBs8UgN-dwPqTvdjRNcflkn0cYgPErCMV5P9pmYc4M06KyCeDkKdduEdw5v8amdXSf7WLFnfIYncbutPYcfQTrY6DkVaWPW7aWMpKGUYHtfUYzNeA8D9k4H-h-FeUFn7_bluoGCuxW4e2UHQdMNW28f8F/w140-h119-p/MAQUETA%2B%25281%2529%2B%252830%2529.png" group-title="DEPORTES", FUTV
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/55
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-5pOAkJ2SqHI/X-iJFyOPX4I/AAAAAAAAL3U/MIR0BKHY3BA40Q07f4-dhHrPlsSWgvYEwCLcBGAsYHQ/s0/MAQUETA%2B%25282%2529%2B%25285%2529.png" group-title="DEPORTES", WAPA 2
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/57
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-TyN6Vta-t_Q/X4mtfzOGRuI/AAAAAAAALUk/IIbKqa9_pwUMZ8CZEYcveZZLZiqFJ73lwCLcBGAsYHQ/s0/E%2521%2B%252879%2529.png" group-title="DEPORTES", BEIN SPORTS ENG HD
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/59
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-x2wD8Gwzf9U/X-iKSvdNEVI/AAAAAAAAL3s/vjt2XV4gEb4QJy-J8v6-Wvyu_17AKKsMACLcBGAsYHQ/s0/MAQUETA%2B%25282%2529%2B%25288%2529.png" group-title="DEPORTES", NFL NETWORK
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/60
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-SZj1yeL8ltU/X4msupPcSnI/AAAAAAAALUc/ZzzWZclDH-s1o4-YHGKttOPiUpxMfWsugCLcBGAsYHQ/s0/E%2521%2B%252878%2529.png" group-title="DEPORTES", TYC SPORTS
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/61
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-iHE9_3GLIsE/X-iLNg7RDoI/AAAAAAAAL4A/7kyCkKiE8Pk_IRX0VJCpJ3xeAjcX5YU8ACLcBGAsYHQ/s0/MAQUETA%2B%25282%2529%2B%252810%2529.png" group-title="DEPORTES", FS1 USA
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/62
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Ds_e0XAmRuY/X-iLNksRDOI/AAAAAAAAL38/H5EocLV-ul0ooodKw264D-VKgiVeB65vgCLcBGAsYHQ/s0/MAQUETA%2B%25282%2529%2B%252811%2529.png" group-title="DEPORTES", FS2 USA
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/63
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", ESPN ACC
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/64
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-pvVmFugOijk/X-iL3dquecI/AAAAAAAAL4Q/OeCm1yNwC501egwPeLajA27EzrUYmWGhACLcBGAsYHQ/s0/MAQUETA%2B%25282%2529%2B%252812%2529.png" group-title="DEPORTES", BOX NATION
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/65
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", DEPORTV
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/66
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-oPngncXbYFo/X-iMmlx_bUI/AAAAAAAAL4g/oU-YyGGqxW0WWEReNJcC9XPtHzOCYocvACLcBGAsYHQ/s0/MAQUETA%2B%25282%2529%2B%252814%2529.png" group-title="DEPORTES", US | MSG NETWORK
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/67
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-AmdsFhY84bk/X-iDO-ge86I/AAAAAAAAL20/zm8oJUehGWwRdMDy_gYMQJQqbax3UAMmACLcBGAsYHQ/s0/MAQUETA%2B%25282%2529%2B%25282%2529.png" group-title="DEPORTES", YES
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/68
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-yJfGaWHWR7U/X4W7c8KJYkI/AAAAAAAALTU/_BLOTavtRb49zlHt3FSw6-COMH2nT_6ywCLcBGAsYHQ/s0/E%2521%2B%252872%2529.png" group-title="DEPORTES", AFIZZIONADOS
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/70
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-C6WuJK_dxjE/XpStg2cfqWI/AAAAAAAAKdo/1AqaM0t5bIsBwr2SEdqYhord52eg658EgCLcBGAsYHQ/s1600/BABY%2BTV.png" group-title="INFANTILES", BABY TV
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/119
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-z7FWKlXm8iM/XpSj0L7RUUI/AAAAAAAAKdE/YliUSZkaL6MxT5iqeGxPCUQNPQVKOXH0gCLcBGAsYHQ/s1600/CARTOON%2BNETWORK.png" group-title="INFANTILES", CARTOON NETWORK
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/120
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Y39cKgsP5eY/XpSubsCnI7I/AAAAAAAAKdw/DlsRuvmW2kADu47FikssJvb-FBIP0WhewCLcBGAsYHQ/s1600/BOOMERANG.png" group-title="INFANTILES", BOOMERANG
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/121
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-WuAU0LpTBr8/XpZWZnOGXUI/AAAAAAAAKjg/GmMJfVF7ktUw_QizZcKV6VLL8MgTfI7HwCLcBGAsYHQ/s1600/NICK.png" group-title="INFANTILES", NICK
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/122
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-nY9xTrxdgs4/XpZVUsKDBxI/AAAAAAAAKjM/o8zzhpRff3MNsgyfdZDbFGXL7PMUaFYDgCLcBGAsYHQ/s1600/NICK%2B2.png" group-title="INFANTILES", NICK 2
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/123
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-fsuYWuVtw6o/XpZVyI_x46I/AAAAAAAAKjY/RZDc9PSE_tQ9LShuqLxYDXDgOkiafXe4wCLcBGAsYHQ/s1600/NICK%2BJR.png" group-title="INFANTILES", NICK JR
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/124
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-53oIcX2Sef0/X3YPxtPA0SI/AAAAAAAALKM/5FmRvoWY0vIQ3MMjBOQ4_albITFILZKEwCLcBGAsYHQ/s0/E%2521%2B%252820%2529.png" group-title="INFANTILES", NICKTOONS
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/125
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-_vM2-eMUWiI/X3YQJIw6ejI/AAAAAAAALKU/nwEqwOFL7YQn7JitcokJ3M6kg-C2XQz_QCLcBGAsYHQ/s0/E%2521%2B%252821%2529.png" group-title="INFANTILES", DISNEY CHANNEL
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/126
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-VkZfWhp7O4c/XpUYQywKdZI/AAAAAAAAKfo/4vf7z5eB1KgXKkEKFPBplk1uqZm8clM6QCLcBGAsYHQ/s1600/DISNEY%2BJR.png" group-title="INFANTILES", DISNEY JUNIOR
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/127
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-xgbfwUw8O0s/XpUZAhXnK9I/AAAAAAAAKf0/X3FoU2unjpobVIJYtZEaRNtLuwbeb9QmQCLcBGAsYHQ/s1600/DISNEY%2BXD.png" group-title="INFANTILES", DISNEY XD
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/128
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-tERAaISDL3A/XpS1T8PayDI/AAAAAAAAKe4/ye47KpWX1nA_-fleLd4-PyF6IjR33Vf8gCLcBGAsYHQ/s1600/DISCOVERY%2BKIDS.png" group-title="INFANTILES", DISCOVERY KIDS
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/129
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-X30v8CALSVM/X3YQnhnt04I/AAAAAAAALKc/x1yDHli3CmQuy4d_EeXraIE0aj-xUB3bwCLcBGAsYHQ/s0/E%2521%2B%252822%2529.png" group-title="INFANTILES", NAT GEO KIDS
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/130
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-6b_4-EuysJw/XpZeRTSW13I/AAAAAAAAKko/K05mtX6Hgpgn7n1bdbiYDfF0dHOFjBNDwCLcBGAsYHQ/s1600/TOONCATS.png" group-title="INFANTILES", TOONCAST
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/131
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-zK2-CWRJDb4/X3Y-uIXZAVI/AAAAAAAALLY/gIQAr9s55lIelB4zcop1qxLO31N5STUTACLcBGAsYHQ/s0/E%2521%2B%252826%2529.png" group-title="INFANTILES", PEQUERADIO TV
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/133
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-qf8U5t1uJNU/X5cVWTVdhoI/AAAAAAAALaY/5iJSH-6P62kDaw8Qj3UDQifWi8unqjiLgCLcBGAsYHQ/s0/MAQUETA%2B%25281%2529%2B%252820%2529.png" group-title="INFANTILES", PANDA
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/134
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-z1ScJTTLTvU/X4mzZ-zuoII/AAAAAAAALWQ/mD___hC5GO0yM8MNtJyvfILDqvMrrYigQCEwYBhgLKtQDAL1OcqxlMZZv_afBLlNonfODD0JX3_Ps7Nb8NmMYz6UrA9qh2yzKjyhAlo3KkusmjiJYS4or_9igGcQHi6MuxmJmho8sX4TCwtQZuEksBKftkHWMttpblD5YsqmAEqyupo2GS1frlcGJFZ5uZ6M51eDniLU2cLRVo46n9YIGXg2XkhGaMDNcBCzRtHb589QXBOWYeRPpLC18F4gPnffOzwaepQZJeqMiWxnPqpzf1WXzzClND94XqUao8xVxwo0rt2pKNJfz5rjxd2P0enxQ4zf6ffXkW3LJ3d1vIdbeaaYDyCzCAbTbE3qqaXxqbbJAjdzDBczjStxn0zuC7os7QrUAt_eezpQvkljmBLxE7iRIZ7JHXdDaBloIlk1nUKHH0bgU2mWmq9_e5TB0AK-zR9Le-axcKXq4DjhhHOgxptg1JWo5Fku6cZJDNHXynuV7LOyWpFf-jwyqEejiZhxd6q3Tbp47ecWvDHwDFKPLiAUViZsPMP34BOgxpAfWxuv4m2wlE78kwKqY1iSOSyk_OwdUUQ_x7ZneHtLIxCY37OjgrvXQh9TEI6vyqF_bjdjI1g_DlbhvHCH80HKN7XqHxOlL_RK7ad6DYZvmZZo6hzK4IvCpMJestoAG/w140-h119-p/E%2521%2B%252890%2529.png" group-title="CULTURALES", HGTV
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/136
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/--rS2vTUhCY4/X4myxvZlSpI/AAAAAAAALWI/oCQQBbtv-zI5NAMaIR-YbOOnK3E_4qk1QCEwYBhgLKtQDAL1OcqxwH9YpKz2FYGnS12SbivHpORB57pE78ajAsK3yDThvzRueVW0tL7RpSkBSNQh5CZhuJOqim_Pf7fzvBbQHl4GSmY3u4MXW28Nvzrv47urF7B5YY2OIKWFZ22D9gT72xjftzr1DdJB5g0wyqteC3mMVO-iusNiAC9PdLTe69fqAB_GM0c3Ri3JRHU4wL2gEn7Dz-t554PQoytw0DyMbqgTyQxgU4nu79qfNJ_rvtB4t-RqG68KVssdnuSMPHCtaTJxQGEcKB5T-yHiaPEWFP-mNFs46dOnZNHTXAjDVpD3VV7lEwOuKEeeHBBYMNHAnVGf_bEqoqio1Eqf_78_CahT2mp9frmpm0KML23Oe-YuCg63jFfyQ9pmaz2IJPUPSwwGhCUtEtlynkL9rCRa4SyJhY_9s_gxUnvazPmlvZt54s_tt79yjA7jWq6x6NJOR1O3ow8YsYxjRc2Ax_WhIGqmKQMysUqFC0nqJ2LbwCxQBU1YNGUODt9pBZee7Xk5xOLNipzwp5_SVCx2ppeFP_rap0iW6L9pqgniHADD9yHCjD-UuODDhvvx-BsJijjrFoIsRrAw712MkK2T_FFRgvbZkJVVsVzEcPD33raD0B8_EMIaNpP8F/w140-h119-p/E%2521%2B%252889%2529.png" group-title="INFANTILES", BITME
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/138
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-jbclrLvV3kw/XpSlC9UILGI/AAAAAAAAKdQ/nc4cybTybVUkipB1c3OtckMiPvl7NbTjgCLcBGAsYHQ/s1600/ANIMAL%2BPLANET.png" group-title="CULTURALES", ANIMAL PLANET
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/139
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-X5zbBYxbgro/XpSxC9eLDxI/AAAAAAAAKeQ/Fkyu18yJ1aUiWFmkjCTi4DzMOjq18iUswCLcBGAsYHQ/s1600/DISCOVERY%2BCHANNEL.png" group-title="CULTURALES", DISCOVERY CHANNEL
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/140
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-HN4Mnuiucv4/XpSz-6waLPI/AAAAAAAAKek/2-oOB6ujj68OIU50LyC7U8AJhRqBgscuACLcBGAsYHQ/s1600/DISCOVERY%2BH%2526H.png" group-title="CULTURALES", DISCOVERY H&H
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/141
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-UTxFYS1yGaI/X3YMuTYC82I/AAAAAAAALJk/ZD-462sahQgqCzmaejpjMcqJpVyAZiBRQCLcBGAsYHQ/s0/E%2521%2B%252816%2529.png" group-title="CULTURALES", DISCOVERY SCIENCE
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/142
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-qmr0_KiazY4/XpUU1kKXnMI/AAAAAAAAKfE/bRrL_KvZZEkFDBoRw36lEva4yUTDbaf7wCLcBGAsYHQ/s1600/DISCOVERY%2Btheater.png" group-title="CULTURALES", DISCOVERY THEATER
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/143
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Dm3ern-38rc/XpUWuGxQcLI/AAAAAAAAKfU/b1V3yhtepxEw-ng8iFKi8xOonjDX6DevQCLcBGAsYHQ/s1600/TURBO.png" group-title="CULTURALES", DISCOVERY TURBO
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/144
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-VM73IhEkgRw/XpUXhm6eXvI/AAAAAAAAKfg/IPZNVkwGNPs_eU75uSlRDZE3cWmtoC_1QCLcBGAsYHQ/s1600/WORLD.png" group-title="CULTURALES", DISCOVERY WORLD
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/145
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Cs90TZ2qIGQ/XpS0luBKFjI/AAAAAAAAKes/QdMmifuo_ok4ZjywgdxLWhsGFFoAwLcZACLcBGAsYHQ/s1600/DISCOVERY%2BID.png" group-title="CULTURALES", DISCOVERY ID
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/146
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-EStcPDV60hM/XpUV4O3CNJI/AAAAAAAAKfM/KkIufxIfxFQoz_T7GNWmejZT5AUTgD0WACLcBGAsYHQ/s1600/TLC.png" group-title="CULTURALES", TLC
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/147
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-WQ7pP1uMpxc/X3YNgHuqOxI/AAAAAAAALJs/DT2b8wvMev40oUoDc8FbUd42sldSQHMNACLcBGAsYHQ/s0/E%2521%2B%252817%2529.png" group-title="CULTURALES", NAT GEO
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/148
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-WQ7pP1uMpxc/X3YNgHuqOxI/AAAAAAAALJs/DT2b8wvMev40oUoDc8FbUd42sldSQHMNACLcBGAsYHQ/s0/E%2521%2B%252817%2529.png" group-title="CULTURALES", NAT GEO WILD
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/149
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-mvvzqon2B4c/XpUpGwNClzI/AAAAAAAAKiQ/YDWnNxEHFT4Zl20YSHeW9pV-KK5p0Gc0QCLcBGAsYHQ/s1600/HISTORY.png" group-title="CULTURALES", HISTORY
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/150
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-dNQWTt36HYw/XpUnMTTEb0I/AAAAAAAAKiI/wc1Vv4d5m-4GqGim14VHP6LHaxtUAxfKgCEwYBhgLKtQDAL1OcqyYEo35LOexkrCFNgadY0PM5nZGoh9YotetlPZDxJ5ACIvlcUNCNCGkTzK8VuX_exiiQ70Zs7DdfFdHf9-8oovL0EWyI-hr5IGbC0kULTWah30boQ8SiPSN-kgxbzakp8qvXsZxymFvzNZo9PkrmeINHZDZ65HHTC9aCUV2X3vuuLGBe6myyAuFWacozGY5ZLW0qhKO95etwvoPi0DqR0OuFHnb16T0-t0hggtCAqjSaJIPlnzxEzXQXEzHJ0n_TGM9b8lY9Kp6e2UcHbyt7WWLW_Hfhkds_sv-ey3Xb0Mip3Npc8Qh_QDv5E7xNwhc1retManwOexomOQYjOxSjIJ--TX_XRCaMLkZDmOelR9b1Xb57oAGn1Mm_d705HkwaaiKlukJh2paGMY701j7KfxCDI_-hU8AND_X-Gt7sZ3xQ5qYbZdGrc8VVsd-Dsmf9xVgdhZUjf82pZhhNO7a5UhU3_ILS2RClKkOEpjOBOXDi9QCdcPSiZZpBCT16cGwMH6o9tpcSucfWl2UZyX1btSXWyHyviMJC2_YVDjRNQ2qYZ32f-R0Dfrj8rQMjrPr_a_b7SyqBp4ZtTVgc0FN1YA9vYkXwZjWoUx4ApSPnuclMMH5uIAG/w140-h119-p/H2.png" group-title="CULTURALES", HISTORY 2
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/151
+
+#EXTINF:-1 tvg-logo="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxISEhUSExIVFRUWFhYYFxgVFRgYFhUYFhYXFhcXFRgYICggGh0mGxgaITEhJSkrLi4uFx8zODMsNygtLisBCgoKDg0OGxAQGy8mICY1MC0vLSsvLS8tLS0tMC0tLS0uLS0tLS0rLy0tLS8tLS0tLS0tLS0tLS0tLS0tLS0tLf/AABEIAKgBLAMBIgACEQEDEQH/xAAbAAABBQEBAAAAAAAAAAAAAAAEAQIDBQYAB//EAEEQAAIBAgQDBgQFAQUGBwAAAAECEQADBBIhMQVBUQYTImFxgTKRobFCUsHR8OEUIzNicgcVQ4KiwhZTY3OSsvH/xAAaAQADAQEBAQAAAAAAAAAAAAACAwQBBQAG/8QALhEAAgIBBAEDAQcFAQAAAAAAAAECEQMEEiExQRMiUTIFYYGRoeHwFEJxwfEj/9oADAMBAAIRAxEAPwDznHWDaYjUEiNeU+2mn3qo7zIrLM5o6wPP1rUcTyXbtxlBgscuntz8qqMRw8jWK6uXG9zlDo52HJ7Up9lVhEEksJCiY68h9TRF8K65goUggEDYyDrPLb60hwrAyPtpUuGwrOY9T6Abn5UmN1tofJr6rEw2F5EamMhGoJH4ZGmv3ArV9nLFojx210+LNuI3iToao7XDXgsonXUcj6jntVxx3ja9z3dvDm18ClnMv8OwI/Cch31MnpVOF+i90okmoTzR2wYv9tOHu23e0hWcwCmCAGII59CPED+tVvaPiqXmGRWVEUhc5BYyzOS0abt9Kp8VjWcyzFjAEkkmBsNaFLE0medu0uhsNPFU32hrV0UtdSaKB2cxE6fz967OYidOlJXRWmCUopa6K9R6yz4VxBrLrcQ+JeokEEQQQdwQSI86N4lxhr0SFVRsiDKg9vfnVApqVQTTY5JJUhUsMJS3PsuuA8Q7q7JgqwKMDtDbH2MH2q+40zW4VhpJG/MAGemxHzrH4awzMFUSSYH7nyG/tWhxmIN/u7Nvxm2uUETrAHinziqcGeUYOC8kufTxlkUwDFLn2EHTbnVVi7OtbGzwe6dWXuyBMGJMeQ15c6g7Y4RUxD5RlkA6beKSdK9l0727gcWsj6npIyZymJ8JgA6SDA3+m1TXmFzIitCqIXNAEnUk+pJ+lHLwd4DMuRT+Ika+QA1PsKhu4PkBpSFCdcor3xukwWxg57zNuiyBI08QB+/1qTD4JoBglZ3+VWHCsI95iMpYgFHKiSAVYqxHll1/01d8DwL29G8LgkkE5SPnEiINMwYFllXSFajUelGyqwWERxkPxMSyxEnKPhjqdY9RVdhccqOWazJM7HUE8xmBHltWj4zirDXAChGg/vRoSfzZBuJ2I10p1/gi3w112S02ZgXBzJcZsrKQiidQ246jSa3Jid1EVj1C27siqyhwV+zqFzWyT+IBlI88sf8A1NabA4FYYXbKm13Tv3qrEQDlZHXQyQBHOYrI4zCtauNbYeJGKmOqmDSXMc4Xuw7ZJnLmOWeuXb3oIZNiakHlw+rTiwbGWzUDMmVTJnKRljSddZ+tOv3iVgbE/Wuu4UBSQ0ssSIMDWND61PLltorjwkmDWgNoPtRSNk1MaehYT05T+1DISuvX+aVOFhdwJ08vPlQRCYPjbgZyV2McokwJMDaTJqCilshmga+QP2mob9sKzAGQCQD1ilST7GJ+COispKjTzJ8uU+tR4VlDeLaDGkgHkSBuKS7c10Jj+axWxdI8+RpFKEJ1Apw1HnNKCnU/Kto9ZtcL2iUnI9tLaiMndzlWIHjBktpz38qbxa1ldTmDI4JUrB5kafKspbJY1dG49pUaPgXQEaZ2LMCesAz7VdDUScNr6IJaeMZ7k+WafAcJD2CrgBiC1olfECBMR0b9utB8IwQNlYj+8u+ImBlt21zGSdgWge1UNntDif8Azrm86sTrvOtF4/D3HtMQjZQRd5xDqs6baFh7GmvNGVSiuiaODJBtZJcN8FrjOKWbDHuzmMgysFUInafi1IO8edUN22LpJDm4rznLDxo2X4mUEmAeeo0qou3DtU/DcQUYOpgg6EUvJqHlkk+inFplhjw7ZDiMEyGCIP38x1FDRWu4xxKwbRS2Cc+UwygCyRqwTqTtOgjqdsnc3pOSCjKkOw5JTjclQylrqWgGnV1LXVph1dSxSxW0esRBV52f4b391beYKDmJaJgKpYwOZgbVSgVYYHFtbYOpKspkEbgjpRwpS5FZVJwaj2anH8GSyhuJcHdEEF93faEjYE6adJk6VmP7e4lVJRTuFJE/6juaseL9oLt9FRsiqpLRbQICx3Zo3MVSDU0zLJN+0RpoTjH/ANHbNNwftAyqLNyXSYU/jSdIB5r5H2qzGS/ir124SbaN4VmC0fAJO22w15abim7O8GuXWLqpK2/EfNh8CjzLR7TScZs3UtqlwQWe45nckQu/TfSm75bOSf0sPrNRdSNP/uu5cPe3xoQcqqQVtjWBKnfr50FhuGaGYGfrouUGJJ9R9KydvEsugYj0JqfC8QAaLoL22gMCTI/zKeRFPjqoKPQD0mXc3uLbD37mDuutm5adbgHeAjOCElgTtoJO5jXWar+Jdprt5lPhULlACqFDZIAkDYafDsPrUeIw2Rr6agKjc5kfgg9PEDPlVDqKilJxftL444y+rkvOJ8Y76AECKpYgSWMvE6nloIA0HrrVhw/tW9uylo27b92zNad82a2W8gYaOU7VkSxru8NK9SV2G8EHHbXBYY7HFvESSxJJJ5k7k9T60O1wupYxKxPnJ3/nShhqQJiTEnYeZo7H4Y2IWQZkjSJgxJB5dPnWbm22w9qjSQIbUqT0j69K7M8euuw1/eprWKZgVbUHLJ2/EDBio7uLB1yf9XyjTSse3uzeeqCLeEa4hcZQEJkSBGmsA1CcsqDAVokjkJ3I5e3Q1158yk6bDYRGokGgaGbS6Nim+yXGqgaEMiB1iecTqRQ9OpKQxqEFLXCkrDQx8KBbzBgdAeWpaJA1mRryGxoGnCuNa3Zi4LjgWJRLiM651VgWX8wB1FX/AGq4tYu2kW3q2dmYhMgggAAiTLb61ikcinm6TT4ZmobSeenjLIsj7RNYfWt4e2Sd0FVGkWe6yeHuvhyFjHibTl5b152pqQOa3HlcOjM+mhmrf4Jr7CaYrkU2a6sGkruYqKnEUlaeOpaSlFaYdFOArop0UaQNiAU4ClAp4WjUQWxgFOAp4WnZaZtBsZFSWNDShKULW7DNxteznHhbs9wzNb8ecOihpkaq6nceYobtjxe3iDbCEsLaEZmXKWJMkwNtvrWZS6RTXuE0xy4qiOOjxrN6vkgdjTrNuaQrU2HMUlw+S3dwaPD4YNYQmB/iWnPMrCZT5xmj2FZriGDNtijCGUwRWlwfGkWyLT2VuBXLAliu4AIYDcadRVLxvHm/ca4wALRoogAABQB7AUzNGO3gl0/qqb3dFIwphFTMKjIqSSLkxlIaU0hpTQYbgeId2pXID4g06A6CADIMrzjSgKWurzk2qZ5JJ2TYW4okPMaHSOW4MnTTnQ7RJjalpKB9BCUlLSGhNEpDSzXGsNOApubypWpDWGiilFTYsJIKAgFQSCZg8wD02qEUXTMHClp1uyzAkKSF1JAJAHn0ptEYOBp4OtR0ookwRxrqSlFEjBwpwpop60aBYoFOFIKeBTYgMUCpFFIoqRBTooW2cq1IEpyLUypT4wFOREEpclErap/c09YRbyAeSkKUabVRtbrXhNUwMrTYopkqJlpMsYakRFzUTmamYVEwqeUUNTIGFRkVMwqMip5IYmREU01IaaRSWhiGUlOpIoaCEpIpa40J4bSGpFSalFisqzbBDSVPctVCaFoJCGkpTTlShNJsRqFbTYKfKNif5ypt6wVIEgk/l15x0pyXI5//ALSrc+Z086bSYFtEtm4bUGdQZgH8UeXQftQs0YuHLlUBgSZY8vMj5Co8ZhcmUg5lYSDGU6GCCp2INFJOvuBTV/eDinU2loEELThTRS0SMNTwvhNi3ZF/EayAQNYAOwgakmnYpsBctObYyOqkqDKyR01g+lEm1/a8IqowDLl0PVRBB6etVjdmbq23uOVUIpMA5iY+grsZIOMUscE413X+zkxlGUm8k2pX1f5cFzwbg+Hs4cYnEjNIBgzADfCABuT59ascPwnBY60xw69266bRB5Zlkgg9RUa2v7bgVS2wzqE0J/EmhB6T+1G9kOGHBW7t2+yrMTBkBVk79TOwrzilSS9tdnOz5ZKMp72sidKN/f8ABB2E4Nh7li61+yrslxgZmQFUEjf1qw4dwvh2Ptv3FprTLAzQRBIMaSQRpTv9n+JzYfE3IGt668eqhoNHcJ4q2MwVxsMFtXhIKgCA24j1Gx5H0pS6RJqsmb1ckk2qaV3xG/lGe7G9mrd1Xv3/APDQkRMAldWZj0FXPD7fDMWTaS1laCQQMpIHNTPvBqLsLdW5hbuEY5XBuAg7w4gmPIzNP7K9l71i/wB7dKhUDRDTmJET5CCd6amubZuoytzyOc2mvpSdf9si7O9n7a4u7ZuqHCpKzzkrB+RqXjnZtbV+2yL/AHTugI5KZEj0I/WrDg+NW7j7zKZUWwoI2OUqJHvRmA4kr3ruHuaxcJSfIzHqDqKdumpbl8K0Llnyqdv4VozvbbhVq01sW0CAhpjnBFWHAuAYZcPba/bVnuNpmn8Xwr8hPvRHayx3t7D2/wA2Ye0gn6TRPHruFm2l28bZtlXUKemik6Hoa9Kd4oR882C88pY4wTfPPF2Y7G8OtYfiIS4gNlyIB2CvoPk32qDt7wVbF5O6TKlxdFH5lMGPWRV//tCw4u2beITUKYkc0fY/OP8A5VYYO2uOsYW63xW3Vm82QFWHuQDSXJ0mUR1bhGGZvjmMl9/j8Sh7S8Hw2Gwtle6U3na2hbWdINw7+3/NQvb3g9iy+GFq0qB3YNE+ISm/zNQduuId7jUtg6Wiq/8AMSGb9B7Va/7Svjwf/uN97dKYzDLLGeDdJ+7c3+XBF2iw3DsKUFzDjxzGUTGWJnxeYqi7QcAs2rlh7Y8Fy4qshJI1IOk67TpWu7UcXTD3bAdFZbhYFjukZdR89fSs5217xb9i4xmyHU6D4WBBJPWRt6GmSUdr/A9oMmVuFt8p9u0/8Lwyj7a4G3Ze2LaBQVYmOcEUR2i4TaVbIRAhe4qkjoRVr2r4K+JNtrbLABBk8mgyI3oLthB7iyGhi49QPhn6/SiniS9RtccV+xdp87msUVLnm/3I8bgcPZABw7OObBcxHrrPyrK8SFvvG7r4NI36Cd9d62OEtYxHC3Gtvb5t+KP39aznalVF85YnKM0fm1+sRWa3GvS3JVz1VP8APyirRz9+1u+O07X5eCnrhS11cdnTCrCVu07O4O0y2L73WvMFzG2UW3bLCQozA594msHYetJh8c15TqO8RCZP47aiT7qBPpPTWrT7P7iLVLI/oZU8awPc3blqZyOyzETlJExyqkujWtV2twro63GBi+ouKTzn4h89fQistc3qfOlu4KdO24JsiohNqatqpVt0mmPsiNrUjmB9hNJby859qVsSxUD2mNSOhqNRWtrwZyHIBHkfw9R1br5Co74uMfEc0aDXYeQqRFkzUz2vIH7fKnU5IVdMEw+ELmJAMGAdyQJgRz051AKMNx0mDlkdBMHppp6igqU+BiHU4U2p8KBOomtRjJsG1xZZHKkdCQT/ACKmv4y84h7jsOhYx8qL4Vw97rrbRczOQoHWZ61d47sXiLalh3dwKJbunDFQNyV0b6VTGM9vZLPNiU6lV/qZbC4m5aMo7Ieqkj5xU2J4jeu6XLruOjMSPlSYobDpQgNZua4D2Rb3VyWOE4letqVt3XRTuFYgGRBkDyp+B4jdsz3dx0nfKxEx1iq4GpAabGYqWOLvjssFxj5+8ztnJnNJDT1kVYXOOYh1yveuMvQsYPr1qjVqlD1RDIJnhi+aLjB8Qe2ZR2U7SpjTpUw4g2bPmOaZzTrPWetUy3Ket2q4Z6EywJ80XdzjN4sG718wkA5jIneKDxeNe4czsWPVjJoA3aableeUyOCK6Qfc4neKd33r5IjLmOWOkVDh+KXrQy27roJmFYgT1gUGXqNmpEpJjVijVUPu3mLFiSWJkknWd5nrTsbxK9dKm5dd8plczE5Tpt02HyocmoyaRJjlBd0TY3H3bsd5cd4mMzExO8T6U2/xG8y5GuuU0GUsSNNtKgNMNKbGKEeOOgizxO8gypddR0DGB6dKFu3mY5mYlupJJ+dIaaaXKTaqxkYpO0gr/el+I714/wBRoMmT69a6nJQSk32w4xS6Q+3aqQ2KJwiAkCY1GvTzr0u5Yt2O8sNhkOGS0czsgD3Xy+FluH8RY6RtTIYbVkmfVrFJRrs8lKRV32Sg4zDqdmuC2Z2i6DaM+zmhMfhwjGNV1ymNx+/UUTwBD39kruLiEeWVg0/SlxxtypFMsi2bi5sWu/snDOwIR2FtiZa35iJJHIjzMQYjL8Q4Y9lyjjXkQZVhyZTzFbrH8KXD3FuZmQOG0yhiNupjn60Pi7du5lCHvAusOFJk76AaDyHvVmXSJx47IdPrVJ+3lMqrFnDnDEC0s90CH8Xe9+GCkEzGTUmIiB1qvt8LdhIUx8vvWmxmMNlkIIBXVQoCgT5LHL71b4a6rqGDET58+c0/Hoovhsnz62ePlLhnkmHgSYBIiAfv/OtT5ATIgSJjoaFgxNS2hH39q4q6o7j+TUdk+EJib+R2KoqPcfLGYhBOVJ0kmPaTWjsYbA4hbiW8P3TLbdrb965Y5FLeIMcp1EEAbHSIrG8NxrWWDI2Ug/0M+RGlX+EvkvbuJOV7mQgbq7gqVHqDp5Guji2beTlamOVytPgy+NM8o/k1WXKuON4RrF17TggqY23B1U+4IPvVO2pqDK/cdLF9J1siRO3OjMPG/wDBQ6WdJmp0WKyIUjR9mMSUvow38QH/ADKw/Wrvg+MWyWxBnwIQNfiuMRC+41PkprN8BQy1zWLaMfUspUfefbzFTcQxAGHtqpmbtxmMRJCoB8pYfOujjzJQOXn0+/J/ngAxdyQRA1P9dKrzbMFuQIHzqU3CQahvJBgNI/WpJzt2XxjSoaGp4aoacGrFI80ThqeGocNTg1NUwHEJD04PQwanBqYpg7QjPSZ6hzV2ai3g7SUtT7FouYBA9THOIqPDOoYZxK9B6afWisOuVi0ALyBM8xp5wKJOzz4AiaYTRNzDRsef/T1pmJuQAkyBr8+nTf8AkUDtdhKn0Dk000tdcUgwd/50pTYdDDTTTjSULDG1wNLXZaFmoKs3Ktl41cKqjnvEXZX5CI8J3XTzqjtrRdq3NHjlLpC8sIPmRbF1y5kBe0SM9t4lCPTnzDiN+VXXBOGoBnsAl4kK75WjmEbRdusEiah4NghasM7qT30KR/6eviX/ADB4Yf6fM0BjcJcw10otzUqpBJEgEBlM7adaoUJYqmyT1IZk8cX+4dxLFMzAOrW4EQ4gb9efqKrcU6LBUzpvtHOq3EYpmMM0+ZM6nc0Dirxkjr0NZl1bkhmHSqHRZYjiTO0ljMAT6Ab/AL0tvijLpNUVzON/Kmd8ak/qJxKnghILW2IgDekuSOQ2Fa7s9wW0bTYnEBjaU5VRCA1x9yJ5ACl7YcHw6JavYaQjqGa2zS1vMSAfNTB66jzFHLC1GyeOrg8mz+WY21cIrUdnbRuYfFwxUolq8h10e25TcbE97HyrN5Na0fZOyWN9AY7ywVJ6f3tlv+2PegwQlJ0PzzjGLbCuJYd8fbS4FJxGUCR/xQNMsfm6Rvr10yBsQSCCCDBBGoI3BHWtzgMDetk22VTsVzXFVQNdROpHtyqPjPD1dwbkFo8TIT4+gJjxEfm/aqcuktKS78kuDVxvb48UBcO4XhWtKCGlrLO17PpbdcxKZIgjwxB1MyCNKqsNgmchVUknkPv5DzrSvZt2goW2AskkOS2YeGZnqQu0bVZ2sPZZSwtpkYTlBZQPIkGdPOqMeidE2bXbHfPJm8c9tLa4ddhq7LBzNPiJjcaADoB60JxbDMuGszt3l3XmCVtkj+edWF2zadjClABoVM6c9H39KZiMEz2xYRjdYOCvhjYMCupnmKnzY2rVFWCdpN/qUNq0WgAEnYADUz5Dc0bjeEXrIU3bNy3m+HvEZZ9JH0rR9hrQw965evKU7pRGZTKs7BcwEclDa+dabhK4y5dNrEFb+GctnLFWUg/Cycwdj5TQRwcWKza5Y514/nXyeS3rVCHSrridkJcdFOZVdlB6hWIB9wKqLi61PNbWdCD3Kxq08A1NZtVMbNFGMnyY5JMDmlzU+6lQk1u5o9RJNOVhOu1QzUttZBJIER9aJSBosLAtli8HKOQ9N9eXvTGulmgHf9Bv66VCrQPCdJ189BSeGMwJzaR/T0p+7gVt5HMSDqeh2/Sp3ukKQIMjWdPSfMUNdtnecxJ13kE661NhbjgtG/lqdemleT8GtDLWGLITAGU6tO46dKbeRSZBiY+n8FE4w6KqNmkagDY+f9f1oO4RpHvPX9axpLg2Lb5ExCGBp4RoD9ago14Zee+w5+383oW5HIEdZ60uSoOLEVaMwuDZyFRSzHYKCSfQChrVbTsTnKYgWP8AHy28kEBsmY95lzaflmvY4qT5FajK8cHJGWfDlSQQQRuCII9RRvBsKbt5LW2ZgCeg3Yn0AJ9q0naBrheLrWiwVQe8yTOUTlJ5A/Y0uBuYq2A9rD4fIwjOqWiNRqA6t/XSnbNklROs0smK+mafG4cd0UAzQkCByA0gV57x++Hy7+FFU85CiB9IrQcS7R4ruzaIZQYAaIDCNeenzrJcSvZSdj5jYR0607PlW3ayX7O0csTbbKi960mFGjnmqiNJAlgCfXWo8QaTC38h8jow6iZIPyrnWlLk7dcC4dzmGp10MTOuhqG8kMQJIBqyN6wAWRYOoAJJy+YPnVU1wkyaDJFJVdhQdu6NxwHtAtq2bN20LtotnAOhVoiR1G2mlJxDENiC11WDwCCgUKVQbDIPwgdCRprWZtPRFl2VgymCDINULM5Roj/pYRm5rsKPDRc1skZtJtlhMn8jfiHrry1rSdm7Qw85ihcxIJ+GPwxpJ68tOdVvE+Hmz3d4KdQO8Uad28Birb8ipnnOuookcftvZy37SudcuhzpscoYEHLvpOnnTcElilckL1MfXx7Y9BHGsWbt1m56AEDoPKgDiLiHxEEQNH1G3zqvu44AnuwQNvEcxHvAoPFcQmfLb0pubVJrgHT6XZSrguOKcSFwiAQAokT5fb96bY4gcjINjB9x/PoKzZxesz0p39r6afzlU0dZLtsolpE+C3GLAcGY11nXTnt+1Tf71OaLQ1J3gyT5CqFAz68uZgwPlVthcSlpcyLLAas25OkAKNANfPbegWaUn8IN44xVeTSXsVdKDCKSzMwa6QZGaJFseSjflM9Ki4ldaxby25yXR4ro/wCJGhUflXy3MzUPCZt4e7iW0d5tprEd4CHZQf8ALP8AJogYlCqK/wAAABAEwMsTB0MVfjacXZy54qnwrV/r+xlcQ1Ak1dcSv2kb/BUxMEM+VxybLOkcx9ooM45iwFu2qkxGRRm9ornZeZHWxt7egvhmFXRrkhN4GjP5DoP81a/DXVxWbCtYtJ4W7pkQA22UFhmI1gxB9ayJxSqZuE3H5qWJUebODJP+UfPlRH/ia6qFba27eYEEonjhhBh2JYexqmGSCjRBnwTyStfgUt+gmqe9coYmpJyuR0oqkOrqbSisTPUFYbQSdFMilydNQelDZjETpU8wgIbUnYbj+QPnTYy8ANE3cnWTt+0z8vvUly+2QKraAzpEydDqNaHJBTVvFO39fQn5VFbeDNHuQNWFkHQ7MNxz9YrlDREab/WoLdyWLMTz131py3QVbMWnl096JSRm1kt94Ay+pIPPy/hoQmdacrkAjrTKFuwkqFU0RavkbEg+VDV1DyuguH2HC5NajsXcy96MxXME25wSDI56GsfaatJ2TxqpcfNBBtPE7ZgAQfpTtO1vTkSa2L9JqBpsfhke2yEDN8SvtBH4W5ZT10iawWKGUknXmRy669au8XxU3oUGADrOxj+bVSYiWUiQT9xvz9KfrJY2/aJ0OPJBe8p8RuaYi0fYwgMu5IRYB6knZVnnzqe1ctXGIjL+RYG3Qt/NzXPji3PlnSc68FMtMNSYhYYjTQ8tqasVNLuhyLOwlafsrwsXrskwqDN6n8I+dVdng2IY+GxdPojR7mIr0Tstwp7FkJct5Ljy5LkLA2C+sfeunpkk6ZxvtLNKOFuHbAbtnLiP7zUXgQf9WVgpJ6yQPesDibgWRlE/KPPTnXoHaxu7KeNc4JMLrA6z7V51xBiZPz0FHrmmrQP2XucE5AJxEHYfX96i+I6aAakmmXH8qnwYlXUcwpA5mGGg9uVctcujsvhWNW2jGJI6T/SoWEGn2rTEwBr76eZ6VLxEyxMjltsdN681xZl80Q96ep+dOt3D10NQg0oahsKi3xWKAW2BI0JPOTJAPy+5pRjWYGXgdP2HtVddu5gvkI+pP60/CWpO/I/vTd7sVtVcljcUXECqPEpJ15g7x7QfnUD38nhtaETLjfUQQp/Xzq3wBtQrFDmX4so5dSII/rzrl4VhmLFLzoBqA9okf6cwOh5SRHnTHCVWhSnFOmUdq3UjJWx7OcMwrXdAbuRWZhdhBKgkQqk5gTvJ25UnHcJbbCi8LaJcS8bTlFCqwykjwrpOlNjp/ZbEy1iWRRowl0VNwxFZ4ZM8xAkjmJ2g7TzqdLxRpXfb015ftUdlMmZp3GURqQZBPptHoanUOStytAb7mJidJ396mw2HLzEaciYnyHU6VNdVDmOktqJnwxqTvz13pO7MBUBzMYEaltNYj2EetEoNdm7rQLNLSXFKkhgQRoQdCKSaGzR4NKKZNLNGmDRJXUwGnTRJmC0VgLVtixuFgFEgJGZjIG50G87HairvDra2Bc7wlyFYDw5TPxKAPECo3J56UNw4DMxOy23PqYygfNhRpcqwN1ptDcdYVLjorZlUkBoif5t7VGtujeIWpvEgQHOZQNhmO3sZq24RwIXLbXXuLbRWCDQszsRMKB5Ec+daoNugJ5owgpMzy2WJAAJJIAAEkk7AedWyqMNkkBrh1cESqrrNvoSRuehHnVxhmt2gyqcikENdcSwkf8NFkT9dtQKo8VicMCQiXrkHQ3HVQfMqoP3969KHpmQyer44DsZw6CHUgC4SVE6ZZ8Oo29PKhsVgHX4hE67/AG+VG8Cfvz3Swrgf3Sk6NrJXMx0POrizwhjPetDDRhHPzmrMWnhkjaI8+r9KVMx14+E2yfxAjkJhgZ+n1oArkOYkAiRAiZiOWlXPEMOM7KvJiD6TGlAXcJr+vX0qDLBxlwdDFNOJUOp3IphFWpsRtpp/Soxg52j3qWUGUKSZpMOtlzlGJyExBuIwE7fEs5T5nz1q2fhOIs6d749lJY5d+RzEH611dXT0yWSbs5epbxpJFLjbjFma4Tmyxpz0gVnsZcJ/mldXVHqb3Fun6K9jTrTkEHoftXV1Sp8lJZjixIMjxTv5QRFVZMmkrqKU5S7BjBR6FmuArq6hCHBqNwupEfydK6uo4fUDPo1XCeHZ5Ny4UBG0+I6jYch6iieMWEwwTu7YJdS2a5Dcyo8MZeXOa6urvPDGOJNdnz8ssnqFFvj4K/CdoLtp1cLaYqQRNlBBHmgU/Wndoe1VzFZQyW7aKS2S2IUu3xOZJk/vXV1cycmmdSGKD5ooM6wWif0oSc7RzJpa6kt8pFCXY11iDJg+WvSjMPcgSG8hIHvHQcveOtJXUUeJHnygfFMztmOXkNIiFAA09KZfslCASDIBEdD611dQyjw2an4I5pZrq6hTCFBpZrq6iswO4ajGenKebDUAefL3owXURJt5ZcQwO6+gPKurqsj7Ypk0vdJoYbwjWJG0AR61Z8H4stsFLid5aeCy5ipDDZlbkY08waWurdz3ATxxlGmDcTxJvvIARFHhGuVF9Ykmeca1TYlSjZT5HTYg6gg9Irq6k5/kZgVe1dD7F6CCDBGoI3BHMVteBcdS6W70nvjEbZXj/u5xzNdXVunzzg+ANTp4ZV7gTtDeAxTlCZzTEaTOv2n3oe3gWYk5Y0nxLGnlImurqrwxU8nJNnfpYltIMRaUCIEnn09hQ62D+UfIV1dS8kFvY3HJ7Ef/2Q==" group-title="CULTURALES", CAZA Y PESCA
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/152
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-CELdjANhR0c/XpUffPhveLI/AAAAAAAAKhA/6rfGoB6LAzkFqCueSZt22Px7Gb7Zn9x5gCLcBGAsYHQ/s1600/FOX.png" group-title="CINE Y SERIES", FOX CHANNEL
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/153
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-ab9NBjUv3OY/XpUhJr5Hl2I/AAAAAAAAKhM/eSW_eC1FWJQuuvic0e45t0zezWItY-J3wCLcBGAsYHQ/s1600/FOX%2BLIFE.png" group-title="CINE Y SERIES", FOX LIFE
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/154
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-BGd8Vojl-jg/XpUjrO7EKSI/AAAAAAAAKho/hBM3mQxjzL45OUZfvEflsL3Shvz4mvH4wCLcBGAsYHQ/s1600/FX.png" group-title="CINE Y SERIES", FX
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/155
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-62ZfNCmPdIM/XpUkbTrkA0I/AAAAAAAAKhw/6YuWQOJUue8e3Hf91DZhqI8FPw6XP9QHgCLcBGAsYHQ/s1600/FXM.png" group-title="CINE Y SERIES", FXM
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/156
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-fG45KNbWfoI/X3iCmtp5viI/AAAAAAAALPQ/J4zhDNZxrfMYYNUajrid7wS8DoPd4ZbPQCLcBGAsYHQ/s0/E%2521%2B%252852%2529.png" group-title="CINE Y SERIES", FOX PREMIUM ACTION
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/157
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-YKdlxW5Himg/X3iCnNWdDuI/AAAAAAAALPU/8ndExzIw6Z8A8jeBI_dMTD0335zJuUGvQCLcBGAsYHQ/s0/E%2521%2B%252853%2529.png" group-title="CINE Y SERIES", FOX PREMIUM CINEMA
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/158
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-YKdlxW5Himg/X3iCnNWdDuI/AAAAAAAALPU/8ndExzIw6Z8A8jeBI_dMTD0335zJuUGvQCLcBGAsYHQ/s0/E%2521%2B%252853%2529.png" group-title="CINE Y SERIES", FOX PREMIUM MOVIE
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/159
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-TgcAAE0KRII/X3iCl7H5ScI/AAAAAAAALPI/kOe7R2I-0NQagQaAo_ITMSqFmzXJT3TfwCLcBGAsYHQ/s0/E%2521%2B%252849%2529.png" group-title="CINE Y SERIES", FOX PREMIUM CLASSICS
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/160
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-rJZQl2iUrOg/X3iCmfvvVxI/AAAAAAAALPM/IrpERSrqJ6sHogNxD6PmTiy_9AoO9DCFQCLcBGAsYHQ/s0/E%2521%2B%252851%2529.png" group-title="CINE Y SERIES", FOX PREMIUM SERIES
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/161
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-5vfeUl_OqHs/X3iClw25kQI/AAAAAAAALPA/qbE2CNQ_uGkyJXXHJBGtL6W5x7kUrfI6gCLcBGAsYHQ/s0/E%2521%2B%252846%2529.png" group-title="CINE Y SERIES", FOX PREMIUM FAMILY
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/162
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-f-_MjFirotg/X3iCl7np3TI/AAAAAAAALPE/Kks-jWJFS9UlUXFMMDlIONXlr4wf_mrawCLcBGAsYHQ/s0/E%2521%2B%252850%2529.png" group-title="CINE Y SERIES", FOX PREMIUM COMEDY
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/163
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-QAlrxJjzRSc/X3iD32qjdwI/AAAAAAAALPw/kC_-e_GqPbAV1R8wNt2OYtXFT1zD8t_sACLcBGAsYHQ/s0/E%2521%2B%252854%2529.png" group-title="CINE Y SERIES", GOLDEN PLUS
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/164
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-yRTLuwaz6Jo/XpPFPBGr0DI/AAAAAAAAKbQ/-66ukFLb13oNHPyA6Omm0dQMsEvs8_a3ACLcBGAsYHQ/s1600/GOLDEN.png" group-title="CINE Y SERIES", GOLDEN
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/165
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-yRTLuwaz6Jo/XpPFPBGr0DI/AAAAAAAAKbQ/-66ukFLb13oNHPyA6Omm0dQMsEvs8_a3ACLcBGAsYHQ/s1600/GOLDEN.png" group-title="CINE Y SERIES", GOLDEN PREMIER
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/166
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-xLvP5PmYTIs/X3iFF4pPn2I/AAAAAAAALQA/98775uDSy18h12AJ7ZLtjX78DcjuKTVQgCLcBGAsYHQ/s0/E%2521%2B%252856%2529.png" group-title="CINE Y SERIES", CINE CANAL
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/167
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-kpFD_NLG3iE/XpPFKm9TRSI/AAAAAAAAKak/ha36TPdJXmQdutBebCd0u6G0_5I5qQAMQCLcBGAsYHQ/s1600/CINE%2BLATINO.png" group-title="CINE Y SERIES", CINE LATINO
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/168
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-q6tmCVtih8c/X3iFunb_6mI/AAAAAAAALQM/dNs8DvN_K7YvkpcSwm64Qwi2I4VwgBC0QCLcBGAsYHQ/s0/E%2521%2B%252857%2529.png" group-title="CINE Y SERIES", CINEMAX
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/169
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-66iP7t5-Av8/XpZcjLu11FI/AAAAAAAAKkU/k1h0BM5oF_E-OBDXENyjLbdQq5_NGPRpwCLcBGAsYHQ/s1600/TNT.png" group-title="CINE Y SERIES", TNT
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/170
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Q2Ru3GDkfd8/XpZdUavENhI/AAAAAAAAKkg/AgO8WdAESX4wpUA6xMJ8NOb7Fm8MXDeeQCLcBGAsYHQ/s1600/TNT%2BSERIES.png" group-title="CINE Y SERIES", TNT SERIES
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/171
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-IDfFkPvBqh8/XpPFRMOXusI/AAAAAAAAKbg/wvSN2Z-hThkZZWpufujB5LPl5Luir_dtwCLcBGAsYHQ/s1600/HBO.png" group-title="CINE Y SERIES", HBO
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/172
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-cm63SBzoR_4/XpPFRlcmUYI/AAAAAAAAKbk/vFifq-gXyZUn-DFnlm0zp8vEhEaXhWa6ACLcBGAsYHQ/s1600/HBO2.png" group-title="CINE Y SERIES", HBO 2
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/173
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-bvb1TYrAtVg/XpPFQH-YyNI/AAAAAAAAKbY/4vjG8-7H5pc5Ixq-fKks1q1h5OPzqZCWgCLcBGAsYHQ/s1600/HBO%2BPLUS%2B%25281%2529.png" group-title="CINE Y SERIES", HBO +
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/174
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-AF0l1HPqQXM/XpPFPsOiEOI/AAAAAAAAKbU/hC-VzGeNzJoMqNKGE8r6BpPDQr6QUiE8gCLcBGAsYHQ/s1600/HBO%2BFAMILI.png" group-title="CINE Y SERIES", HBO FAMILY
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/175
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-pKpK1mZK6PQ/XpZS9Y-ShPI/AAAAAAAAKiw/wt6BHM_bbRIWPiVPnPRsG6wJn07K0bF-wCLcBGAsYHQ/s1600/HBO%2BMUNDI.png" group-title="CINE Y SERIES", HBO MUNDI
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/177
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Tmdqs5GNnD0/X4SJlYYYrwI/AAAAAAAALSo/q1v2WmlrbiodTZ7zXZn-4hEIkUipb2IWwCLcBGAsYHQ/s0/E%2521%2B%252868%2529.png" group-title="CINE Y SERIES", HBO POP
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/178
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-FraMFYiu1-8/XpZTtYxObjI/AAAAAAAAKi4/jYGdcgUHyVcxlbiaaAcOviZaegU_9IbYgCLcBGAsYHQ/s1600/HBO%2BXTREME.png" group-title="CINE Y SERIES", HBO XTREME
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/179
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-MZEGVESSQRc/XpZXQjen7NI/AAAAAAAAKjs/VxNQpclDwQsQVYN_dbhTJ9xvSITiQlEsQCLcBGAsYHQ/s1600/PARAMOUNT.png" group-title="CINE Y SERIES", PARAMOUNT CHANNEL
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/180
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-QTVhLuMwbAc/X3iHrSp__EI/AAAAAAAALQY/xIL80LtNrQ8u90XeJQmaPoiPtN3w0J0KQCLcBGAsYHQ/s0/E%2521%2B%252858%2529.png" group-title="CINE Y SERIES", SONY
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/181
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-uzi9PoFJziU/XpZZT2d6bzI/AAAAAAAAKkA/yCpjR9qBOPsQMfwsL-GqFW8pIo4vkSrfgCLcBGAsYHQ/s1600/SPACE.png" group-title="CINE Y SERIES", SPACE
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/182
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-2XKH5wuGkVs/X3iI1mt_WoI/AAAAAAAALQg/Tek396FHv2Q3g3n-e8YRUeBM_P3GqFaywCLcBGAsYHQ/s0/E%2521%2B%252859%2529.png" group-title="CINE Y SERIES", STUDIO UNIVERSAL
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/183
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-DEH2tw04_BU/XpPFUiIRwLI/AAAAAAAAKb8/5DVZm0SasO8CKIUBYrg6S0LSWQwUcf76gCLcBGAsYHQ/s1600/UNIVERSAL.png" group-title="CINE Y SERIES", UNIVERSAL
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/184
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-vlKUC61GuPA/XpZgyN_wU5I/AAAAAAAAKk8/Yhwx9p6oG7EnEf3D3zsVL_b-CiGUduMPACLcBGAsYHQ/s1600/WB.png" group-title="CINE Y SERIES", WARNER
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/185
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-crqJWyvtpsw/X4SLFqWa6jI/AAAAAAAALS0/w5rQhzGSlrklFfl6PkAqOSyz86teaUdgACLcBGAsYHQ/s0/E%2521%2B%252869%2529.png" group-title="CINE Y SERIES", ZEEMUNDO
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/186
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-SkUsUKGnVk4/X3iJl-KPfHI/AAAAAAAALQo/P0BnX61uAWQD3d5AUZCeshkS56ki3ExyACLcBGAsYHQ/s0/E%2521%2B%252860%2529.png" group-title="CINE Y SERIES", SYFY
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/187
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-o9-jbje1dkw/X3iKFCgGnPI/AAAAAAAALQ0/SEHDnxVwfqAh8-nnky4QnCWWrTYQ7DcyACLcBGAsYHQ/s0/E%2521%2B%252862%2529.png" group-title="CINE Y SERIES", TCM
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/189
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-S49LSSlQGDs/XpSaHsiAqjI/AAAAAAAAKcs/DBX261QApZkK65j5SiJoUPZXSooRoslKQCLcBGAsYHQ/s1600/A%2526E%2B%25281%2529.png" group-title="CINE Y SERIES", A&E
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/190
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-OGx9K2HM50k/XpSbiUtLbDI/AAAAAAAAKc4/HA9Me8npD-8ke-rt_epb-Wx4mRU3qF00wCLcBGAsYHQ/s1600/AMC.png" group-title="CINE Y SERIES", AMC
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/191
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-KJQStopxlwk/XpSreRTo4GI/AAAAAAAAKdc/QrdeURud51YUawAcHdswkuNYTaCQwkrVQCLcBGAsYHQ/s1600/AXN.png" group-title="CINE Y SERIES", AXN
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/192
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-BOpwRth4LMs/X3YG1RlIouI/AAAAAAAALH4/hABT8lbxx8ARDZ5qEbgebe6-FN6Nz9WMQCLcBGAsYHQ/s0/AZTECA.png" group-title="VARIEDADES", AZ MUNDO
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/193
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-F2Qo3_5NlmA/X3YEu3RiHbI/AAAAAAAALG8/IyWyCQAfO5AK4wZszq2f6eBgAeFgymlrQCLcBGAsYHQ/s0/AZ%2BCORAZONff.png" group-title="VARIEDADES", AZ CORAZON
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/194
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-M7if2yp6Mgk/X3YEu355uHI/AAAAAAAALHA/Ro0Pou76A_QlEmKWUwUser3Mt2kZ5ogbQCLcBGAsYHQ/s0/TLNOVELAS.png" group-title="VARIEDADES", TLNOVELAS
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/195
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-M7if2yp6Mgk/X3YEu355uHI/AAAAAAAALHA/Ro0Pou76A_QlEmKWUwUser3Mt2kZ5ogbQCLcBGAsYHQ/s0/TLNOVELAS.png" group-title="VARIEDADES", GALAVISION
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/196
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-_w30hObDzcM/X3YEuyEmAWI/AAAAAAAALHE/xIw6Xaei1n0FvVbWLxX5xP_bVDm4LbocQCLcBGAsYHQ/s0/E%2521%2B%25281%2529.png" group-title="VARIEDADES", CANAL DE LAS ESTRELLAS
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/197
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-EK7VFSQna5U/XpPFSqbSEkI/AAAAAAAAKbs/rgL3TBrVUXMeZNjpwPbnrFEcNnQd_neZgCLcBGAsYHQ/s1600/PASIONES.png" group-title="VARIEDADES", PASIONES
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/198
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-WwnB8EEvPCE/X3YFlHnT-UI/AAAAAAAALHY/4Vs_GLGb190GbESUjE78W1uq69WyYDsYACLcBGAsYHQ/s0/cxgse.png" group-title="VARIEDADES", A3 SERIES
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/199
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-TTQT98GoMwk/X3YGJUngrWI/AAAAAAAALHk/82krINICoPMO-qRiIYsVhqmGSGgNTVD2ACLcBGAsYHQ/s0/E%2521%2B%25283%2529.png" group-title="VARIEDADES", ANTENA 3
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/201
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-tRkUmIg1Gy4/XpPFVGbUzSI/AAAAAAAAKcA/Vk3etwZA2g092UVs6yINvqOiOgmcYIEawCLcBGAsYHQ/s1600/UNIVICION.png" group-title="VARIEDADES", UNIVISION
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/202
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-KQvfqgmWLSU/XpZoXixmP9I/AAAAAAAAKlo/yfoAtoGX4Z8_pPppNP-BPHuR72Cy2Z17wCLcBGAsYHQ/s1600/TELEMUNDO.png" group-title="VARIEDADES", TELEMUNDO
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/203
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Kih-R8a1itM/X3YG1eCtbZI/AAAAAAAALH0/p5Ufsv2wgRYaGUCnUiQ7zHrnxl8zUgO0wCLcBGAsYHQ/s0/E%2521%2B%25284%2529.png" group-title="VARIEDADES", UNIMAS
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/205
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-yyJa4icTqrA/XpUagnfcnpI/AAAAAAAAKgI/mvCdEcI3h6ckn21UAxG1eqteMLpmZG5wgCLcBGAsYHQ/s1600/E%2521.png" group-title="VARIEDADES", E!
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/206
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-ZDDzg6wPAy4/X3YH0FmzzaI/AAAAAAAALII/rJ4gYpihJVUGxfeujV3W_psHNDth2ROvQCLcBGAsYHQ/s0/E%2521%2B%25285%2529.png" group-title="VARIEDADES", FILM & ARTS
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/207
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-UW4kk4ol2Ss/XpUbQQCQu9I/AAAAAAAAKgQ/_3qlI05-kxYDuDyfrFi8d0kaHAfvGALEwCLcBGAsYHQ/s1600/EL%2BGURMET.png" group-title="VARIEDADES", EL GOURMET
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/208
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-cbXWjhDwdbY/X3YIW3Wl3UI/AAAAAAAALIQ/vh3nyQxBKpsB9TOY50LIzLj-pG2uS53OgCLcBGAsYHQ/s0/E%2521%2B%25286%2529.png" group-title="VARIEDADES", FOOD NETWORK
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/210
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-KLYbyueEs94/X3YIqcs1sqI/AAAAAAAALIY/XeKMv2zecowNjYtNDJTMuSlgk_7pWS6AACLcBGAsYHQ/s0/E%2521%2B%25287%2529.png" group-title="VARIEDADES", FOOD 52
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/211
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-HrdSC1Rj-Ms/X3YJCGb59II/AAAAAAAALIg/isOFk0miEhYhYhs08gq7RF_P9H1gKXzPgCLcBGAsYHQ/s0/E%2521%2B%25288%2529.png" group-title="VARIEDADES", TRUTV
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/212
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-DabUcJwJ1o8/XpUmBeJ-6-I/AAAAAAAAKh8/YBSyTPa5BF8Bq6b0khV65ahYFXW6DJQIwCLcBGAsYHQ/s1600/GLITZ.png" group-title="VARIEDADES", GLITZ
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/213
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-PAeqMLV8RI4/XpZRRhR0JWI/AAAAAAAAKic/OUxnPsD2xfMHQuXBDDiajm8kuivdKG9-QCLcBGAsYHQ/s1600/HOLA%2BTV.png" group-title="VARIEDADES", HOLA TV
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/214
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-kJdLFJW8Bl0/X4SZ4phYhbI/AAAAAAAALTA/cNlLJHyD2GUZ0R7iTwKgUnZ6rEMEsptqQCLcBGAsYHQ/s0/E%2521%2B%252870%2529.png" group-title="VARIEDADES", FORO TV
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/215
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-IYjFFxofbzI/X3YKJMmmbbI/AAAAAAAALI0/9JCSkbJ30PsVKI7yN10HJtuqhQM0SthqwCLcBGAsYHQ/s0/E%2521%2B%252810%2529.png" group-title="VARIEDADES", PORTALFOXMIX
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/217
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-wQOxjOMGhjo/X3YKhxV-zsI/AAAAAAAALI8/t_pH0gVjEL0FR--Yzh0EXWuNECaoLBScQCLcBGAsYHQ/s0/E%2521%2B%252811%2529.png" group-title="VARIEDADES", RADIOM20
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/218
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-UcXnJ-8nm0E/X5IgnAGM0GI/AAAAAAAALXI/anhcNMGWca0KUx3h7V0fL-zLgN6Ca2WOACLcBGAsYHQ/s0/MAQUETA%2B%25281%2529%2B%25282%2529.png" group-title="VARIEDADES", HTV
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/219
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-FhN_wceGDls/X3YLEQ15iAI/AAAAAAAALJE/xMUsI-uAxCI0XOckorMQbiUTYoFx8YTvQCLcBGAsYHQ/s0/E%2521%2B%252813%2529.png" group-title="VARIEDADES", TELE HIT PLUS
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/220
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-BDJbQZI-eUg/X3YLfjkqE8I/AAAAAAAALJU/WEUR_WvtXPoUccYHZ8qjNkA-RQJisW2UwCLcBGAsYHQ/s0/E%2521%2B%252814%2529.png" group-title="VARIEDADES", MTV HITS
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/221
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-gQ300E3tzI0/X3YL0-D9VTI/AAAAAAAALJc/hhIvJO27mUERvM6B9eERUeGXBfS895GrgCLcBGAsYHQ/s0/E%2521%2B%252815%2529.png" group-title="VARIEDADES", MTV
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/222
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-TK6-l0ubtxU/X3ZOWzwZL4I/AAAAAAAALLk/_H-CDKPaiVASswdUdVW7f3yHCvT8z4HWQCLcBGAsYHQ/s0/E%2521%2B%252828%2529.png" group-title="VARIEDADES", CNN EN ESPAÑOL
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/223
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Daz4zJQNaFQ/XpSvwxEdcOI/AAAAAAAAKeE/vebITinWIdEXIjLE3KrAPgeYM9305DakgCLcBGAsYHQ/s1600/CENTRAL%2BCOMEDI.png" group-title="VARIEDADES", COMEDY CENTRAL
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/224
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-n8aluF3gmhw/XpUZswAcKtI/AAAAAAAAKf8/E53YIbiqDQQmwh1wiTgyc0mgdnWnlN9GQCLcBGAsYHQ/s1600/COMEDI.png" group-title="VARIEDADES", DISTRITO COMEDIA
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/225
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-cK2kQzmu2ak/X-3OhlFHB4I/AAAAAAAAL6M/uFFA9RAQgAcpJDg4UClcvDscVtvuExhwwCLcBGAsYHQ/s0/MAQUETA%2B%25282%2529%2B%25281%2529.png" group-title="STARZ", STARZ
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/270
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-cK2kQzmu2ak/X-3OhlFHB4I/AAAAAAAAL6M/uFFA9RAQgAcpJDg4UClcvDscVtvuExhwwCLcBGAsYHQ/s0/MAQUETA%2B%25282%2529%2B%25281%2529.png" group-title="STARZ", EDGE
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/271
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-cK2kQzmu2ak/X-3OhlFHB4I/AAAAAAAAL6M/uFFA9RAQgAcpJDg4UClcvDscVtvuExhwwCLcBGAsYHQ/s0/MAQUETA%2B%25282%2529%2B%25281%2529.png" group-title="STARZ", COMEDY
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/272
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-cK2kQzmu2ak/X-3OhlFHB4I/AAAAAAAAL6M/uFFA9RAQgAcpJDg4UClcvDscVtvuExhwwCLcBGAsYHQ/s0/MAQUETA%2B%25282%2529%2B%25281%2529.png" group-title="STARZ", ACTION
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/276
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-cK2kQzmu2ak/X-3OhlFHB4I/AAAAAAAAL6M/uFFA9RAQgAcpJDg4UClcvDscVtvuExhwwCLcBGAsYHQ/s0/MAQUETA%2B%25282%2529%2B%25281%2529.png" group-title="STARZ", BLACK
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/278
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-cK2kQzmu2ak/X-3OhlFHB4I/AAAAAAAAL6M/uFFA9RAQgAcpJDg4UClcvDscVtvuExhwwCLcBGAsYHQ/s0/MAQUETA%2B%25282%2529%2B%25281%2529.png" group-title="STARZ", WESTERN
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/281
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-u89cwHNqZt4/X4mrjytK2zI/AAAAAAAALUU/PgvhHOVSHXgJYxJMgZOfbjLyOgKce2cOACLcBGAsYHQ/s0/E%2521%2B%252877%2529.png" group-title="DEPORTES", FOX SOCCER PLUS
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/1184
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-DlH85-a9ttM/X3YOFc453hI/AAAAAAAALJ4/1ew9u5ezpvYfwdUKw55e0X-0qqNEZzYWQCLcBGAsYHQ/s0/E%2521%2B%252818%2529.png" group-title="VARIEDADES", CANAL5
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/1186
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-0FDpMHrTBG4/X3YOS8iqnmI/AAAAAAAALJ8/Kz2L4CgNzfc2qHPaebmS8gCkenV3yCZJQCLcBGAsYHQ/s0/E%2521%2B%252819%2529.png" group-title="VARIEDADES", CANAL AZTECA 7
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/1187
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-kfjpHJlZQ8E/X4W60vyHKeI/AAAAAAAALTM/b_a3nbt91WUxb-Xp86Wlrd5RtHJZD44IgCLcBGAsYHQ/s0/E%2521%2B%252871%2529.png" group-title="DEPORTES", TENIS CHANEL
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/1247
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-YK9l836m1Dk/X-iPBJ2sflI/AAAAAAAAL5E/o0uvVZ69LMw0glfYBwhxIVvYavBru7DKwCLcBGAsYHQ/s0/MAQUETA%2B%25282%2529%2B%252818%2529.png" group-title="DEPORTES", FIGHTING SPORTS
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/1248
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-ib8iPDPU3Ns/XsKT2NT_KzI/AAAAAAAAKvk/O68Mb8R8kY8_86hFcH2VMHdfuvJ2Xxb7gCEwYBhgLKtQDAL1OcqxlMZZv_afBLlNonfODD0JX3_Ps7Nb8NmMYz6UrA9qh2yzKjyhAlo3KkusmjiJYS4or_9igGcQHi6MuxmJmho8sX4TCwtQZuEksBKftkHWMttpblD5YsqmAEqyupo2GS1frlcGJFZ5uZ6M51eDniLU2cLRVo46n9YIGXg2XkhGaMDNcBCzRtHb589QXBOWYeRPpLC18F4gPnffOzwaepQZJeqMiWxnPqpzf1WXzzClND94XqUao8xVxwo0rt2pKNJfz5rjxd2P0enxQ4zf6ffXkW3LJ3d1vIdbeaaYDyCzCAbTbE3qqaXxqbbJAjdzDBczjStxn0zuC7os7QrUAt_eezpQvkljmBLxE7iRIZ7JHXdDaBloIlk1nUKHH0bgU2mWmq9_e5TB0AK-zR9Le-axcKXq4DjhhHOgxptg1JWo5Fku6cZJDNHXynuV7LOyWpFf-jwyqEejiZhxd6q3Tbp47ecWvDHwDFKPLiAUViZsPMP34BOgxpAfWxuv4m2wlE78kwKqY1iSOSyk_OwdUUQ_x7ZneHtLIxCY37OjgrvXQh9TEI6vyqF_bjdjI1g_DlbhvHCH80HKN7XqHxOlL_RK7ad6DYZvmZZo6hzK4IvCpMJestoAG/w140-h140-p/HDHF.png" group-title="CULTURALES", NATGEO MUNDO
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/1760
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-2WNodMUptFw/X4szm-n_IeI/AAAAAAAALWo/1gB5jxvk-YkCMlg2P-fLdGQj6wUn4IClgCEwYBhgLKtQDAL1OcqxlMZZv_afBLlNonfODD0JX3_Ps7Nb8NmMYz6UrA9qh2yzKjyhAlo3KkusmjiJYS4or_9igGcQHi6MuxmJmho8sX4TCwtQZuEksBKftkHWMttpblD5YsqmAEqyupo2GS1frlcGJFZ5uZ6M51eDniLU2cLRVo46n9YIGXg2XkhGaMDNcBCzRtHb589QXBOWYeRPpLC18F4gPnffOzwaepQZJeqMiWxnPqpzf1WXzzClND94XqUao8xVxwo0rt2pKNJfz5rjxd2P0enxQ4zf6ffXkW3LJ3d1vIdbeaaYDyCzCAbTbE3qqaXxqbbJAjdzDBczjStxn0zuC7os7QrUAt_eezpQvkljmBLxE7iRIZ7JHXdDaBloIlk1nUKHH0bgU2mWmq9_e5TB0AK-zR9Le-axcKXq4DjhhHOgxptg1JWo5Fku6cZJDNHXynuV7LOyWpFf-jwyqEejiZhxd6q3Tbp47ecWvDHwDFKPLiAUViZsPMP34BOgxpAfWxuv4m2wlE78kwKqY1iSOSyk_OwdUUQ_x7ZneHtLIxCY37OjgrvXQh9TEI6vyqF_bjdjI1g_DlbhvHCH80HKN7XqHxOlL_RK7ad6DYZvmZZo6hzK4IvCpMJestoAG/w140-h119-p/E%2521%2B%252892%2529.png" group-title="DEPORTES", ADRENALINA SPORTS
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/1761
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-I8KBL2O_hKY/X5bx9xQKRfI/AAAAAAAALZo/I4ELxDTsLlw4Kiqr_5eoYTnNaEMswj5wQCLcBGAsYHQ/s0/MAQUETA%2B%25281%2529%2B%252816%2529.png" group-title="DEPORTES", FISHING
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/1762
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-Kn5eBU7hqyU/X5L8Je3jXxI/AAAAAAAALXs/irwZWRThgTs0zp8LzMgtrSq8GX38SHTbACEwYBhgLKtQDAL1OcqxlMZZv_afBLlNonfODD0JX3_Ps7Nb8NmMYz6UrA9qh2yzKjyhAlo3KkusmjiJYS4or_9igGcQHi6MuxmJmho8sX4TCwtQZuEksBKftkHWMttpblD5YsqmAEqyupo2GS1frlcGJFZ5uZ6M51eDniLU2cLRVo46n9YIGXg2XkhGaMDNcBCzRtHb589QXBOWYeRPpLC18F4gPnffOzwaepQZJeqMiWxnPqpzf1WXzzClND94XqUao8xVxwo0rt2pKNJfz5rjxd2P0enxQ4zf6ffXkW3LJ3d1vIdbeaaYDyCzCAbTbE3qqaXxqbbJAjdzDBczjStxn0zuC7os7QrUAt_eezpQvkljmBLxE7iRIZ7JHXdDaBloIlk1nUKHH0bgU2mWmq9_e5TB0AK-zR9Le-axcKXq4DjhhHOgxptg1JWo5Fku6cZJDNHXynuV7LOyWpFf-jwyqEejiZhxd6q3Tbp47ecWvDHwDFKPLiAUViZsPMP34BOgxpAfWxuv4m2wlE78kwKqY1iSOSyk_OwdUUQ_x7ZneHtLIxCY37OjgrvXQh9TEI6vyqF_bjdjI1g_DlbhvHCH80HKN7XqHxOlL_RK7ad6DYZvmZZo6hzK4IvCpMJestoAG/w140-h119-p/MAQUETA%2B%25281%2529%2B%25285%2529.png" group-title="DEPORTES", REDBULL TV
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/1763
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-G-5w4z8xqj8/X5zc2aYFFdI/AAAAAAAALbk/QHsxy2w-fqQFUjM4q2DifjXZgnI8DOanACEwYBhgLKtQDAL1OcqxlMZZv_afBLlNonfODD0JX3_Ps7Nb8NmMYz6UrA9qh2yzKjyhAlo3KkusmjiJYS4or_9igGcQHi6MuxmJmho8sX4TCwtQZuEksBKftkHWMttpblD5YsqmAEqyupo2GS1frlcGJFZ5uZ6M51eDniLU2cLRVo46n9YIGXg2XkhGaMDNcBCzRtHb589QXBOWYeRPpLC18F4gPnffOzwaepQZJeqMiWxnPqpzf1WXzzClND94XqUao8xVxwo0rt2pKNJfz5rjxd2P0enxQ4zf6ffXkW3LJ3d1vIdbeaaYDyCzCAbTbE3qqaXxqbbJAjdzDBczjStxn0zuC7os7QrUAt_eezpQvkljmBLxE7iRIZ7JHXdDaBloIlk1nUKHH0bgU2mWmq9_e5TB0AK-zR9Le-axcKXq4DjhhHOgxptg1JWo5Fku6cZJDNHXynuV7LOyWpFf-jwyqEejiZhxd6q3Tbp47ecWvDHwDFKPLiAUViZsPMP34BOgxpAfWxuv4m2wlE78kwKqY1iSOSyk_OwdUUQ_x7ZneHtLIxCY37OjgrvXQh9TEI6vyqF_bjdjI1g_DlbhvHCH80HKN7XqHxOlL_RK7ad6DYZvmZZo6hzK4IvCpMJestoAG/w140-h119-p/MAQUETA%2B%25281%2529%2B%252827%2529.png" group-title="VARIEDADES", CARACOL TV
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/1764
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-KQvfqgmWLSU/XpZoXixmP9I/AAAAAAAAKls/8f5LvQlWm-ol838vOsSi7iFo32SslJ7EACEwYBhgLKtQDAL1OcqxlMZZv_afBLlNonfODD0JX3_Ps7Nb8NmMYz6UrA9qh2yzKjyhAlo3KkusmjiJYS4or_9igGcQHi6MuxmJmho8sX4TCwtQZuEksBKftkHWMttpblD5YsqmAEqyupo2GS1frlcGJFZ5uZ6M51eDniLU2cLRVo46n9YIGXg2XkhGaMDNcBCzRtHb589QXBOWYeRPpLC18F4gPnffOzwaepQZJeqMiWxnPqpzf1WXzzClND94XqUao8xVxwo0rt2pKNJfz5rjxd2P0enxQ4zf6ffXkW3LJ3d1vIdbeaaYDyCzCAbTbE3qqaXxqbbJAjdzDBczjStxn0zuC7os7QrUAt_eezpQvkljmBLxE7iRIZ7JHXdDaBloIlk1nUKHH0bgU2mWmq9_e5TB0AK-zR9Le-axcKXq4DjhhHOgxptg1JWo5Fku6cZJDNHXynuV7LOyWpFf-jwyqEejiZhxd6q3Tbp47ecWvDHwDFKPLiAUViZsPMP34BOgxpAfWxuv4m2wlE78kwKqY1iSOSyk_OwdUUQ_x7ZneHtLIxCY37OjgrvXQh9TEI6vyqF_bjdjI1g_DlbhvHCH80HKN7XqHxOlL_RK7ad6DYZvmZZo6hzK4IvCpMJestoAG/w140-h119-p/TELEMUNDO.png" group-title="VARIEDADES", TELEMUNDO MIAMI
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/1793
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VARIEDADES", UNIVISION_TLNOVELAS
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/1795
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VARIEDADES", AMERICA
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/1796
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-zwq3gatv-tA/XsKj5qAqZ2I/AAAAAAAAKys/vZlOo3dMPAAWX6AP2RLs1iGIW6s_O4DjwCEwYBhgLKtQDAL1OcqxlMZZv_afBLlNonfODD0JX3_Ps7Nb8NmMYz6UrA9qh2yzKjyhAlo3KkusmjiJYS4or_9igGcQHi6MuxmJmho8sX4TCwtQZuEksBKftkHWMttpblD5YsqmAEqyupo2GS1frlcGJFZ5uZ6M51eDniLU2cLRVo46n9YIGXg2XkhGaMDNcBCzRtHb589QXBOWYeRPpLC18F4gPnffOzwaepQZJeqMiWxnPqpzf1WXzzClND94XqUao8xVxwo0rt2pKNJfz5rjxd2P0enxQ4zf6ffXkW3LJ3d1vIdbeaaYDyCzCAbTbE3qqaXxqbbJAjdzDBczjStxn0zuC7os7QrUAt_eezpQvkljmBLxE7iRIZ7JHXdDaBloIlk1nUKHH0bgU2mWmq9_e5TB0AK-zR9Le-axcKXq4DjhhHOgxptg1JWo5Fku6cZJDNHXynuV7LOyWpFf-jwyqEejiZhxd6q3Tbp47ecWvDHwDFKPLiAUViZsPMP34BOgxpAfWxuv4m2wlE78kwKqY1iSOSyk_OwdUUQ_x7ZneHtLIxCY37OjgrvXQh9TEI6vyqF_bjdjI1g_DlbhvHCH80HKN7XqHxOlL_RK7ad6DYZvmZZo6hzK4IvCpMJestoAG/w140-h140-p/SDGHH.png" group-title="CINE Y SERIES", TBS
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/1797
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VARIEDADES", TELEFE
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/1798
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-h-NIMc8pJA8/X5zc2SeJLCI/AAAAAAAALbY/kb-sCJzVX6ALSvx3t5s_IwgKiQHJeTZFwCLcBGAsYHQ/s0/MAQUETA%2B%25281%2529%2B%252826%2529.png" group-title="VARIEDADES", RCN
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/1800
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE Y SERIES", EUROCHANNEL
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/1801
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE Y SERIES", AZTECA CINEMA
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/1802
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-58kRHDcPIYc/XsKLJrX0V1I/AAAAAAAAKt4/CIYcvbdeG4AVfBi-gCZn4wxDEy4fz2tGQCEwYBhgLKtQDAL1OcqyYEo35LOexkrCFNgadY0PM5nZGoh9YotetlPZDxJ5ACIvlcUNCNCGkTzK8VuX_exiiQ70Zs7DdfFdHf9-8oovL0EWyI-hr5IGbC0kULTWah30boQ8SiPSN-kgxbzakp8qvXsZxymFvzNZo9PkrmeINHZDZ65HHTC9aCUV2X3vuuLGBe6myyAuFWacozGY5ZLW0qhKO95etwvoPi0DqR0OuFHnb16T0-t0hggtCAqjSaJIPlnzxEzXQXEzHJ0n_TGM9b8lY9Kp6e2UcHbyt7WWLW_Hfhkds_sv-ey3Xb0Mip3Npc8Qh_QDv5E7xNwhc1retManwOexomOQYjOxSjIJ--TX_XRCaMLkZDmOelR9b1Xb57oAGn1Mm_d705HkwaaiKlukJh2paGMY701j7KfxCDI_-hU8AND_X-Gt7sZ3xQ5qYbZdGrc8VVsd-Dsmf9xVgdhZUjf82pZhhNO7a5UhU3_ILS2RClKkOEpjOBOXDi9QCdcPSiZZpBCT16cGwMH6o9tpcSucfWl2UZyX1btSXWyHyviMJC2_YVDjRNQ2qYZ32f-R0Dfrj8rQMjrPr_a_b7SyqBp4ZtTVgc0FN1YA9vYkXwZjWoUx4ApSPnuclMMH5uIAG/w140-h140-p/GFJKFTF.png" group-title="VARIEDADES", UNICABLE
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/1968
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VARIEDADES", AZCLIC
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/1969
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CINE Y SERIES", MULTI PREMIERE
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/1970
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VARIEDADES", UNIVERSO
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/2312
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VARIEDADES", IMAGEN
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/2313
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-cbhFkVvZjsA/XsKLKYK5m2I/AAAAAAAAKuE/oTE4Kb9zQKc1dXK7FcCoQTjN4b9TsU1OwCEwYBhgLKtMDAL1OcqxDayTpvY6MUSxvnWIUHMFjbIw0YZwOQD8GEEaQ1WIF076_ZwPf8QaCU3Sm2Tp06G-JdSWE1jQYf-v6eZaDowfLaPImj8IK7Ld2nEVZ1R-qdacbitl-s5hpnRygwd5MmkDjCs_ZOU343KlbOkWutvcTWGf8vvRMEuov7hefxorY_Q8KHc1KSX9nGkFuVsWJL5wnm6JMZFumIx2JGfrw-PKgnoscJZPzbF6bfjTsvBaP-RQpowYI_Ciahu_jz-1mmwU15aKmqVdqrAuklJ4kSf4CzCZupVGyZjwVH2JCr9MdXtmTzQnseGA8SK-sYv5nL2aXZvzJZu1ZHJo8iZXWxm0xTex0n8a4jBIkrvwP0j8IGUMybhxXGfj-iv2BoWbCUbfHCHfJq_egiCvm7z5pyQ_KSH3Yx0hsj--UZJPwbYaT-KXaY2L2_MmCXtwwGcv0iuBOziUauWqC7taoPm5mjhD1C29K7zMfG6NvhEOU9Ofo5fP4DFdpl4OoQ95Zm6FASNKm6XB4cy0OnPon3SHZACK66E4xxOXCbe0wrI9BCJzDbqQv0Bcji9n4iwKJv_atG_skIa5FUmAEC5NDlP9bE0vgEHrk3fUyP5k_14s7lycw1rrFgAY/w140-h140-p/Untitleddfhdf.png" group-title="VARIEDADES", AZTECA UNO
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/2314
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", FC Bayern Munchen TV
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/2463
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CULTURALES", DISCOVERY MAX
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/2464
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANALES PPV", USA | CINEMA PPV 1
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/3749
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANALES PPV", USA | CINEMA PPV 2
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/3750
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANALES PPV", USA | CINEMA PPV 3
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/3751
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANALES PPV", USA | CINEMA PPV 4
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/3752
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANALES PPV", USA | CINEMA PPV 5
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/3753
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CANALES PPV", USA | CINEMA PPV 10
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/3758
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES", STADIUM
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/3855
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CULTURALES", DISCOVERY CIVILIZATION
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4337
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-SvpKIfgCEDk/X5MTxsFMmVI/AAAAAAAALYA/r6qq5l-ASGsBSBvUeKUdv_kAb7yjcBMPwCLcBGAsYHQ/s0/MAQUETA%2B%25281%2529%2B%25287%2529.png" group-title="CANALES 24/7", DRAGON BALL
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/3733
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-SvpKIfgCEDk/X5MTxsFMmVI/AAAAAAAALYA/r6qq5l-ASGsBSBvUeKUdv_kAb7yjcBMPwCLcBGAsYHQ/s0/MAQUETA%2B%25281%2529%2B%25287%2529.png" group-title="CANALES 24/7", DRAGON BALL Z SAGA LOS ANDROIDES
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4579
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-SvpKIfgCEDk/X5MTxsFMmVI/AAAAAAAALYA/r6qq5l-ASGsBSBvUeKUdv_kAb7yjcBMPwCLcBGAsYHQ/s0/MAQUETA%2B%25281%2529%2B%25287%2529.png" group-title="CANALES 24/7", DRAGON BALL Z SAGA LOS SAYAYINES
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4580
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-SvpKIfgCEDk/X5MTxsFMmVI/AAAAAAAALYA/r6qq5l-ASGsBSBvUeKUdv_kAb7yjcBMPwCLcBGAsYHQ/s0/MAQUETA%2B%25281%2529%2B%25287%2529.png" group-title="CANALES 24/7", DRAGON BALL Z SAGA MAJIMBU
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4581
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-SvpKIfgCEDk/X5MTxsFMmVI/AAAAAAAALYA/r6qq5l-ASGsBSBvUeKUdv_kAb7yjcBMPwCLcBGAsYHQ/s0/MAQUETA%2B%25281%2529%2B%25287%2529.png" group-title="CANALES 24/7", DRAGON_BALL_GT
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4582
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-SvpKIfgCEDk/X5MTxsFMmVI/AAAAAAAALYA/r6qq5l-ASGsBSBvUeKUdv_kAb7yjcBMPwCLcBGAsYHQ/s0/MAQUETA%2B%25281%2529%2B%25287%2529.png" group-title="CANALES 24/7", DRAGON BALL SUPER
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4583
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-SvpKIfgCEDk/X5MTxsFMmVI/AAAAAAAALYA/r6qq5l-ASGsBSBvUeKUdv_kAb7yjcBMPwCLcBGAsYHQ/s0/MAQUETA%2B%25281%2529%2B%25287%2529.png" group-title="CANALES 24/7", ALF
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4584
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-SvpKIfgCEDk/X5MTxsFMmVI/AAAAAAAALYA/r6qq5l-ASGsBSBvUeKUdv_kAb7yjcBMPwCLcBGAsYHQ/s0/MAQUETA%2B%25281%2529%2B%25287%2529.png" group-title="CANALES 24/7", LOS_LUNNY TUNES
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4585
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-SvpKIfgCEDk/X5MTxsFMmVI/AAAAAAAALYA/r6qq5l-ASGsBSBvUeKUdv_kAb7yjcBMPwCLcBGAsYHQ/s0/MAQUETA%2B%25281%2529%2B%25287%2529.png" group-title="CANALES 24/7", DIGIMOND
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4586
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-SvpKIfgCEDk/X5MTxsFMmVI/AAAAAAAALYA/r6qq5l-ASGsBSBvUeKUdv_kAb7yjcBMPwCLcBGAsYHQ/s0/MAQUETA%2B%25281%2529%2B%25287%2529.png" group-title="CANALES 24/7", LOS SUPER CAMPEONES
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4587
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-SvpKIfgCEDk/X5MTxsFMmVI/AAAAAAAALYA/r6qq5l-ASGsBSBvUeKUdv_kAb7yjcBMPwCLcBGAsYHQ/s0/MAQUETA%2B%25281%2529%2B%25287%2529.png" group-title="CANALES 24/7", UN SHOW MAS
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4588
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-SvpKIfgCEDk/X5MTxsFMmVI/AAAAAAAALYA/r6qq5l-ASGsBSBvUeKUdv_kAb7yjcBMPwCLcBGAsYHQ/s0/MAQUETA%2B%25281%2529%2B%25287%2529.png" group-title="CANALES 24/7", HORA DE AVENTUA
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4589
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-SvpKIfgCEDk/X5MTxsFMmVI/AAAAAAAALYA/r6qq5l-ASGsBSBvUeKUdv_kAb7yjcBMPwCLcBGAsYHQ/s0/MAQUETA%2B%25281%2529%2B%25287%2529.png" group-title="CANALES 24/7", EL AVATAR
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4590
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-SvpKIfgCEDk/X5MTxsFMmVI/AAAAAAAALYA/r6qq5l-ASGsBSBvUeKUdv_kAb7yjcBMPwCLcBGAsYHQ/s0/MAQUETA%2B%25281%2529%2B%25287%2529.png" group-title="CANALES 24/7", LOS SIMPSON
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4591
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-SvpKIfgCEDk/X5MTxsFMmVI/AAAAAAAALYA/r6qq5l-ASGsBSBvUeKUdv_kAb7yjcBMPwCLcBGAsYHQ/s0/MAQUETA%2B%25281%2529%2B%25287%2529.png" group-title="CANALES 24/7", PHINEAS Y FERD
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4592
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-SvpKIfgCEDk/X5MTxsFMmVI/AAAAAAAALYA/r6qq5l-ASGsBSBvUeKUdv_kAb7yjcBMPwCLcBGAsYHQ/s0/MAQUETA%2B%25281%2529%2B%25287%2529.png" group-title="CANALES 24/7", BEN 10
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4593
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-SvpKIfgCEDk/X5MTxsFMmVI/AAAAAAAALYA/r6qq5l-ASGsBSBvUeKUdv_kAb7yjcBMPwCLcBGAsYHQ/s0/MAQUETA%2B%25281%2529%2B%25287%2529.png" group-title="CANALES 24/7", NARUTO
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4594
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-SvpKIfgCEDk/X5MTxsFMmVI/AAAAAAAALYA/r6qq5l-ASGsBSBvUeKUdv_kAb7yjcBMPwCLcBGAsYHQ/s0/MAQUETA%2B%25281%2529%2B%25287%2529.png" group-title="CANALES 24/7", BOB SPONJA
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4595
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-SvpKIfgCEDk/X5MTxsFMmVI/AAAAAAAALYA/r6qq5l-ASGsBSBvUeKUdv_kAb7yjcBMPwCLcBGAsYHQ/s0/MAQUETA%2B%25281%2529%2B%25287%2529.png" group-title="CANALES 24/7", LOS CABALLEROS DEL ZODIACO
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4596
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-SvpKIfgCEDk/X5MTxsFMmVI/AAAAAAAALYA/r6qq5l-ASGsBSBvUeKUdv_kAb7yjcBMPwCLcBGAsYHQ/s0/MAQUETA%2B%25281%2529%2B%25287%2529.png" group-title="CANALES 24/7", DON GATO
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4597
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-SvpKIfgCEDk/X5MTxsFMmVI/AAAAAAAALYA/r6qq5l-ASGsBSBvUeKUdv_kAb7yjcBMPwCLcBGAsYHQ/s0/MAQUETA%2B%25281%2529%2B%25287%2529.png" group-title="CANALES 24/7", YIMY NEWTROM
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4598
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-SvpKIfgCEDk/X5MTxsFMmVI/AAAAAAAALYA/r6qq5l-ASGsBSBvUeKUdv_kAb7yjcBMPwCLcBGAsYHQ/s0/MAQUETA%2B%25281%2529%2B%25287%2529.png" group-title="CANALES 24/7", LOS PINGUINOS DE MADAGASCAR
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4599
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-SvpKIfgCEDk/X5MTxsFMmVI/AAAAAAAALYA/r6qq5l-ASGsBSBvUeKUdv_kAb7yjcBMPwCLcBGAsYHQ/s0/MAQUETA%2B%25281%2529%2B%25287%2529.png" group-title="CANALES 24/7", SEXO EN LA CIUDAD
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4627
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-ADnPWMuNgLs/XsK9RwAxvcI/AAAAAAAAK28/wKONiScCgvgU1Z8QUXZF10HKJzbywtVqACLcBGAsYHQ/s320/Untitled%2B%25288%2529.png" group-title="REPUBLICA DOMINICANA", TELEMICRO 5
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/1100
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Dmdpxl1bLhA/XsK9OmQrHEI/AAAAAAAAK2M/nfZLUGKbpIctEMVCtCKYfoobT-tdKO2DQCLcBGAsYHQ/s320/Untitled%2B%252813%2529.png" group-title="REPUBLICA DOMINICANA", MICROVISION
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/1105
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-WtVyMmgiWRU/XsK9QMstgvI/AAAAAAAAK2g/LPfMsAUy7nIHMLGXhDF9_N8mv387rIUegCLcBGAsYHQ/s320/Untitled%2B%252818%2529.png" group-title="REPUBLICA DOMINICANA", DIGITAL QUINCE 15
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/1110
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-iYUUSeul_9M/XsPnXoKqBKI/AAAAAAAAK4k/jV_rkeIwpy0i3_-MWzB4c5E63DZBttClwCLcBGAsYHQ/s320/Untitled%2B%252836%2529.png" group-title="REPUBLICA DOMINICANA", SUPER CANAL
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/1128
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-CcqyGwiO7ks/XsPnY3UNk5I/AAAAAAAAK48/CyGL_2ElGOkwWGWxfn-SKEBCT4XIsth7QCLcBGAsYHQ/s320/Untitled%2B%252842%2529.png" group-title="REPUBLICA DOMINICANA", CORAL 39
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/1134
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ECUADOR", ECUADOR | CANAL UNO
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/2817
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MEXICO", ADN 40
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/2828
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MEXICO", QUIERO TV
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/2829
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2WVxg8A.jpg" group-title="COLOMBIA", SEÑAL COLOMBIA
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/3897
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kady79t.jpg" group-title="COLOMBIA", UAO Play
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/3902
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ARGENTINA", Argentina|| 13 Max
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4068
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ARGENTINA", Argentina|| A24
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4070
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ARGENTINA", Argentina|| AMERICA 24. :)
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4073
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ARGENTINA", Argentina|| AMERICA :)
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4074
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ARGENTINA", Argentina|| AMERICA TV
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4075
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ARGENTINA", Argentina|| America TV
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4076
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ARGENTINA", Argentina|| AMERICA TV ARG SD
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4077
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ARGENTINA", Argentina|| AMERICA TV HD.
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4079
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ARGENTINA", Argentina|| America TV.
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4080
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ARGENTINA", Argentina|| C5N  :)
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4083
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ARGENTINA", Argentina|| C5N (Argentina)
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4084
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ARGENTINA", Argentina|| Canal 10  (Córdoba)
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4085
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ARGENTINA", Argentina|| CANAL 26 HD
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4088
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ARGENTINA", Argentina|| CANAL 26 HD (ARG)
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4089
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ARGENTINA", Argentina|| CANAL 26 SD
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4091
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ARGENTINA", Argentina|| Canal 3 Rosario
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4092
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ARGENTINA", Argentina|| Canal 4 Jujuy
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4093
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ARGENTINA", Argentina|| Canal 7 Catamarca
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4094
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ARGENTINA", Argentina|| Cine AR (Argentina)
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4096
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ARGENTINA", Argentina|| CN23. :)
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4097
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ARGENTINA", Argentina|| CRONICA. :)
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4099
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ARGENTINA", Argentina|| DeporTV
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4100
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ARGENTINA", Argentina|| EL NUEVE (Argentina)
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4101
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ARGENTINA", Argentina|| EL NUEVE HD*
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4103
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ARGENTINA", Argentina|| EL NUEVE HD.
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4104
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ARGENTINA", Argentina|| EL NUEVE SD *
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4105
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ARGENTINA", Argentina|| EL TRECE (Argentina)
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4106
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ARGENTINA", Argentina|| EL TRECE EN SD (AR)
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4107
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ARGENTINA", Argentina|| EL TRECE HD
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4108
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ARGENTINA", Argentina|| EL TRECE HD *
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4109
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ARGENTINA", Argentina|| EL TRECE HD.
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4111
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ARGENTINA", Argentina|| GARAGE. :)
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4113
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ARGENTINA", Argentina|| LN  :)
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4116
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ARGENTINA", Argentina|| Net TV (Argentina)
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4118
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ARGENTINA", Argentina|| TELEFE  :)
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4120
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ARGENTINA", Argentina|| Telefe FHD *
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4122
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ARGENTINA", Argentina|| TELEFE HD
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4123
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ARGENTINA", Argentina|| TELEFE HD *
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4124
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ARGENTINA", Argentina|| Telefe Internacional (Argentina)
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4125
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ARGENTINA", Argentina|| TELEFE SD
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4126
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ARGENTINA", Argentina|| TELEMAX :)
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4127
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ARGENTINA", Argentina|| TELESUR  :)
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4128
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ARGENTINA", Argentina|| Television Publica Argentina FHD *
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4129
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ARGENTINA", Argentina|| TLX TELEMAX :)
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4130
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ARGENTINA", Argentina|| TN HD
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4131
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ARGENTINA", Argentina|| TV PUBLICA
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4132
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ARGENTINA", Argentina|| TV PUBLICA
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4133
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ARGENTINA", Argentina|| TV PUBLICA
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4134
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ARGENTINA", Argentina|| TV PUBLICA :)
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4135
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ARGENTINA", Argentina|| TV PUBLICA HD
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4136
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ARGENTINA", Argentina|| TV PUBLICA SD (AR)
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4137
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Canal_6_TCS.png/186px-Canal_6_TCS.png" group-title="BOLIVIA & EL SALVADOR", SAL|6 El Salvador
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4138
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Canal_12_El_Salvador_2018.png/252px-Canal_12_El_Salvador_2018.png" group-title="BOLIVIA & EL SALVADOR", SAL|Canal 12
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4139
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gXLZ9IJ.png" group-title="BOLIVIA & EL SALVADOR", SAL|Canal 19
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4140
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Canal_2_TCS.png" group-title="BOLIVIA & EL SALVADOR", SAL|Canal 2
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4141
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dBocjxd.png" group-title="BOLIVIA & EL SALVADOR", SAL|Canal 23 TVO
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4142
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Canal_4_TCS.png/320px-Canal_4_TCS.png" group-title="BOLIVIA & EL SALVADOR", SAL|Canal 4
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4143
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gXLZ9IJ.png" group-title="BOLIVIA & EL SALVADOR", SAL|Megavision Canal 19
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4145
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/TUTV_11_2014.png/320px-TUTV_11_2014.png" group-title="BOLIVIA & EL SALVADOR", SAL|Tutv Canal 11
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4147
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/TVES_Canal_10.png/320px-TVES_Canal_10.png" group-title="BOLIVIA & EL SALVADOR", SAL|TVES Canal 10
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4148
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/VTV.png/150px-VTV.png" group-title="BOLIVIA & EL SALVADOR", SAL|VTV Canal 35
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4149
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tDzma0F.png" group-title="BOLIVIA & EL SALVADOR", SAL|Wow TV
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4150
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BOLIVIA & EL SALVADOR", BO || ATB &gt;)
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4151
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BOLIVIA & EL SALVADOR", BO || Bolivia TV &gt;)
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4152
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BOLIVIA & EL SALVADOR", BO || Bolivision La Paz
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4155
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BOLIVIA & EL SALVADOR", BO || Bolivision Santa Cruz &gt;)
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4156
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BOLIVIA & EL SALVADOR", BO || Rec Online
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4159
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BOLIVIA & EL SALVADOR", BO || Red Pat La Paz  &gt;)
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4161
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BOLIVIA & EL SALVADOR", BO || Red Uno Santa Cruz &gt;)
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4162
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BOLIVIA & EL SALVADOR", BO || RTP &gt;)
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4163
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BOLIVIA & EL SALVADOR", BO || RTP* &gt;)
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4164
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BOLIVIA & EL SALVADOR", BO || TV U &gt;)
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4166
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BOLIVIA & EL SALVADOR", BO || Unitel
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4167
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BOLIVIA & EL SALVADOR", BO || Unitel La Paz &gt;)
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4168
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BOLIVIA & EL SALVADOR", BOLIVIA || Bolivia TV SD :)
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4173
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BOLIVIA & EL SALVADOR", BOLIVIA || Bolivision HD :)
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4175
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BOLIVIA & EL SALVADOR", BOLIVIA || REC ONLINE :)
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4177
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BOLIVIA & EL SALVADOR", BOLIVIA || RED PAT LA PAZ
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4178
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BOLIVIA & EL SALVADOR", BOLIVIA || RED PAT SANTA CRUZ
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4179
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BOLIVIA & EL SALVADOR", BOLIVIA || RED UNO BOLIVIA :)
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4180
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BOLIVIA & EL SALVADOR", BOLIVIA || RED UNO COCHABAMBA - PROGRAMAS
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4181
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BOLIVIA & EL SALVADOR", BOLIVIA || Red Uno HD
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4182
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BOLIVIA & EL SALVADOR", BOLIVIA || RED UNO LA PAZ - PROGRAMAS
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4183
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BOLIVIA & EL SALVADOR", BOLIVIA || RED UNO SANTA CRUZ - PROGRAMAS
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4184
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BOLIVIA & EL SALVADOR", BOLIVIA || RTP BOLIVIA :)
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4185
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BOLIVIA & EL SALVADOR", BOLIVIA || UNITEL :)
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4187
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HONDURAS", HN|  TELESISTEMA
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4189
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HONDURAS", HN|  TODO DEPORTE
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4191
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HONDURAS", HN|  TVC HD
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4192
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HONDURAS", HN|  VICATV
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4193
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HONDURAS", HN| 13 HN
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4194
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HONDURAS", HN| AZTECA
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4195
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HONDURAS", HN| Azteca Honduras
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4196
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HONDURAS", HN| Campus TV
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4197
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HONDURAS", HN| CANAL 6
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4205
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HONDURAS", HN| DTELEVISION
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4207
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HONDURAS", HN| HCH TV
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4209
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HONDURAS", HN| HCH TV HQ
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4210
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HONDURAS", HN| MAYA TV
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4211
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HONDURAS", HN| MEGATV
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4212
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HONDURAS", HN| SULAVISION
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4214
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HONDURAS", HN| Telecadena
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4216
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HONDURAS", HN| Telecadena HD
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4217
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HONDURAS", HN| TELEPROGRESO
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4219
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HONDURAS", HN| TEN Canal 10
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4220
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HONDURAS", HN| VTV
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4222
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/1280px-Flag_of_Uruguay.svg.png" group-title="URUGUAY", UY:  Eventos Uruguay
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4224
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/df/RdDqt.png" group-title="URUGUAY", UY: Canal 10 SAETA
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4225
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/9e/Logo_Teledoce2007.png" group-title="URUGUAY", UY: Canal 12
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4226
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6IeibLo.png" group-title="URUGUAY", UY: Canal 4
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4228
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Canal_4_Monte_Carlo_TV.png" group-title="URUGUAY", UY: Canal 4 Montecarlo
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4229
+
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/04/canal-4-salto-uruagua-1.png" group-title="URUGUAY", UY: Canal 4 Salto
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4230
+
+#EXTINF:-1 tvg-logo="https://canal7punta.tv/images/logo.png" group-title="URUGUAY", UY: Canal 7 Punta Del Este
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4231
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/CanalA%2BVUruguay2017.png" group-title="URUGUAY", UY: Canal A+V
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4232
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Logo_Televisi%C3%B3n_Nacional_Uruguay.png" group-title="URUGUAY", UY: Canal TNU
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4233
+
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/04/charrua-tv.png" group-title="URUGUAY", UY: Charrua TV
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4234
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/TVCiudad_logo_2020.png" group-title="URUGUAY", UY: Ciudad TV
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4235
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/LaTele_Per%C3%BA_2009_Logo.png" group-title="URUGUAY", UY: La Tele
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4236
+
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple111/v4/d0/77/f6/d077f65c-be07-e820-114d-e64868954dde/pr_source.jpg/1200x630wa.png" group-title="URUGUAY", UY: Latina TV Paysandu
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4237
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag-map_of_Uruguay.png" group-title="URUGUAY", UY: Pantalla IMPO
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4238
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/72/240px-LogoRTVUruguay2012.png" group-title="URUGUAY", UY: RTV
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4239
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TVCiudad_logo_2020.png/140px-TVCiudad_logo_2020.png" group-title="URUGUAY", UY: TV Ciudad
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4241
+
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/9e/96/c8/9e96c8f2-5463-d7e6-1cb1-e4eb5fbc69a5/AppIcon-0-1x_U007emarketing-0-0-85-220-0-6.png/320x0w.png" group-title="URUGUAY", UY: Vera TV
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4242
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/VTVURU.png" group-title="URUGUAY", UY: VTV
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4243
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/VTVURU.png" group-title="URUGUAY", UY: VTV
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4244
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/VTV%2BUruguay.svg/240px-VTV%2BUruguay.svg.png" group-title="URUGUAY", UY: VTV Plus
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4245
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PANAMA & PARAGUAY", PA| Cos
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4261
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PANAMA & PARAGUAY", PA| Cos FC
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4262
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PANAMA & PARAGUAY", PA| ECO TV
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4263
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PANAMA & PARAGUAY", PA| RPC TV
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4267
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Log_sertv-80-retina.png" group-title="PANAMA & PARAGUAY", PA| SER TV
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4268
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PANAMA & PARAGUAY", PA| SERTV
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4269
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PANAMA & PARAGUAY", PA| Telemetro
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4270
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PANAMA & PARAGUAY", PA| TELEMETRO
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4271
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PANAMA & PARAGUAY", PA| TV Max
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4272
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PANAMA & PARAGUAY", PA| TVN
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4274
+
+#EXTINF:-1 tvg-logo="https://ayuda.tigo.co.cr/hc/article_attachments/360037602474/tigo_sports.png" group-title="PANAMA & PARAGUAY", D| Tigo Sports Plus Paraguay HD
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4276
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHILE", CL | 13C
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4277
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHILE", CL | 24 Horas
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4279
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHILE", CL | Canal 13
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4280
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHILE", CL | Canal 24 Horas
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4281
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHILE", CL | CDF
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4282
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHILE", CL | CDF Basico
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4283
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHILE", CL | CDF Basico HD
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4284
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHILE", CL | CDF FHD
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4285
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHILE", CL | CDF HD
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4286
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHILE", CL | CDF PREMIUM
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4287
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHILE", CL | CDO
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4288
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHILE", CL | CDO Basico
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4289
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHILE", CL | CDO Premium
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4290
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHILE", CL | Chilevision
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4291
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHILE", CL | Chilevision FHD
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4292
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHILE", CL | Chilevision HD
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4293
+
+#EXTINF:-1 tvg-logo="https://theme.zdassets.com/theme_assets/240700/dae0ef52ea2086955d824cade19804fb83f9efe2.png" group-title="CHILE", CL | Estadio TNT Sports
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4294
+
+#EXTINF:-1 tvg-logo="https://theme.zdassets.com/theme_assets/240700/dae0ef52ea2086955d824cade19804fb83f9efe2.png" group-title="CHILE", CL | Estadio TNT Sports HD
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4295
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHILE", CL | Etc TV
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4296
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHILE", CL | Etc Tv
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4297
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHILE", CL | La Red
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4298
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHILE", CL | La Red HD
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4299
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHILE", CL | Mega
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4300
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHILE", CL | Mega FHD
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4301
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHILE", CL | MEGA HD
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4302
+
+#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2018_12/large.MegaPlusBlanco.png.2a1fc68a468fbd05424686a30e01ecc7.png" group-title="CHILE", CL | Mega Plus
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4303
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHILE", CL | Rec TV
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4304
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHILE", CL | Sporting HD
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4305
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHILE", CL | Teletrak
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4306
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHILE", CL | Teletrak HD
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4307
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHILE", CL | TV +
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4308
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/TVChile_logo_2016.png" group-title="CHILE", CL | TVN
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4309
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/TVChile_logo_2016.png" group-title="CHILE", CL | TVN HD
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4310
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tDmFf0Y/uno.png" group-title="ECUADOR", EC| Canal Uno
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4477
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tDmFf0Y/uno.png" group-title="ECUADOR", EC| Canal Uno HD
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4478
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Mp8c93g/canelatv.png" group-title="ECUADOR", EC| Canela TV
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4479
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Mp8c93g/canelatv.png" group-title="ECUADOR", EC| Canela TV HQ
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4480
+
+#EXTINF:-1 tvg-logo="https://image.ibb.co/ksKJKU/directv.png" group-title="ECUADOR", EC| Directv Sports
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4481
+
+#EXTINF:-1 tvg-logo="https://image.ibb.co/iky9tp/directv.png" group-title="ECUADOR", EC| Directv Sports HD
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4482
+
+#EXTINF:-1 tvg-logo="https://image.ibb.co/ksKJKU/directv.png" group-title="ECUADOR", EC| Directv Sports Plus FHD
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4483
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nRpvCzY/ecuadortv.png" group-title="ECUADOR", EC| Ecuador TV FHD
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4485
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nRpvCzY/ecuadortv.png" group-title="ECUADOR", EC| Ecuador TV HD
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4486
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1mw4h8v/ecuavisa.png" group-title="ECUADOR", EC| Ecuavisa
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4487
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1mw4h8v/ecuavisa.png" group-title="ECUADOR", EC| Ecuavisa FHD
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4488
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1mw4h8v/ecuavisa.png" group-title="ECUADOR", EC| Ecuavisa HD
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4489
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1mw4h8v/ecuavisa.png" group-title="ECUADOR", EC| Ecuavisa Internacional
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4490
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1mw4h8v/ecuavisa.png" group-title="ECUADOR", EC| Ecuavisa Internacional HD
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4491
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1mw4h8v/ecuavisa.png" group-title="ECUADOR", EC| Ecuavisa Sierra
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4492
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RGFkjtz/canalfut.png" group-title="ECUADOR", EC| El Canal del Futbol FHD
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4493
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RGFkjtz/canalfut.png" group-title="ECUADOR", EC| EL CANAL DEL FUTBOL FHD   ( SOLO EVENTOS)
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4494
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RGFkjtz/canalfut.png" group-title="ECUADOR", EC| EL CANAL DEL FUTBOL HD ( SOLO EVENTOS)
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4496
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RGFkjtz/canalfut.png" group-title="ECUADOR", EC| El Canal del Futbol SD
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4497
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RGFkjtz/canalfut.png" group-title="ECUADOR", EC| EL CANAL DEL FUTBOL SD ( SOLO EVENTOS)
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4498
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QpqjNN4/gamavision.png" group-title="ECUADOR", EC| Gamavision
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4499
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QpqjNN4/gamavision.png" group-title="ECUADOR", EC| Gamavision FHD
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4500
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QpqjNN4/gamavision.png" group-title="ECUADOR", EC| Gamavision HD
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4501
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/GOLTV.png" group-title="ECUADOR", EC| Gol TV (MOVIL)
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4502
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/GOLTV.png" group-title="ECUADOR", EC| GOL TV FHD
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4504
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/GOLTV.png" group-title="ECUADOR", EC| GOL TV HD
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4506
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/GOLTV.png" group-title="ECUADOR", EC| Gol TV HD
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4507
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/GOLTV.png" group-title="ECUADOR", EC| Gol TV | Ecuador
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4509
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/GOLTV.png" group-title="ECUADOR", EC| GOLTV ECUADOR HD
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4511
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/q5DgjbB/oromar.png" group-title="ECUADOR", EC| Oromar Television
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4512
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yFhKrcH/rts.png" group-title="ECUADOR", EC| RTS
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4515
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yFhKrcH/rts.png" group-title="ECUADOR", EC| RTS FHD
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4516
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yFhKrcH/rts.png" group-title="ECUADOR", EC| RTS HD
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4517
+
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/04/Canal-RTU-Ecuador-en-vivo-Online.png" group-title="ECUADOR", EC| RTU
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4518
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/c31nQPt/tcmicanal.png" group-title="ECUADOR", EC| TC Television
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4519
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/c31nQPt/tcmicanal.png" group-title="ECUADOR", EC| TC Television FHD
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4520
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/c31nQPt/tcmicanal.png" group-title="ECUADOR", EC| TC Television HD
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4521
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0cYyZ5N/teleamazonas.png" group-title="ECUADOR", EC| Teleamazonas
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4522
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0cYyZ5N/teleamazonas.png" group-title="ECUADOR", EC| Teleamazonas FHD
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4523
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0cYyZ5N/teleamazonas.png" group-title="ECUADOR", EC| Teleamazonas HD
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4524
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0cYyZ5N/teleamazonas.png" group-title="ECUADOR", EC| Teleamazonas Quito
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4525
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0cYyZ5N/teleamazonas.png" group-title="ECUADOR", EC| Teleamazonas Quito FHD
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4526
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0cYyZ5N/teleamazonas.png" group-title="ECUADOR", EC| Teleamazonas Quito HD
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4527
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0cYyZ5N/teleamazonas.png" group-title="ECUADOR", EC| Teleamazonas Sierra
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4528
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YdSqgvT/tvc.png" group-title="ECUADOR", EC| TVC
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4529
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YdSqgvT/tvc.png" group-title="ECUADOR", EC| TVC FHD
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4530
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YdSqgvT/tvc.png" group-title="ECUADOR", EC| TVC HQ
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4531
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_america-television_m.png" group-title="PERU Y PUERTO RICO", PE| America TV
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4532
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_america-television_m.png" group-title="PERU Y PUERTO RICO", PE| America TV FHD
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4533
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_america-television_m.png" group-title="PERU Y PUERTO RICO", PE| America TV HD
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4534
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/ATV_logo_2020.png/320px-ATV_logo_2020.png" group-title="PERU Y PUERTO RICO", PE| ATV
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4535
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/ATV_logo_2020.png/320px-ATV_logo_2020.png" group-title="PERU Y PUERTO RICO", PE| ATV HD
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4536
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/ATV%2B_%28Peru%29_-_2018_logo.png" group-title="PERU Y PUERTO RICO", PE| ATV+
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4537
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Identidad_Peruana_ipe_2020.png/264px-Identidad_Peruana_ipe_2020.png" group-title="PERU Y PUERTO RICO", PE| Canal Ipe
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4538
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a6/Canal_N.png" group-title="PERU Y PUERTO RICO", PE| Canal N
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4539
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a6/Canal_N.png" group-title="PERU Y PUERTO RICO", PE| Canal N HD
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4540
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/2020_Canal_Capital_logo.svg/316px-2020_Canal_Capital_logo.svg.png" group-title="PERU Y PUERTO RICO", PE| Capital TV
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4541
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg/320px-DirecTV_Sports_Latin_America_-_2018_logo_v2.svg.png" group-title="PERU Y PUERTO RICO", PE| Directv Sports Peru HD
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4542
+
+#EXTINF:-1 tvg-logo="https://exitosanoticias.pe/v1/wp-content/uploads/2018/12/Logoexitosa111.png" group-title="PERU Y PUERTO RICO", PE| Exitosa
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4543
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/320px-FOX_Sports_logo.svg.png" group-title="PERU Y PUERTO RICO", PE| Fox Sports Peru HD
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4544
+
+#EXTINF:-1 tvg-logo="https://image.ibb.co/b6Aob9/golperu.png" group-title="PERU Y PUERTO RICO", PE| Gol Peru
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4546
+
+#EXTINF:-1 tvg-logo="https://image.ibb.co/b6Aob9/golperu.png" group-title="PERU Y PUERTO RICO", PE| Gol Peru HD
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4547
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Logo-latina-2017.png" group-title="PERU Y PUERTO RICO", PE| Latina
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4548
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Logo-latina-2017.png" group-title="PERU Y PUERTO RICO", PE| Latina HD
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4549
+
+#EXTINF:-1 tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" group-title="PERU Y PUERTO RICO", PE| Movistar Deportes
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4551
+
+#EXTINF:-1 tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" group-title="PERU Y PUERTO RICO", PE| Movistar Deportes HQ
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4552
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Movistar_Plus_%28Peru%29_-_2017_logo.png" group-title="PERU Y PUERTO RICO", PE| Movistar Plus
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4553
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Logo_Panamericana_2020.png/240px-Logo_Panamericana_2020.png" group-title="PERU Y PUERTO RICO", PE| Panamericana
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4554
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Logo_Panamericana_2020.png/240px-Logo_Panamericana_2020.png" group-title="PERU Y PUERTO RICO", PE| Panamericana HQ
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4555
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/Peru_magico.png" group-title="PERU Y PUERTO RICO", PE| Peru Magico
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4556
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/Peru_magico.png" group-title="PERU Y PUERTO RICO", PE| Peru Magico FHD
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4557
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/RPP_TV_-_2017_logo.png/240px-RPP_TV_-_2017_logo.png" group-title="PERU Y PUERTO RICO", PE| RPP
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4559
+
+#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/detail/358-3588667_sur-peru-graphics.png" group-title="PERU Y PUERTO RICO", PE| Sur Peru
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4560
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg/320px-Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg.png" group-title="PERU Y PUERTO RICO", PE| Tv Peru
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4561
+
+#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/1191.png" group-title="PERU Y PUERTO RICO", PE| Willax
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4563
+
+#EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/1191.png" group-title="PERU Y PUERTO RICO", PE| Willax HD
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4564
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PERU Y PUERTO RICO", PR| Mega Tv
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4565
+
+#EXTINF:-1 tvg-logo="https://directtvlatam-aem65-prod.adobecqms.net/content/dam/public-sites/channels/puerto-rico/v2/pr/179.png" group-title="PERU Y PUERTO RICO", PR| Punto 2 TV
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4566
+
+#EXTINF:-1 tvg-logo="https://image.ibb.co/k0Vv4z/telemundo.png" group-title="PERU Y PUERTO RICO", PR| Telemundo
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4567
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/u3-0ZnHM4GY/hqdefault.jpg" group-title="PERU Y PUERTO RICO", PR| Teleoro Canal 13
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4568
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Univision_logo.svg/1200px-Univision_logo.svg.png" group-title="PERU Y PUERTO RICO", PR| Univision
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4569
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Univision_logo.svg/1200px-Univision_logo.svg.png" group-title="PERU Y PUERTO RICO", PR| Usa Univision Puerto Rico
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4570
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="PERU Y PUERTO RICO", PR| Wapa
+http://francotv.ml:25461/ALLCODIGOS/5FqBVQjhMH/4571
